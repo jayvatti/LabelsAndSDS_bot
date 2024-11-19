@@ -1,0 +1,31 @@
+# Load environment variables
+python-dotenv
+
+# Amazon Web Services SDK
+boto3
+
+# PDF processing
+pdf2image
+PyMuPDF  # for fitz
+
+# FastAPI and CORS
+fastapi
+uvicorn
+starlette
+
+# WebSocket support for FastAPI
+websockets
+
+# OpenAI API and LangChain support
+openai
+langchain
+langchain-openai
+langchain-core
+langchain-community
+
+# Embeddings and Pydantic (data validation and settings management)
+pinecone-client
+pydantic
+
+# Markdown rendering
+markdown

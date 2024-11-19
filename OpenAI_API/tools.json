@@ -1,0 +1,26 @@
+[
+  {
+    "type": "function",
+    "function": {
+      "name": "vectorDB_tool",
+      "description": "Answers user's questions about Labels and Safety Data Sheets (Formulation related).",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "userInput": {
+            "type": "string",
+            "description": "The question/query the user wants to know."
+          },
+          "namespace": {
+            "type": "string",
+            "description": "Name of the PDF that it is searching in."
+          }
+        },
+        "required": [
+          "userInput",
+          "namespace"
+        ]
+      }
+    }
+  }
+]
