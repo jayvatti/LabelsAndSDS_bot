@@ -26,6 +26,8 @@ def create_assistant():
         instructions=description,
         model="gpt-4o-mini",
         tools=data,
+        top_p=0.5,
+        temperature=0.4
     )
     assistant_id = my_assistant.id
     save_json_file(assistant_id_path, {"assistant_id": assistant_id})

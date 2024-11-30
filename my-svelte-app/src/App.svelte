@@ -1,5 +1,5 @@
 <script>
-  import svelteLogo from './assets/svelte.svg'
+  import svelteLogo from './static/assets/svelte.svg'
   import viteLogo from '/vite.svg'
   import Counter from './lib/Counter.svelte'
 </script>

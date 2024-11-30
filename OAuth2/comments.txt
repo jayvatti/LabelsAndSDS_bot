@@ -1,0 +1,46 @@
+to change the authentication
+
+AppRegistrations> CortevaChatbot
+Manifest -> signInAudience = AzureADMyOrg
+
+app = ConfidentialClientApplication(
+    client_id="34d78561-afe4-4890-85fc-e2b042be0176",
+    client_credential="6b4c5c3c-019c-48ad-b170-b7dea7274627",#secretID
+    #value = 'nmV8Q~8qRT7quSpKiY_OaAZvpWfZCtQkpF7KpciG'
+    authority="https://login.microsoftonline.com/4130bd39-7c53-419c-b1e5-8758d6d63f21"
+)
+
+Redirect URI: http://localhost:1992/auth/redirect
+
+openssl genrsa -out key.pem 2048
+
+openssl req -new -key key.pem -out csr.pem
+
+//sef signed certificate
+openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout key.pem -out cert.pem
+
+http://localhost:1992/search?namespace=my_namespace&query=my_query
+http://localhost:1992/summary?namespace=my_namespace
+http://localhost:1992/auth/logout
+http://localhost:1992/namespaces
+http://localhost:1992/images?
+
+http://localhost:1992/auth/redirect?code=1.ATgAOb0wQVN8nEGx5YdY1tY_IWGF1zTkr5BIhfzisEK-AXYBANk4AA.AgABBAIAAADW6jl31mB3T7ugrWTT8pFeAwDs_wUA9P_-fUTvm-dY5gXMjdt5rubZl9PB6Y0HPbpDKHeB1kBjJZiKTfrFYXsTOkHeiZqQ-M-Zbib8AFtu6dAI-v4S1cM1BCTPXTDo05JK9IGiyOLwa6UbYIiuYYq71gxMfWLxeApj8Gn2jz9lVVRzf78kKuN4rBHYSoTbDyrjhxdLTScRb66yE2qrkET42T5d_CFVDnPDLek2alW88pRIHqtiuedi_pY0ApgRs6PXzAF4DpZsQtkNKAJOrhSwteFqzm_yzQjaKfYroscRzYG3M7SPWfhrFhQ3iBvUTSDflHkxP5_D-ZDYgJmZ-e3zyYcxDfm5DHGwVfto_j88mgjGm_Y3f7bbkkunnsYC-HGfJSeM3rE3RngeOVR9eyuEAO9rZIxTmdjdUg9euphHeozgySP3pTEEfKXtPrEO2uMcfpAP6wzT_nym3xHetUUmGm_yeMKo9ZRUa-rY24iz9YNptzzv1eR7d2FqcOWGVdu3vtc70XM2Vd3XNbXos6khLkkeeezFpdt6EFgXuWZg1bEeeJsqvX8iXVSiLiFvc_LsmS59qu8Ym6OsoaEdhXZTOVOH_oYcAloej7-M06hdqm2EztVz4BqHzrcTAMluQIUadRiZh13QzEdFpix9tHkR5Lpt_7MQdltxG3wfb_XmdcCTEsTYDbx6NvcXu8LkxHeM_coYQ-dSxAdKvgJ9qQ0cAk9PL1KSOv7YTppQrrVPLltTJ4HssXnxuO3afY24kD8zKXQEgoOUfE2Zig3W-EAAi-ue_Ku_CZRRsz8Hm7F_qQHz48A&session_state=663df2ed-2ae7-4d1e-8d6b-6f78fe687c5a#
+
+
+
+curl -X POST http://localhost:1992/auth/token -d "code=1.ATgAOb0wQVN8nEGx5YdY1tY_IWGF1zTkr5BIhfzisEK-AXYBANk4AA.AgABBAIAAADW6jl31mB3T7ugrWTT8pFeAwDs_wUA9P_aet7xtUinGbxtOBVnY93vJUs6ZRZpH4iq_abF_wpj3rsvS1wzWc0G8D6hNohFkDNeQrY0zfch5EIHSKw653fF9WXdTas4ykWajR6fL0dxS9C7W5Bbesd9tffoB33A_BTRsJMeVbrv7IYQAjBreOZB_9bXVuO8lk_OW18-duFsPpoOd_jvidAqf9apbyR9Zq3Q2DxSos4rpOLepA-PlE-C2Y6TXJ_RL5ZIcVBKTEKIxOFan0mvE8SgpHnOZ2P3bbZ2e8ebzBbJzc5j2m7CM-CneXWTTTj1wYKJ7hzIDZ7HdBlGFwVlHVh1NszF0E7RFF6r4SO4vXVxh5zXAdf5NxD2feRv-cwCFSkSnUuk3BEyNp5A1whC17u5KAw9uF9r3qTxvEQzeB9OPUz1Q70jgdzWdJGf4InfzO8oaxpUjx4cIStdXnihYPgetCgesQN0t2tzZos0Q5ci6PkeHZgf0kN4HGt4pk7X2eQHJBun1XOpNTbjYOIpE-CvlPmTaL0lPBqLz9MabwGbNwFhQ_AjuHUky9ogtjM9lpJpYGk1WgTUCMznnBeH95CmrK-gXB0vIOtqXsA0gRTFzmdAzC2PxRJcDEkDsYSqGW4YdDyuWh9FKL9K4Hwqit6hgQZcBoJVCgVhM0apED8DC4wyv3uKE7Rjv_zAJkLXAjAkL0H_wZpxHewbu6VUZPWJk25VUIWe9UV6fk_V8Sp7UBFNK5YQUjK2PnXGJmhm01aG7E8yFK_GmxKrcM0UkFDttC38GpcATjXf1zqgQw"
+
+
+curl -H "Authorization: Bearer 55a29928-2f0d-402e-84bf-bdea19ba05fe" http://localhost:1992/namespaces
+curl -H "Authorization: Bearer 55a29928-2f0d-402e-84bf-bdea19ba05fe" "http://localhost:1992/summary?namespace=example"
+curl -H "Authorization: Bearer 55a29928-2f0d-402e-84bf-bdea19ba05fe" "http://localhost:1992/search?namespace=example&query=test"
+curl -H "Authorization: Bearer 55a29928-2f0d-402e-84bf-bdea19ba05fe" http://localhost:1992/images/your_image.png
+
+
+
+
+
+
+
+

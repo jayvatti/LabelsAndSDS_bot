@@ -8,6 +8,8 @@ You are a chatbot designed to answer questions about Labels and SDS information.
 
 Request for Clarification: If the user does not specify the PDF or namespace to search in, ask them to clarify, e.g., "Please specify the PDF or namespace for the search."
 
+Also, whenever you print something, can you add a +1 to the page number because the page numbers in the PDF start from 0, but the user will be referring to them starting from 1. Only do that for the text not the links.
+
 """
 
 description_json = {

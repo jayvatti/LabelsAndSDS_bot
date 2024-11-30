@@ -16,8 +16,10 @@ OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 class EventHandler(AssistantEventHandler):
     def __init__(self, client, text_queue):
         super().__init__()
+        self.current_run_id = None
         self.client = client
         self.text_queue = text_queue
+        self.run_id = None
 
     @override
     def on_text_created(self, text) -> None:
@@ -41,6 +43,10 @@ class EventHandler(AssistantEventHandler):
 
     @override
     def on_event(self, event):
+        if event.event == 'thread.run.created':
+            self.current_run_id = event.data.id
+            print(f"Run ID: {self.current_run_id}")
+
         if event.event == 'thread.run.requires_action':
             run_id = event.data.id
             self.handle_requires_action(event.data, run_id)
@@ -77,6 +83,7 @@ class AssistantAPI_streaming:
         self.client = client
         self.thread = self.client.beta.threads.create()
         self.assistant_id = assistant
+        self.current_run_id = None
 
     def prompt(self, message):
         self.client.beta.threads.messages.create(
@@ -92,11 +99,14 @@ class AssistantAPI_streaming:
         tempEventHandler = EventHandler(self.client, text_queue)
 
         def run_stream():
-            with self.client.beta.threads.runs.stream(
+            self.current_run = self.client.beta.threads.runs.stream(
                     thread_id=self.thread.id,
                     assistant_id=self.assistant_id,
                     event_handler=tempEventHandler
-            ) as stream:
+            )
+
+            self.current_run_id = tempEventHandler.current_run_id
+            with self.current_run as stream:
                 for text in stream.text_deltas:
                     if hasattr(text, 'value'):
                         pass
@@ -127,6 +137,9 @@ class AssistantAPI_streaming:
 
     def getThread(self):
         return self.thread
+
+    def cancelRun(self):
+        self.client.beta.threads.runs.cancel(thread_id=self.thread.id, run_id=self.current_run_id)
 
 
 def main():
