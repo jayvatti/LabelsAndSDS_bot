@@ -157,10 +157,15 @@ class AssistantAPI_streaming:
             thread_id=self.thread.id,
             run_id=self.current_run_id
         )
+        print(f"Run ID: {self.current_run_id} is cancelling...")
         if run.status == "completed":
-            pass
-        else:
-            self.client.beta.threads.runs.cancel(thread_id=self.thread.id, run_id=self.current_run_id)
+            print(f"Run ID: {self.current_run_id} is already completed.")
+            return
+        if run.status == "canceled":
+            print(f"Run ID: {self.current_run_id} is already cancelled.")
+            return
+        self.client.beta.threads.runs.cancel(thread_id=self.thread.id, run_id=self.current_run_id)
+        print(f"Run ID: {self.current_run_id} cancelled.")
 
 
 def main():

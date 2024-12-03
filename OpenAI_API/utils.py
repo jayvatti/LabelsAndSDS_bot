@@ -10,13 +10,14 @@ def save_json_file(file_path, data):
     with open(file_path, 'w') as file:
         json.dump(data, file)
 
+
 def extract_tags_and_pages(text):
     """
-    Extracts page numbers from tags in the given text.
+    Extracts page numbers from tags in the given text and subtracts 1 from each.
     Args:
         text (str): The input text containing tags.
     Returns:
-        list: A sorted list of unique page numbers found in the text.
+        list: A sorted list of unique page numbers (with 1 subtracted) found in the text.
     """
     # Regular expression to find all tags enclosed in <>
     tags = re.findall(r'<([^<>]+)>', text)
@@ -26,10 +27,12 @@ def extract_tags_and_pages(text):
         # Regular expression to find 'PAGE NUMBER = X' where X is a number
         match = re.search(r'PAGE\s*NUMBER\s*=\s*(\d+)', tag, re.IGNORECASE)
         if match:
-            page_num = int(match.group(1))
-            pages.add(page_num)
+            page_num = int(match.group(1)) - 1
+            if page_num >= 0:  # Ensure page numbers are not negative
+                pages.add(page_num)
 
     return sorted(pages)
+
 
 def add_pages_to_json(input_file, output_file):
     """

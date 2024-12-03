@@ -1,3 +1,5 @@
+import time
+
 from VectorDatabase.VectorDatabase import VectorDatabase
 from VectorDatabase.Pinecone import PineconeDatabase
 from Embeddings.Embedding import Embeddings
@@ -43,6 +45,7 @@ def main():
             }
             print(f"Ingesting {file}(chunk={i})...")
             vectorDatabase.upsert(**kwargs)
+            time.sleep(0.5)
             print("-"*55)
 
     print("-" * 55)

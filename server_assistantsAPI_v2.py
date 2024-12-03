@@ -51,7 +51,7 @@ async def websocket_endpoint(websocket: WebSocket):
     try:
         while True:
             data = await websocket.receive_text()
-            print(f"Received message: {data}")
+            print(f"Received message: '{data}', type: {type(data)}, len: {len(data)}")
             if data == "__STOP__":
                 print("hey sup")
                 assistant_run.cancelRun()

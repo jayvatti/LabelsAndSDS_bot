@@ -191,7 +191,7 @@ def log_matched_lines(section_idx, target_line, matched_line, similarity, page_n
 if __name__ == "__main__":
     # Paths
     text_sections_json = 'vectorRes.json'
-    pdf_name = 'test2.pdf'  # Replace with your actual PDF file name if different
+    pdf_name = 'AccordXRT2.pdf'  # Replace with your actual PDF file name if different
     pdf_path = f'../PDF_Extraction/AWS_Textract/Inputs/{pdf_name}'
     output_pdf_path = '../PDF_Extraction/AWS_Textract/GET/highlighted.pdf'
 

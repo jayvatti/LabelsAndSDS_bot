@@ -15,6 +15,6 @@ def save_all_pages_as_png(pdf_filepath: str, output_dir: str) -> None:
 
 
 if __name__ == "__main__":
-    pdf_filepath = 'Inputs/test2.pdf'
+    pdf_filepath = 'Inputs/AccordXRT2.pdf'
     output_dir = 'PNG_Cache'
     save_all_pages_as_png(pdf_filepath, output_dir)

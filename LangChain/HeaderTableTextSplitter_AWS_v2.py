@@ -5,133 +5,94 @@ import logging
 
 
 class HeaderTableTextSplitter(TextSplitter):
-    def __init__(self, chunk_size: int = 1000, debug: bool = False, minimum_content_length: int = 200):
-        """
-        Initializes the HeaderTableTextSplitter.
-
-        :param chunk_size: Maximum size of each chunk.
-        :param debug: If True, enables debug logging.
-        :param minimum_content_length: Minimum number of characters to consider a chunk substantial.
-        """
-        super().__init__(chunk_size)
-        self.chunk_size = chunk_size
+    def __init__(
+        self,
+        target_chunk_size: int = 1000,
+        debug: bool = False,
+        minimum_content_length: int = 300,
+        max_chunk_size: Optional[int] = None,
+    ):
+        super().__init__(chunk_size=target_chunk_size)
+        self.target_chunk_size = target_chunk_size
         self.debug = debug
         self.minimum_content_length = minimum_content_length
+        self.max_chunk_size = max_chunk_size if max_chunk_size else int(target_chunk_size * 1.5)
         if self.debug:
             logging.basicConfig(level=logging.DEBUG, format="%(levelname)s: %(message)s")
+
+    def is_tag_with_number(self, segment: str) -> bool:
+        """
+        Checks if the first 55 characters of a segment contain a <BOLD> or <HEADING>
+        tag with a number inside.
+
+        :param segment: The text segment to check.
+        :return: True if it contains a tag with a number, False otherwise.
+        """
+        snippet = segment[:55]
+        pattern = r'<(BOLD|HEADING)[^>]*>\s*\d+\s*</\1>'
+        match = re.search(pattern, snippet, flags=re.IGNORECASE)
+        if self.debug:
+            logging.debug(f"Checking for tag with number in snippet: {snippet}")
+            logging.debug(f"Tag with number found: {bool(match)}")
+        return bool(match)
 
     def split_text(self, text: str) -> List[str]:
         if self.debug:
             logging.debug("Starting text splitting process.")
 
-        # Pattern to match either <HEADING> tags or {TABLE EXTRACT} tags
-        split_pattern = re.split(r'(<HEADING.*?>|<\/HEADING>|\{.*?TABLE EXTRACT DONE\})', text, flags=re.DOTALL)
+        # Define regex pattern for splitting text before <HEADING> or <BOLD> tags
+        split_pattern = r'(?=<HEADING[^>]*?>)|(?=<BOLD[^>]*?>)'
 
-        chunks: List[str] = []
-        current_chunk: Optional[str] = None
-        heading_buffer: List[str] = []
-        inside_table: bool = False
+        # Split the text at positions before a <HEADING> or <BOLD> tag
+        segments = re.split(split_pattern, text, flags=re.DOTALL)
 
-        for part in split_pattern:
-            if self.debug:
-                logging.debug(f"Processing part: {part[:50]}...")  # Logs the beginning of each part for context
-
-            # Check for table extract tags
-            if part.startswith("{['TABLE EXTRACT']}"):
-                if current_chunk:
-                    chunks.append(current_chunk.strip())
-                    if self.debug:
-                        logging.debug(f"Appended chunk: {current_chunk[:50]}...")
-                current_chunk = part
-                inside_table = True
-                heading_buffer = []  # Clear heading buffer when entering table
-                continue
-            elif part.startswith("{['TABLE EXTRACT DONE']}"):
-                if inside_table and current_chunk:
-                    chunks.append(current_chunk.strip())
-                    if self.debug:
-                        logging.debug(f"Appended table chunk: {current_chunk[:50]}...")
-                    current_chunk = None
-                    inside_table = False
-                continue
-
-            # Check for heading tags
-            if re.match(r'<HEADING.*?>', part, flags=re.DOTALL):
-                # Buffer the heading
-                heading_buffer.append(part)
-                if self.debug:
-                    logging.debug(f"Buffered heading: {part[:50]}...")
-                continue
-            elif re.match(r'<\/HEADING>', part, flags=re.DOTALL):
-                # Closing heading tag, can ignore or process if needed
-                continue
-
-            # If part is content
-            if heading_buffer:
-                # If there's buffered headings, prepend them to the current chunk
-                buffered_headings = "\n".join(heading_buffer)
-                heading_buffer = []  # Clear the buffer
-
-                if current_chunk:
-                    # Check if adding buffered headings exceeds chunk size
-                    if len(current_chunk) + len(buffered_headings) + len(part) > self.chunk_size:
-                        # Finalize the current chunk
-                        chunks.append(current_chunk.strip())
-                        if self.debug:
-                            logging.debug(f"Appended chunk with buffered headings: {current_chunk[:50]}...")
-                        current_chunk = buffered_headings + "\n" + part
-                    else:
-                        # Append buffered headings to the current chunk
-                        current_chunk += "\n" + buffered_headings + "\n" + part
-                else:
-                    current_chunk = buffered_headings + "\n" + part
-                if self.debug:
-                    logging.debug(f"Added buffered headings to current chunk.")
-            else:
-                if current_chunk:
-                    # Check if adding the new part would exceed chunk size
-                    if len(current_chunk) + len(part) > self.chunk_size:
-                        # Check if current_chunk has substantial content
-                        content_length = len(re.sub(r'<HEADING.*?>|<\/HEADING>|\{.*?\}', '', current_chunk))
-                        if content_length >= self.minimum_content_length:
-                            chunks.append(current_chunk.strip())
-                            if self.debug:
-                                logging.debug(f"Appended substantial chunk: {current_chunk[:50]}...")
-                            current_chunk = part
-                        else:
-                            # If not enough content, append to current chunk without splitting
-                            current_chunk += "\n" + part
-                            if self.debug:
-                                logging.debug(f"Appended to chunk without splitting due to insufficient content.")
-                    else:
-                        current_chunk += "\n" + part
-                else:
-                    current_chunk = part
-
-        # After processing all parts, handle any remaining buffer and chunk
-        if heading_buffer:
-            buffered_headings = "\n".join(heading_buffer)
-            if current_chunk:
-                if len(current_chunk) + len(buffered_headings) <= self.chunk_size:
-                    current_chunk += "\n" + buffered_headings
-                else:
-                    chunks.append(current_chunk.strip())
-                    if self.debug:
-                        logging.debug(f"Appended final chunk before adding buffered headings.")
-                    current_chunk = buffered_headings
-            else:
-                current_chunk = buffered_headings
-
-        if current_chunk:
-            chunks.append(current_chunk.strip())
-            if self.debug:
-                logging.debug(f"Final appended chunk: {current_chunk[:50]}...")
+        # Filter out empty strings
+        segments = [seg.strip() for seg in segments if seg.strip()]
 
         if self.debug:
-            logging.debug("Finished text splitting.")
+            logging.debug(f"Total segments identified: {len(segments)}")
 
-        # Optionally, filter out empty chunks and ensure stripping
-        return [chunk.strip() for chunk in chunks if chunk.strip()]
+        chunks: List[str] = []
+        current_chunk: List[str] = []
+
+        for idx, segment in enumerate(segments):
+            if self.debug:
+                snippet = (segment[:50] + '...') if len(segment) > 50 else segment
+                logging.debug(f"Processing segment {idx + 1}: {snippet}")
+
+            # Check if the segment starts with a tag containing a number
+            if self.is_tag_with_number(segment):
+                # Merge the segment with the previous chunk
+                if self.debug:
+                    logging.debug("Merging segment with previous chunk due to tag with number.")
+                current_chunk.append(segment)
+                continue
+
+            # Add the current segment to the chunk
+            current_chunk.append(segment)
+
+            # Check if the combined chunk meets the minimum content length
+            combined_chunk = "\n".join(current_chunk)
+            if len(combined_chunk) >= self.minimum_content_length:
+                # Emit the combined chunk
+                chunks.append(combined_chunk.strip())
+                if self.debug:
+                    logging.debug(f"Emitting chunk: {combined_chunk[:50]}...")
+                # Reset current_chunk
+                current_chunk = []
+
+        # Finalize any remaining content in the current chunk
+        if current_chunk:
+            final_chunk = "\n".join(current_chunk).strip()
+            if final_chunk:
+                chunks.append(final_chunk)
+                if self.debug:
+                    logging.debug(f"Emitting final chunk: {final_chunk[:50]}...")
+
+        if self.debug:
+            logging.debug(f"Total chunks created: {len(chunks)}")
+
+        return chunks
 
 
 def main():
@@ -139,14 +100,21 @@ def main():
         with open(file_path, 'r', encoding='utf-8') as file:
             return file.read()
 
-    file_path = '../PDF_Extraction/AWS_Textract/Outputs/test2.txt'
+    # Update the file path as needed
+    file_path = '../PDF_Extraction/AWS_Textract/Outputs/DuPontMatrixLabel.txt'
 
     text = read_text_file(file_path)
 
-    splitter = HeaderTableTextSplitter(debug=True, minimum_content_length=200)
+    # Initialize the splitter with desired parameters
+    splitter = HeaderTableTextSplitter(
+        target_chunk_size=1000,          # Desired chunk size
+        debug=True,                      # Enable debug logging
+        minimum_content_length=300,      # Minimum content length
+        max_chunk_size=1500              # Maximum chunk size (optional)
+    )
     chunks = splitter.split_text(text)
 
-    for i, chunk in enumerate(chunks[:50], 1):
+    for i, chunk in enumerate(chunks, 1):
         print(f"Chunk {i}:\n{chunk}")
         print('-' * 40)
 

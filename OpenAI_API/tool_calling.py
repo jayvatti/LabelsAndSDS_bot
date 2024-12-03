@@ -7,9 +7,15 @@ from LangChain.OpenAI_Model import OpenAI_Model
 from Embeddings.Embedding import Embeddings
 from Embeddings.text_embedding_3_large import text_embedding_3_large_openAI
 import os
+from difflib import get_close_matches
 import json
 from OpenAI_API.utils import *
 from openai import OpenAI
+from pinecone import Pinecone
+import re
+
+
+
 
 load_dotenv()
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
@@ -17,6 +23,12 @@ OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 llm_database: VectorDatabase = PineconeDatabase()
 
 embedding_llm: Embeddings = text_embedding_3_large_openAI()
+
+
+load_dotenv()
+PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
+pinecone = Pinecone(api_key=PINECONE_API_KEY)
+
 
 
 def getPDFSummary(namespace):
@@ -147,11 +159,38 @@ def highlight_search_strings_in_pdf(
 
 
 def vectorDB_tool(userInput: str, namespace: str):
-    top_k = 5
+    print("User Input: ", userInput)
+    namespace = checkNamespace(namespace)
+    if not namespace:
+        return f"No namespace found for '{namespace}'."
+
+    top_k = 15
+    #check if namespace has the word "Label" in it
+    if "SDS" in namespace:
+        top_k = 7
+
+    userInput = userInput.lower()
+    userInput += f". Product Name is {namespace}"
     embedding_data = embedding_llm.embedding(userInput)
+
+    temp_chunk = str(remove_tags_and_stopwords(userInput))
+
+    sparse_vector = pinecone.inference.embed(
+        model="pinecone-sparse-english-v0",
+        inputs=temp_chunk,
+        parameters={"input_type": "passage", "return_tokens": True}
+    )
+
+    indices_list = sparse_vector.data[0]["sparse_indices"]
+    values_list = sparse_vector.data[0]["sparse_values"]
+    tokens_list = sparse_vector.data[0]["sparse_tokens"]
+
     kwargs = {
         "index_name": "rag-model",
         "embedding": embedding_data["Embedding"],
+        "indices": indices_list,
+        "values": values_list,
+        "tokens": tokens_list,
         "namespace": namespace,
         "top_k": top_k
     }
@@ -159,7 +198,7 @@ def vectorDB_tool(userInput: str, namespace: str):
     # Query the vector database
     query_results = llm_database.query(**kwargs)
 
-    vector_str = "Query Search Results: (Please Render LocalHost Links if Available. Always put the LocalHost Link whenever the user asks for the table) "
+    vector_str = "Query Search Results: "
     search_strings = []
     vector_array = []
 
@@ -181,12 +220,42 @@ def vectorDB_tool(userInput: str, namespace: str):
     add_pages_to_json("vectorRes.json", "vectorRes.json")
 
     vector_str += ". IMPORTANT: Only answer if the information is found in the Query Search Results. Do NOT make up or assume any information. If the information isn't available, clearly respond with something like 'I couldn't find the information in the database results.' PLEASE STRICTLY FOLLOW THIS AND DO NOT MAKE THINGS UP OR SAY SOMETHING IS THERE WHEN IT ISN'T!!."
-    return vector_str
+    vector_str += "(Please Render LocalHost Links if Available. Always render the LocalHost Link whenever the user asks for the table) instead of giving the link to the user. Whenever you see a table, please render the LocalHost Link.)"
+    return vector_str.lower()
 
 
 def returnPDF(namespace: str, page_number: str):
+    namespace = checkNamespace(namespace)
+    if not namespace:
+        return f"No namespace found for '{namespace}'."
     page_number = int(page_number)
     if page_number < 0:
         return f"The PDF for the namespace is at localhost:5151/{namespace}.pdf"
     else:
-        return f"The PDF for the {page_number+1} is localhost:5151/{namespace}.pdf#page={page_number+1}"
+        return f"The PDF for the {page_number} is localhost:5151/{namespace}.pdf#page={page_number}"
+
+
+def getNamespaces():
+    inputDir = "PDF_Extraction/AWS_Textract/Inputs/Namespaces.json"
+    # Read the JSON file and parse it into a Python object
+    with open(inputDir, "r") as file:
+        namespace = json.load(file)
+    return namespace
+
+
+def checkNamespace(namespace: str):
+    namespaces = getNamespaces()
+    namespace_names = [ns["NamespaceName"].lower() for ns in namespaces]
+    best_match = get_close_matches(namespace.lower(), namespace_names, n=1, cutoff=0.6)
+    if best_match:
+        # Find and return the corresponding namespace dictionary
+        match = best_match[0]
+        for ns in namespaces:
+            if ns["NamespaceName"].lower() == match:
+                print(f"Matched namespace: {ns['NamespaceName']}")
+                return ns['NamespaceName']
+    return None
+
+
+
+

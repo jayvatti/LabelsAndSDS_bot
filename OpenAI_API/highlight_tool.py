@@ -6,6 +6,8 @@ import os
 import sys
 from collections import defaultdict
 import argparse
+from OpenAI_API.tool_calling import checkNamespace
+
 
 # Function Definitions
 
@@ -252,7 +254,12 @@ def group_rects(rects, max_vertical_distance=50):
     groups.append(current_group)
     return groups
 
+
 def highlight_pdf(namespace):
+    namespace = checkNamespace(namespace)
+    if not namespace:
+        return f"No namespace found for '{namespace}'."
+
     """
     Highlights the PDF based on the provided namespace.
 
@@ -282,6 +289,7 @@ def highlight_pdf(namespace):
         (0.5, 0.5, 1),    # Light Blue
         (1, 0.5, 1),      # Magenta
         (0.5, 1, 1),      # Cyan
+        (1, 0.5, 0.5),    # Light Red
     ]
     color_mapping = {idx: highlight_colors[idx % len(highlight_colors)] for idx in range(len(sorted_data))}
 

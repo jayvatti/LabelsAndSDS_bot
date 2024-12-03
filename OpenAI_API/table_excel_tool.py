@@ -173,7 +173,7 @@ def save_tables_to_excel(textract_response_path, output_excel_path):
 def getExcel(namespace, page_number, table_number):
     current_path = os.getcwd()
     print(f"Current Path: {current_path}\n")
-    page_number = int(page_number)
+    page_number = int(page_number) - 1
     table_number = int(table_number)
     """
     Saves tables extracted from a specific page of a Textract JSON file to an Excel file and provides relevant info.
