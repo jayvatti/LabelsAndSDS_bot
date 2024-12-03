@@ -1,8 +1,10 @@
+import time
+
 from VectorDatabase.VectorDatabase import VectorDatabase
 from VectorDatabase.Pinecone import PineconeDatabase
 from Embeddings.Embedding import Embeddings
 from Embeddings.text_embedding_3_large import text_embedding_3_large_openAI
-from LangChain.HeaderTableTextSplitter_AWS import HeaderTableTextSplitter
+from LangChain.HeaderTableTextSplitter_AWS_v2 import HeaderTableTextSplitter
 
 import os
 import json
@@ -43,6 +45,7 @@ def main():
             }
             print(f"Ingesting {file}(chunk={i})...")
             vectorDatabase.upsert(**kwargs)
+            time.sleep(0.5)
             print("-"*55)
 
     print("-" * 55)

@@ -1,0 +1,14 @@
+[
+  {
+    "NamespaceName": "AccordXRT2",
+    "Type": "Label"
+  },
+  {
+    "NamespaceName": "EmbedExtraLabel",
+    "Type": "Label"
+  },
+  {
+    "NamespaceName": "DuPontMatrixSDS",
+    "Type": "SDS"
+  }
+]

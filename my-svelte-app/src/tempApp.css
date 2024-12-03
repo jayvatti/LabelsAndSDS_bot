@@ -98,6 +98,14 @@ body {
     max-width: 100%;
     overflow-x: hidden;
 }
+.text img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 7px;
+    border: 1px solid white
+}
+
 
 .message.user .text {
     background-color: #2C2C2C;

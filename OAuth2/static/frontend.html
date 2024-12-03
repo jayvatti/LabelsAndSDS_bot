@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OAuth2 FastAPI App Frontend</title>
+    <script>
+        async function getNamespaces() {
+            try {
+                const response = await fetch("/namespaces", {
+                    method: "GET",
+                    credentials: "include"  // Include cookies in the request
+                });
+
+                if (response.ok) {
+                    const data = await response.json();
+                    document.getElementById("namespaces").innerText = JSON.stringify(data.namespaces, null, 2);
+                } else {
+                    const error = await response.json();
+                    alert(`Error: ${error.detail}`);
+                }
+            } catch (error) {
+                console.error("Error fetching namespaces:", error);
+                alert("An error occurred while fetching namespaces.");
+            }
+        }
+
+        async function logout() {
+            try {
+                const response = await fetch('/auth/logout', {
+                    method: 'GET',
+                    credentials: 'include'  // Include cookies in the request
+                });
+
+                if (response.ok) {
+                    alert("Logged out successfully.");
+                    location.reload();
+                } else {
+                    const error = await response.json();
+                    alert(`Error: ${error.detail}`);
+                }
+            } catch (error) {
+                console.error("Error during logout:", error);
+                alert("An error occurred during logout.");
+            }
+        }
+    </script>
+</head>
+<body>
+    <h1>OAuth2 FastAPI App Frontend</h1>
+    <button onclick="getNamespaces()">Get Namespaces</button>
+    <button onclick="logout()">Logout</button>
+    <h2>Namespaces:</h2>
+    <pre id="namespaces">No data fetched yet.</pre>
+</body>
+</html>

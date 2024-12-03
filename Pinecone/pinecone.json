@@ -1,5 +1,8 @@
 {
     "files": [
-        "test2_combined.txt"
+        "DuPontMatrixLabel.txt",
+        "DuPontMatrixSDS.txt",
+        "EmbedExtraLabel.txt",
+        "AccordXRT2.txt"
     ]
 }

@@ -66,7 +66,7 @@ def main():
         with open(file_path, 'r', encoding='utf-8') as file:
             return file.read()
 
-    file_path = '../PDF_Extraction/AWS_Textract/Outputs/test2_combined.txt'
+    file_path = '../PDF_Extraction/AWS_Textract/Outputs/test2_combined_v2.txt'
 
     text = read_text_file(file_path)
 

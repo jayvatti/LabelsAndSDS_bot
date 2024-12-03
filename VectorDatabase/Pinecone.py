@@ -42,6 +42,10 @@ class PineconeDatabase(VectorDatabase):
             string = kwargs.get("string")
             namespace = kwargs.get("namespace")
             id_ = kwargs.get("id_")
+            sparse_values = kwargs.get("values")
+            sparse_indices = kwargs.get("indices")
+            sparse_tokens = kwargs.get("tokens")
+
 
             self.logger.debug(f"Upserting into index: {index_name} with ID: {id_}")
 
@@ -49,7 +53,14 @@ class PineconeDatabase(VectorDatabase):
             vector = {
                 "id": id_,
                 "values": embedding,
-                "metadata": {"text": string}
+                "sparse_values": {
+                    "values": sparse_values,
+                    "indices": sparse_indices,
+                },
+                "metadata": {
+                    "text": string,
+                    "tokens": sparse_tokens
+                }
             }
             index.upsert(
                 vectors=[vector],
@@ -83,6 +94,11 @@ class PineconeDatabase(VectorDatabase):
                 vector=embedding,
                 namespace=namespace,
                 top_k=top_k,
+                sparse_vector={
+                    "values": sparse_values,
+                    "indices": sparse_indices
+                },
+                # filter={"tokens": {"$in": sparse_tokens}},
                 include_values=True,
                 include_metadata=True
             )

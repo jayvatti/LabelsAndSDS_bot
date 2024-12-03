@@ -22,5 +22,77 @@
         ]
       }
     }
+  },
+  {
+    "type": "function",
+    "function": {
+      "name": "returnPDF",
+      "description": "Returns the PDF of namespace which isn't highlighted or annotated.",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "namespace": {
+            "type": "string",
+            "description": "Name of the PDF that it is searching in."
+          },
+            "page_number": {
+                "type": "string",
+                "description": "The Page number that the table is in. If the user asks for the whole PDF without giving the page number, then the page number is -1."
+            }
+        },
+        "required": [
+          "namespace",
+          "page_number"
+        ]
+      }
+    }
+  },
+  {
+    "type": "function",
+    "function": {
+      "name": "getExcel",
+      "description": "Makes an Excel for a given table when the user asks to make an Excel explicitly.",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "namespace": {
+            "type": "string",
+            "description": "Name of the PDF that it is searching in."
+          },
+          "page_number": {
+            "type": "string",
+            "description": "The Page number that the table is in."
+          },
+          "table_number": {
+            "type": "string",
+            "description": "The Table Number. If the User asks for All the Tables in that Page, then the table number is -1."
+          }
+        },
+        "required": [
+          "namespace",
+          "page_number",
+          "table_number"
+        ]
+      }
+    }
+  },
+  {
+    "type": "function",
+    "function": {
+      "name": "highlight_pdf",
+      "description": "Returns a annotated/highlighted PDF. Makes a highlighted pdf that is annotated using the information from the last entry. The user has to search for something in the PDF first before highlighting it or it highlights what the user searched for in the last search.",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "namespace": {
+            "type": "string",
+            "description": "Name of the PDF/namespace that the user whats to text annotated in."
+          }
+        },
+        "required": [
+          "namespace"
+        ]
+      }
+    }
   }
 ]
