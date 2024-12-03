@@ -94,5 +94,13 @@
         ]
       }
     }
+  },
+  {
+    "type": "function",
+    "function": {
+      "name": "getNamespaces",
+      "description": "Provides namespaces to user when the user asks for what the namespaces are.",
+      "parameters": {}
+      }
   }
 ]

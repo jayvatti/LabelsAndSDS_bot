@@ -2,6 +2,8 @@ import json
 import os
 import pandas as pd
 
+from OpenAI_API.tool_calling import checkNamespace
+
 
 def extract_tables(textract_response):
     """
@@ -171,6 +173,9 @@ def save_tables_to_excel(textract_response_path, output_excel_path):
 
 
 def getExcel(namespace, page_number, table_number):
+    namespace = checkNamespace(namespace)
+    if not namespace:
+        return f"No namespace found for '{namespace}'."
     current_path = os.getcwd()
     print(f"Current Path: {current_path}\n")
     page_number = int(page_number) - 1

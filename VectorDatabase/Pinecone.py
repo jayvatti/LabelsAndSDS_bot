@@ -90,6 +90,11 @@ class PineconeDatabase(VectorDatabase):
             self.logger.debug(f"Querying index: {index_name} with top_k: {top_k}")
 
             index = pinecone.Index(index_name)
+
+            sparse_values = kwargs.get("values")
+            sparse_indices = kwargs.get("indices")
+            sparse_tokens = kwargs.get("tokens")
+
             query = index.query(
                 vector=embedding,
                 namespace=namespace,

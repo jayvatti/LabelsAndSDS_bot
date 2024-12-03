@@ -30,6 +30,38 @@ PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
 pinecone = Pinecone(api_key=PINECONE_API_KEY)
 
 
+def remove_tags(text):
+    # Remove HTML-like tags
+    text = re.sub(r"</?\s*\w+(?:\s*[^>]*)?>", "", text)
+    # Remove chunks surrounded by {[ ]}
+    text = re.sub(r"\{\[.*?\]\}", "", text)
+    # Remove numbers
+    text = re.sub(r"\b\d+\b", "", text)
+    # Remove individual letters
+    text = re.sub(r"\b[a-zA-Z]\b", "", text)
+    # Remove URLs and links
+    text = re.sub(r"\bhttps?://\S+|localhost:\S+\b", "", text)
+    # Remove concatenated stopwords like is/are, and/or
+    text = re.sub(r"\b\w+/\w+\b", "", text)
+    return text.strip()
+
+
+def remove_tags_and_stopwords(text):
+    # Remove HTML-like tags
+    text = re.sub(r"</?\s*\w+(?:\s*[^>]*)?>", "", text)
+    # Path to stopwords file
+    stopwords_file = "english.txt"
+    # Remove chunks surrounded by {[ ]}
+    text = re.sub(r"\{\[.*?\]\}", "", text)
+    # Remove numbers
+    text = re.sub(r"\b\d+\b", "", text)
+    # Remove individual letters
+    text = re.sub(r"\b[a-zA-Z]\b", "", text)
+    # Remove URLs and links
+    text = re.sub(r"\bhttps?://\S+|localhost:\S+\b", "", text)
+    # Remove concatenated stopwords like is/are, and/or
+    text = re.sub(r"\b\w+/\w+\b", "", text)
+
 
 def getPDFSummary(namespace):
     pass

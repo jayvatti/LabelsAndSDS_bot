@@ -1,0 +1,437 @@
+<HEADING (PAGE NUMBER = 1)>Safety Data Sheet< HEADING />
+OU PONT {['TITLE EXTRACT']}
+<HEADING (PAGE NUMBER = 1)>DuPont™ Matrix® SG Herbicide< HEADING />
+Version 3.0
+Ref. 130000043303
+: 03/18/2019
+Issue Date
+: 02/07/2019
+Revision Date
+This SDS adheres to the standards and regulatory requirements of the United States and may not meet the regulatory
+requirements in other countries.
+SECTION 1. PRODUCT AND COMPANY IDENTIFICATION
+<TABLE EXTRACT (TABLE NUMBER = 1, PAGE NUMBER = 1)>
+['Product name :', 'DuPont™ Matrix® SG Herbicide']
+['Tradename/Synonym :', 'DPX-E9636 25SG Rimsulfuron 25SG RIMSULFURON: N-((4,6-dimethoxypyrimidin-2-yl)aminocarbonyl)-3- (ethylsulfonyl)-2-pyridinesulfonamide']
+['Product Use :', 'Herbicide']
+['Restrictions on use :', 'Do not use product for anything outside of the above specified uses.']
+['Manufacturer/Supplier :', 'DuPont 974 Centre Road Wilmington, DE 19805, USA']
+['Product Information :', '1-800-441-7515 (outside the U.S. 1-302-774-1000)']
+['Medical Emergency :', '1-800-441-3637 (outside the U.S. 1-302-774-1139)']
+['Transport Emergency :', '+1-800-424-9300 (outside the U.S. +1-703-527-3887)']
+Table extracted to localhost:5151/DuPontMatrixSDS_0_table_1.png
+<TABLE EXTRACT />
+SECTION 2. HAZARDS IDENTIFICATION
+Not classified as a hazardous substance or mixture according to the Occupational Safety and Health Administration
+(OSHA) Hazard Communication Standard 2012.
+Other hazards
+Information presented in Section 2 conforms to the requirements of the Occupational Safety and Health
+Administration (OSHA) Hazard Communication Standard of 2012. See Section 15 for applicable information
+conforming to the requirements of the Federal Insecticide Fungicide and Rodenticide Act (FIFRA), as required by
+the US Environmental Protection Agency (EPA), or by state Regulatory Agencies.
+SECTION 3. COMPOSITION/INFORMATION ON INGREDIENTS
+<TABLE EXTRACT (TABLE NUMBER = 2, PAGE NUMBER = 1)>
+['Component', 'CAS-No.', 'Concentration']
+['Rimsulfuron', '122931-48-0', '25%']
+['Lignin Sulfonate Salt', '', '6%']
+Table extracted to localhost:5151/DuPontMatrixSDS_0_table_2.png
+<TABLE EXTRACT />
+1 / 12
+<HEADING (PAGE NUMBER = 2)>Safety Data Sheet< HEADING />
+OU PONT {['TITLE EXTRACT']}
+<HEADING (PAGE NUMBER = 2)>DuPont TM Matrix® SG Herbicide< HEADING />
+Version 3.0
+<TABLE EXTRACT (TABLE NUMBER = 1, PAGE NUMBER = 2)>
+['Issue Date :', '03/18/2019']
+['Revision Date :', '02/07/2019']
+Table extracted to localhost:5151/DuPontMatrixSDS_1_table_1.png
+<TABLE EXTRACT />
+Ref. 130000043303
+<TABLE EXTRACT (TABLE NUMBER = 2, PAGE NUMBER = 2)>
+['Other Ingredients', '', '69 %']
+['Present as an impurity in the clay component of this product:', '', '']
+['Titanium dioxide', '13463-67-7', '0.1 - 0.5%']
+Table extracted to localhost:5151/DuPontMatrixSDS_1_table_2.png
+<TABLE EXTRACT />
+The specific chemical identity and/or exact percentage (concentration) of composition has been withheld as a trade secret.
+SECTION 4. FIRST AID MEASURES
+<TABLE EXTRACT (TABLE NUMBER = 3, PAGE NUMBER = 2)>
+['General advice', ': Have the product container or label with you when calling a poison control center or doctor, or going for treatment. For medical emergencies involving this product, call toll free 1-800-441-3637. See Label for Additional Precautions and Directions for Use. Information presented in Section 4 conforms to the requirements of the Occupational Safety and Health Administration (OSHA) Hazard Communication Standard of 2012. See Section 15 for applicable information conforming to the requirements of the Federal Insecticide Fungicide and Rodenticide Act (FIFRA), as required by the US Environmental Protection Agency (EPA), or by state Regulatory Agencies.']
+['Inhalation', ': No specific intervention is indicated as the compound is not likely to be hazardous. Consult a physician if necessary.']
+['Skin contact', ': Take off all contaminated clothing immediately. Rinse skin immediately with plenty of water for 15-20 minutes. Call a poison control center or doctor for treatment advice.']
+['Eye contact', ': Hold eye open and rinse slowly and gently with water for 15-20 minutes. Remove contact lenses, if present, after the first 5 minutes, then continue rinsing eye. Call a poison control center or doctor for treatment advice.']
+['Ingestion', ': No specific intervention is indicated as the compound is not likely to be hazardous. Consult a physician if necessary.']
+['Most important symptoms/effects, acute and delayed', ': No applicable data available.']
+['Protection of first-aiders', ': No applicable data available.']
+['Notes to physician', ': No applicable data available.']
+Table extracted to localhost:5151/DuPontMatrixSDS_1_table_3.png
+<TABLE EXTRACT />
+2/12
+<HEADING (PAGE NUMBER = 3)>Safety Data Sheet< HEADING />
+OU PONT {['TITLE EXTRACT']}
+<HEADING (PAGE NUMBER = 3)>DuPont TM Matrix® SG Herbicide< HEADING />
+Version 3.0
+Ref. 130000043303
+: 03/18/2019
+Issue Date
+: 02/07/2019
+Revision Date
+SECTION 5. FIREFIGHTING MEASURES
+<TABLE EXTRACT (TABLE NUMBER = 1, PAGE NUMBER = 3)>
+['Suitable extinguishing media :', 'Water spray, Foam, Dry chemical, Carbon dioxide (CO2)']
+['Unsuitable extinguishing : media', 'High volume water jet, (contamination risk)']
+['Specific hazards :', 'No applicable data available.']
+['Special protective equipment : for firefighters', 'Wear full protective clothing and self-contained breathing apparatus.']
+['Further information :', '(on small fires) If area is heavily exposed to fire and if conditions permit, let fire burn itself out since water may increase the area contaminated. Cool containers/tanks with water spray. Do not allow run-off from fire fighting to enter drains or water courses.']
+Table extracted to localhost:5151/DuPontMatrixSDS_2_table_1.png
+<TABLE EXTRACT />
+SECTION 6. ACCIDENTAL RELEASE MEASURES
+NOTE: Review FIRE FIGHTING MEASURES and HANDLING (PERSONNEL) sections before proceeding with clean-up.
+Use appropriate PERSONAL PROTECTIVE EQUIPMENT during clean-up.
+<TABLE EXTRACT (TABLE NUMBER = 2, PAGE NUMBER = 3)>
+['Safeguards (Personnel) :', 'Evacuate personnel, thoroughly ventilate area, use self-contained breathing apparatus. Use personal protective equipment.']
+['Environmental precautions :', 'Prevent material from entering sewers, waterways, or low areas.']
+['Spill Cleanup :', 'Sweep up and shovel into suitable containers for disposal.']
+['Accidental Release Measures :', 'Never return spills in original containers for re-use. Dispose of in accordance with local regulations.']
+Table extracted to localhost:5151/DuPontMatrixSDS_2_table_2.png
+<TABLE EXTRACT />
+SECTION 7. HANDLING AND STORAGE
+<TABLE EXTRACT (TABLE NUMBER = 3, PAGE NUMBER = 3)>
+['Handling (Personnel)', ': Wash hands thoroughly with soap and water after handling and before eating, drinking, chewing gum, using tobacco, or using the toilet. Remove personal']
+Table extracted to localhost:5151/DuPontMatrixSDS_2_table_3.png
+<TABLE EXTRACT />
+3/ 12
+<HEADING (PAGE NUMBER = 4)>Safety Data Sheet< HEADING />
+OU PONT {['TITLE EXTRACT']}
+<HEADING (PAGE NUMBER = 4)>DuPont TM Matrix® SG Herbicide< HEADING />
+Version 3.0
+Ref. 130000043303
+: 03/18/2019
+Issue Date
+: 02/07/2019
+Revision Date
+protective equipment immediately after handling this product. Wash the
+outside of gloves before removing. As soon as possible, wash thoroughly and
+change into clean clothing. Remove clothing/PPE immediately if material gets
+inside. Wash thoroughly and put on clean clothing.
+<TABLE EXTRACT (TABLE NUMBER = 1, PAGE NUMBER = 4)>
+['Handling (Physical Aspects) :', 'Keep away from heat and sources of ignition.']
+['Dust explosion class : Storage :', 'No applicable data available. Store in original container. Store in a cool, dry place. Do not contaminate water, other pesticides, fertilizer, food or feed in storage. Keep out of the reach of children.']
+['Storage period :', 'No applicable data available.']
+['Storage temperature :', 'No applicable data available.']
+Table extracted to localhost:5151/DuPontMatrixSDS_3_table_1.png
+<TABLE EXTRACT />
+SECTION 8. EXPOSURE CONTROLS/PERSONAL PROTECTION
+<TABLE EXTRACT (TABLE NUMBER = 2, PAGE NUMBER = 4)>
+['Engineering controls', ': Ensure adequate ventilation. Information presented in Section 8 conforms to the requirements of the Occupational Safety and Health Administration (OSHA) Hazard Communication Standard of 2012. See Section 15 for applicable information conforming to the requirements of the Federal Insecticide Fungicide and Rodenticide Act (FIFRA), as required by the US Environmental Protection Agency (EPA), or by state Regulatory Agencies.']
+['Personal protective equipment Skin and body protection', ': Applicators and other handlers must wear: Long sleeved shirt and long pants Chemical-resistant gloves, Category A (such as butyl rubber, natural rubber, neoprene rubber, or nitrile rubber), all greater than or equal to 14 mils Shoes plus socks Wear shoes with conductive soles. PPE required for early entry to treated areas that is permitted under the Worker Protection Standard and that involves contact with anything that has been treated, such as plants, soil, or water, is: Coveralls Chemical-resistant gloves, Category A (such as butyl rubber, natural rubber, neoprene rubber, or nitrile rubber), all greater than or equal to 14 mils Shoes plus socks']
+['Protective measures', ": Follow manufacturer's instructions for cleaning/maintaining PPE. If no such instructions for washables exist, use detergent and hot water. Keep and wash PPE separately from other laundry."]
+Table extracted to localhost:5151/DuPontMatrixSDS_3_table_2.png
+<TABLE EXTRACT />
+4 / 12
+<HEADING (PAGE NUMBER = 5)>Safety Data Sheet< HEADING />
+<HEADING (PAGE NUMBER = 5)>DuPont™ Matrix® SG Herbicide< HEADING />
+Version 3.0
+Issue Date
+03/18/2019
+:
+02/07/2019
+Revision Date
+:
+Exposure Guidelines
+Exposure Limit Values
+<TABLE EXTRACT (TABLE NUMBER = 1, PAGE NUMBER = 5)>
+['Rimsulfuron', '', '', '']
+['AEL *', '(DuPont)', '5 mg/m3', '8 & 12 hr. TWA']
+['AEL *', '(DuPont)', '2.5 mg/m3', '8 & 12 hr. TWA']
+Table extracted to localhost:5151/DuPontMatrixSDS_4_table_1.png
+<TABLE EXTRACT />
+<TABLE EXTRACT (TABLE NUMBER = 2, PAGE NUMBER = 5)>
+['Titanium dioxide', '', '', '']
+['PEL (Permissible Exposure Limit)', '(OSHA)', '15 mg/m3', '8 hr. TWA']
+['PEL (Permissible Exposure Limit)', '(OSHA)', '10 mg/m3', 'TWA']
+['TLV', '(ACGIH)', '10 mg/m3', 'TWA']
+['AEL *', '(DuPont)', '10 mg/m3', '8 & 12 hr. TWA']
+['AEL *', '(DuPont)', '5 mg/m3', '8 & 12 hr. TWA']
+Table extracted to localhost:5151/DuPontMatrixSDS_4_table_2.png
+<TABLE EXTRACT />
+Lignin Sulfonate Salt
+No applicable data available.
+AEL is DuPont's Acceptable Exposure Limit. Where governmentally imposed occupational exposure limits which are
+*
+lower than the AEL are in effect, such limits shall take precedence.
+SECTION 9. PHYSICAL AND CHEMICAL PROPERTIES
+Appearance
+<TABLE EXTRACT (TABLE NUMBER = 3, PAGE NUMBER = 5)>
+['Physical state', ': solid']
+['Form', ': granules']
+['Color :', 'light brown']
+['Odor :', 'mild']
+['Odor threshold :', 'No applicable data available']
+['pH :', '6.7']
+['Melting point/range :', 'No applicable data available.']
+['Boiling point/boiling range :', 'No applicable data available.']
+['Flash point :', 'No applicable data available.']
+['Evaporation rate :', 'No applicable data available.']
+Table extracted to localhost:5151/DuPontMatrixSDS_4_table_3.png
+<TABLE EXTRACT />
+Ref. 130000043303
+/ 12
+OU PONT {['TITLE EXTRACT']}
+<HEADING (PAGE NUMBER = 6)>Safety Data Sheet< HEADING />
+OU PONT {['TITLE EXTRACT']}
+®
+<HEADING (PAGE NUMBER = 6)>DuPont™ Matrix SG Herbicide< HEADING />
+Version 3.0
+: 03/18/2019
+Ref. 130000043303
+Issue Date
+: 02/07/2019
+Revision Date
+<TABLE EXTRACT (TABLE NUMBER = 1, PAGE NUMBER = 6)>
+['Flammability (solid, gas) :', 'No applicable data available.']
+['Upper explosion limit :', 'No applicable data available.']
+['Lower explosion limit :', 'No applicable data available.']
+['Vapour Pressure :', 'No applicable data available.']
+['Vapour density :', 'No applicable data available.']
+['Specific gravity (Relative : density)', 'No applicable data available.']
+['Bulk density :', 'Tapped']
+['Water solubility :', 'No applicable data available.']
+['Solubility(ies) :', 'No applicable data available.']
+['Partition coefficient: n- : octanol/water', 'No applicable data available.']
+['Auto-ignition temperature :', 'No applicable data available.']
+['Decomposition temperature :', 'No applicable data available.']
+['Viscosity, kinematic :', 'No applicable data available.']
+['Viscosity, dynamic :', 'No applicable data available.']
+Table extracted to localhost:5151/DuPontMatrixSDS_5_table_1.png
+<TABLE EXTRACT />
+SECTION 10. STABILITY AND REACTIVITY
+<TABLE EXTRACT (TABLE NUMBER = 2, PAGE NUMBER = 6)>
+['Reactivity :', 'No applicable data available.']
+['Chemical stability', ': Stable at normal temperatures and storage conditions.']
+['Possibility of hazardous : reactions', 'Polymerization will not occur.']
+['Conditions to avoid :', 'None reasonably foreseeable.']
+['Incompatible materials :', 'No materials to be especially mentioned.']
+['Hazardous decomposition : products', 'No applicable data available.']
+Table extracted to localhost:5151/DuPontMatrixSDS_5_table_2.png
+<TABLE EXTRACT />
+6 / 12
+<HEADING (PAGE NUMBER = 7)>Safety Data Sheet< HEADING />
+OU PONT {['TITLE EXTRACT']}
+<HEADING (PAGE NUMBER = 7)>DuPont TM Matrix® SG Herbicide< HEADING />
+Version 3.0
+Ref. 130000043303
+: 03/18/2019
+Issue Date
+: 02/07/2019
+Revision Date
+SECTION 11. TOXICOLOGICAL INFORMATION
+<TABLE EXTRACT (TABLE NUMBER = 1, PAGE NUMBER = 7)>
+['DuPont™ Matrix SG Herbicide', '']
+['Inhalation 4 h LC50 :', '>5 mg/l, Rat']
+['Dermal LD50 :', '> 5,000 mg/kg Rat']
+['Oral LD50 :', '> 5,000 mg/kg Rat']
+['Skin irritation :', 'No skin irritation, Rabbit']
+['Eye irritation :', 'No eye irritation, Rabbit Minimal effects that do not meet the threshold for classification.']
+['Sensitisation :', 'Animal test did not cause sensitization by skin contact., Mouse']
+['Further information :', 'Information presented in this Section conforms to the requirements of the Occupational Safety and Health Administration (OSHA) Hazard Communication Standard of 2012. See Section 15 for applicable information conforming to the requirements of the Federal Insecticide Fungicide and Rodenticide Act (FIFRA), as required by the US Environmental Protection Agency (EPA), or by state Regulatory Agencies.']
+['Titanium dioxide', '']
+['Repeated dose toxicity :', 'Oral Rat - NOAEL: 1,000 mg/kgMethod: OECD Test Guideline 408 No toxicologically significant effects were found.']
+['Carcinogenicity :', 'Not classifiable as a human carcinogen. Overall weight of evidence indicates that the substance is not carcinogenic.']
+['Mutagenicity :', 'Animal testing did not show any mutagenic effects. Tests on bacterial or mammalian cell cultures did not show mutagenic effects.']
+['Reproductive toxicity :', 'Animal testing showed no reproductive toxicity.']
+['Teratogenicity :', 'Animal testing showed no developmental toxicity.']
+Table extracted to localhost:5151/DuPontMatrixSDS_6_table_1.png
+<TABLE EXTRACT />
+Rimsulfuron
+/ 12
+<HEADING (PAGE NUMBER = 8)>Safety Data Sheet< HEADING />
+OU PONT {['TITLE EXTRACT']}
+<HEADING (PAGE NUMBER = 8)>DuPont TM Matrix® SG Herbicide< HEADING />
+Version 3.0
+Ref. 130000043303
+: 03/18/2019
+Issue Date
+Revision Date
+02/07/2019
+:
+<TABLE EXTRACT (TABLE NUMBER = 1, PAGE NUMBER = 8)>
+['Repeated dose toxicity', 'The following effects occurred at levels of exposure that significantly exceed those expected under labeled usage conditions.']
+['', 'Oral multiple species altered blood chemistry, Liver effects, Organ weight changes']
+['Carcinogenicity', 'Did not show carcinogenic effects in animal experiments.']
+['Mutagenicity', ': Tests on bacterial or mammalian cell cultures did not show mutagenic effects. Did not show mutagenic effects in animal experiments.']
+['Reproductive toxicity', ': Animal testing did not show any effects on fertility.']
+['Teratogenicity', ': Evidence suggests the substance is not a developmental toxin in animals.']
+['Lignin Sulfonate Salt Repeated dose toxicity', ': Ingestion Rat - 16 Weeks NOAEL: 2,830 mg/kg No toxicologically significant effects were found., Information given is based on data obtained from similar substances.']
+['Mutagenicity', ': Animal testing did not show any mutagenic effects. Did not cause genetic damage in cultured bacterial cells. Information given is based on data obtained from similar substances.']
+Table extracted to localhost:5151/DuPontMatrixSDS_7_table_1.png
+<TABLE EXTRACT />
+Carcinogenicity
+The carcinogenicity classifications for this product and/or its ingredients have been determined according
+to
+HazCom 2012, Appendix A.6. The classifications may differ from those listed in the National Toxicology
+Program (NTP) Report on Carcinogens (latest edition) or those found to be a potential carcinogen in the
+International Agency for Research on Cancer (IARC) Monographs (latest edition)
+<TABLE EXTRACT (TABLE NUMBER = 2, PAGE NUMBER = 8)>
+['Material', 'IARC', 'NTP', 'OSHA']
+['Kaolin', '1', '', '']
+['Titanium dioxide', '2B', '', '']
+Table extracted to localhost:5151/DuPontMatrixSDS_7_table_2.png
+<TABLE EXTRACT />
+8 / 12
+<HEADING (PAGE NUMBER = 9)>Safety Data Sheet< HEADING />
+OU PONT {['TITLE EXTRACT']}
+<HEADING (PAGE NUMBER = 9)>DuPont™ Matrix® SG Herbicide< HEADING />
+Version 3.0
+: 03/18/2019
+Ref. 130000043303
+Issue Date
+: 02/07/2019
+Revision Date
+SECTION 12. ECOLOGICAL INFORMATION
+<TABLE EXTRACT (TABLE NUMBER = 1, PAGE NUMBER = 9)>
+['Aquatic Toxicity Titanium dioxide', '']
+['96 h LC50', ': Pimephales promelas (fathead minnow) > 1,000 mg/l']
+['72 h ErC50', ': Pseudokirchneriella subcapitata (green algae) > 100 mg/l see user defined free text']
+['72 h NOEC', ': Algae 5,600 mg/l see user defined free text']
+['48 h EC50', ': Daphnia magna (Water flea) > 100 mg/l OECD Test Guideline 202']
+['Rimsulfuron 96 h LC50', ': Oncorhynchus mykiss (rainbow trout) > 390 mg/l']
+['96 h LC50', ': Lepomis macrochirus (Bluegill sunfish) > 390 mg/l']
+['120 h EbC50', ': Selenastrum capricornutum (green algae) 1.6 mg/l']
+['48 h EC50', ': Daphnia magna (Water flea) > 360 mg/l']
+['90 d', ': NOEC Oncorhynchus mykiss (rainbow trout) 110 mg/l']
+['21 d', ': NOEC Daphnia magna (Water flea) 0.82 mg/l']
+['Environmental Fate', '']
+['Rimsulfuron Biodegradability', ': According to the results of tests of biodegradability this product is not readily biodegradable.']
+['Bioaccumulation', ': Does not bioaccumulate.']
+['Additional ecological information', ': Environmental Hazards: Do not apply directly to water, or to areas where surface water is present, or to intertidal areas below the mean water mark. Do not contaminate water when']
+Table extracted to localhost:5151/DuPontMatrixSDS_8_table_1.png
+<TABLE EXTRACT />
+or disposing of equipment washwaters or rinsate.
+SECTION 13. DISPOSAL CONSIDERATIONS
+Do not contaminate water, food or feed by disposal. Wastes resulting from the
+Waste disposal methods -
+:
+9 / 12
+<HEADING (PAGE NUMBER = 10)>Safety Data Sheet< HEADING />
+<HEADING (PAGE NUMBER = 10)>DuPont TM Matrix® SG Herbicide< HEADING />
+Version 3.0
+: 03/18/2019
+Issue Date
+: 02/07/2019
+Revision Date
+<TABLE EXTRACT (TABLE NUMBER = 1, PAGE NUMBER = 10)>
+['Product', 'use of this product must be disposed of on site or at an approved waste disposal facility.']
+['Waste disposal methods - Container', ': Container Refilling and Disposal: Refer to the product label for instructions. Do not transport if this container is damaged or leaking. In the event of a major spill, fire or other emergency, call 1-800-441-3637 day or night.']
+['Contaminated packaging', ': No applicable data available.']
+Table extracted to localhost:5151/DuPontMatrixSDS_9_table_1.png
+<TABLE EXTRACT />
+SECTION 14. TRANSPORT INFORMATION
+<TABLE EXTRACT (TABLE NUMBER = 2, PAGE NUMBER = 10)>
+['IATA_C', 'UN number :', '3077']
+['', 'Proper shipping name :', 'Environmentally hazardous substance, solid, n.o.s. (Rimsulfuron)']
+['', 'Class :', '9']
+['', 'Packing group :', 'III']
+['', 'Labelling No. :', '9']
+['IMDG', 'UN number :', '3077']
+['', 'Proper shipping name :', 'ENVIRONMENTALLY HAZARDOUS SUBSTANCE, SOLID, N.O.S. (Rimsulfuron)']
+['', 'Class :', '9']
+['', 'Packing group :', 'III']
+['', 'Labelling No. :', '9']
+['', 'Marine pollutant :', 'yes (Rimsulfuron)']
+Table extracted to localhost:5151/DuPontMatrixSDS_9_table_2.png
+<TABLE EXTRACT />
+Not regulated as a hazardous material by DOT.
+Marine Pollutants assigned UN number 3077 and 3082 in single or combination packaging containing a net
+quantity per single or inner packaging of 5 L or less for liquids or having a net mass per single or inner
+packaging of 5 KG or less for solids may be transported as non-dangerous goods as provided in section
+2.10.2.7 of IMDG code, IATA special provision A197, and ADR/RID special provision 375.
+SECTION 15. REGULATORY INFORMATION
+This Safety Data Sheet is for a pesticide product registered by the US
+Other regulations
+:
+OU PONT {['TITLE EXTRACT']}
+Ref. 130000043303
+10 / 12
+<HEADING (PAGE NUMBER = 11)>Safety Data Sheet< HEADING />
+OU PONT {['TITLE EXTRACT']}
+<HEADING (PAGE NUMBER = 11)>DuPont TM Matrix® SG Herbicide< HEADING />
+Version 3.0
+: 03/18/2019
+Ref. 130000043303
+Issue Date
+: 02/07/2019
+Revision Date
+Environmental Protection Agency (USEPA) and various state regulatory
+agencies, and is therefore also subject to certain requirements under US and
+state pesticide laws, including the Federal Insecticide Fungicide and
+Rodenticide Act (FIFRA). These requirements differ from the classification
+criteria and hazard information required by OSHA for safety data sheets, and
+for workplace labels of non-pesticide chemicals. The following is information
+determined by USEPA, and various states.
+Caution
+Avoid contact with skin, eyes and clothing. Wash hands thoroughly with soap
+and water after handling and before eating, drinking, chewing gum, using
+tobacco, or using the toilet.
+SARA 311/312 Hazard
+No SARA Hazards
+:
+classification
+SARA 313 Regulated
+: This material does not contain any chemical components with known CAS
+numbers that exceed the threshold (De Minimis) reporting levels established
+Chemical(s)
+by SARA Title III, Section 313.
+: Substances on the Pennsylvania Hazardous Substances List present at a
+PA Right to Know
+concentration of 1% or more (0.01% for Special Hazardous Substances):
+Regulated Chemical(s)
+Kaolin, Disodium phosphate, Sucrose, Sodium sulphate
+EPA Reg. No.
+: 352-768
+In the United States this product is regulated by the US Environmental
+Protection Agency (EPA) under the Federal Insecticide, Fungicide and
+Rodenticide Act (FIFRA). It is a violation of Federal law to use this product in
+a manner inconsistent with its labeling. Read and follow all label directions.
+This product is excluded from listing requirements under EPA/TSCA.
+California Prop. 65
+This product can expose you to substances including Titanium dioxide, which
+:
+is/are known to the State of California to cause cancer. For more information
+go to www.P65Warnings.ca.gov.
+SECTION 16. OTHER INFORMATION
+<TABLE EXTRACT (TABLE NUMBER = 1, PAGE NUMBER = 11)>
+['', 'NFPA']
+['Health :', '1']
+['Flammability :', '0']
+['Reactivity/Physical hazard :', '0']
+Table extracted to localhost:5151/DuPontMatrixSDS_10_table_1.png
+<TABLE EXTRACT />
+11 / 12
+<HEADING (PAGE NUMBER = 12)>Safety Data Sheet< HEADING />
+OU POND {['TITLE EXTRACT']}
+<HEADING (PAGE NUMBER = 12)>Matrix® SG Herbicide< HEADING />
+DuPont TM
+Version 3.0
+Ref. 130000043303
+03/18/2019
+Issue Date
+:
+: 02/07/2019
+Revision Date
+R Registered trademark of E.I. du Pont de Nemours and
+TM
+Trademark of E.I. du Pont de Nemours and Company.
+Company
+<TABLE EXTRACT (TABLE NUMBER = 1, PAGE NUMBER = 12)>
+['Issue Date :', '03/18/2019']
+['Revision Date :', '02/07/2019']
+['Contact person :', 'DuPont Crop Protection, Wilmington, DE, 19805, Phone: 1-888-638-7668']
+Table extracted to localhost:5151/DuPontMatrixSDS_11_table_1.png
+<TABLE EXTRACT />
+The information provided in this Safety Data Sheet is correct to the best of our knowledge, information and belief at the
+date of its publication. The information given is designed only as a guidance for safe handling, use, processing, storage,
+transportation, disposal and release and is not to be considered a warranty or quality specification. The information
+relates only to the specific material designated and may not be valid for such material used in combination with any
+other materials or in any process, unless specified in the text.
+12/12

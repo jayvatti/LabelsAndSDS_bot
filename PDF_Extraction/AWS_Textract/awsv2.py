@@ -1,5 +1,6 @@
 import argparse
 import os
+from difflib import SequenceMatcher
 
 from PIL import Image
 from dotenv import load_dotenv
@@ -152,23 +153,40 @@ def json_to_text(response: Dict[str, Any], image_path: str, output_dir: str, pdf
     left_positions = [block_info['Left'] for block_info in blocks_with_position]
     centroids = kmeans_1d(left_positions, k=2)
 
+    # Adjusted code to handle center-aligned text
+    # Assign columns to blocks, detecting center-aligned text
     for block_info in blocks_with_position:
-        distances = [abs(block_info['Left'] - c) for c in centroids]
-        block_info['Column'] = distances.index(min(distances))
+        if 0.45 <= block_info['Left'] <= 0.55:
+            block_info['Column'] = 'center'
+        else:
+            distances = [abs(block_info['Left'] - c) for c in centroids]
+            block_info['Column'] = distances.index(min(distances))
 
-    columns: Dict[int, List[Dict[str, Any]]] = defaultdict(list)
+    # Build columns including 'center'
+    columns: Dict[Union[int, str], List[Dict[str, Any]]] = defaultdict(list)
     for block_info in blocks_with_position:
         columns[block_info['Column']].append(block_info)
 
-    for column_blocks in columns.values():
+    # Build column_centroids mapping
+    column_centroids: Dict[Union[int, str], float] = {}
+    for idx, centroid in enumerate(centroids):
+        column_centroids[idx] = centroid
+    column_centroids['center'] = 0.5  # Center of the page
+
+    # Sort columns based on centroids
+    sorted_columns = sorted(columns.keys(), key=lambda k: column_centroids[k])
+
+    # Sort blocks within each column by 'Top' position
+    for col_key in sorted_columns:
+        column_blocks = columns[col_key]
         column_blocks.sort(key=lambda x: x['Top'])
+        columns[col_key] = column_blocks
 
     title_found = False
     extracted_text: List[str] = []
 
-    sorted_centroid_indices = sorted(range(len(centroids)), key=lambda i: centroids[i])
-    for idx in sorted_centroid_indices:
-        column_blocks = columns[idx]
+    for col_key in sorted_columns:
+        column_blocks = columns[col_key]
         for block_info in column_blocks:
             block_type = block_info['BlockType']
             block = block_info['Block']
@@ -178,6 +196,7 @@ def json_to_text(response: Dict[str, Any], image_path: str, output_dir: str, pdf
                     bbox_overlap(line_bbox, table_bbox) for table_bbox in table_bboxes)
                 if not overlaps_table:
                     if not title_found and is_title(block, max_line_height, top_threshold):
+                        # Increment page_number by 1 for output
                         extracted_text.append(f"{block['Text']} {{['TITLE EXTRACT']}}")
                         title_found = True
                     else:
@@ -185,7 +204,8 @@ def json_to_text(response: Dict[str, Any], image_path: str, output_dir: str, pdf
             elif block_type == 'TABLE':
                 table_count += 1
                 table = extract_tables(blocks_map, block)
-                extracted_text.append(f"<TABLE EXTRACT (TABLE NUMBER = {table_count}, PAGE NUMBER = {page_number})>")
+                # Increment page_number by 1 for output
+                extracted_text.append(f"<TABLE EXTRACT (TABLE NUMBER = {table_count}, PAGE NUMBER = {page_number +1})>")
                 extracted_text.extend(str(row) for row in table)
                 # Now, get the bounding box
                 bbox = block_info['BoundingBox']
@@ -238,6 +258,7 @@ def extract_headings_and_bold_text(pdf_page: str, page_number: int) -> str:
                 is_heading = size >= size_threshold or color != regular_color or (flags == 20 and size > regular_size)
 
                 if is_heading and text != '':
+                    # Increment page_number by 1 for output
                     tagged_spans.append((text, 'HEADING'))
                 elif flags == 20 and text != '':
                     tagged_spans.append((text, 'BOLD'))
@@ -245,9 +266,13 @@ def extract_headings_and_bold_text(pdf_page: str, page_number: int) -> str:
     pdf_document.close()
 
     return "\n".join(
-        f"<{tag} (PAGE NUMBER = {page_number})>{text}< {tag} />" if tag == 'HEADING' else f"<{tag}>{text}</{tag}>"
+        f"<{tag} (PAGE NUMBER = {page_number +1})>{text}< {tag} />" if tag == 'HEADING' else f"<{tag} (PAGE NUMBER = {page_number +1})>{text}</{tag}>"
         for text, tag in tagged_spans
     )
+
+
+def is_similar(a, b, threshold=0.8):
+    return SequenceMatcher(None, a, b).ratio() >= threshold
 
 
 def replace_headings(parsed_output: str, tagged_text: str, page_number: int) -> str:
@@ -258,14 +283,15 @@ def replace_headings(parsed_output: str, tagged_text: str, page_number: int) -> 
         if heading_match:
             tag, page_num_str, text = heading_match.groups()
             page_num = int(page_num_str)
-            if page_num == page_number:
+            if page_num == page_number + 1:
                 tagged_spans.append({'tag': tag, 'page_number': page_num, 'text': text})
         else:
-            # Try to match other tags, like bold
-            other_match = re.match(r"<(\w+)>(.*?)</\w+>", item)
+            other_match = re.match(r"<(\w+) \(PAGE NUMBER = (\d+)\)>(.*?)</\w+>", item)
             if other_match:
-                tag, text = other_match.groups()
-                tagged_spans.append({'tag': tag, 'text': text})
+                tag, page_num_str, text = other_match.groups()
+                page_num = int(page_num_str)
+                if tag == 'BOLD' and page_num == page_number + 1:
+                    tagged_spans.append({'tag': tag, 'page_number': page_num, 'text': text})
 
     output_lines = parsed_output.splitlines()
     matched_tags: set = set()
@@ -291,18 +317,18 @@ def replace_headings(parsed_output: str, tagged_text: str, page_number: int) -> 
 
         matched = False
         for span in tagged_spans:
-            if span['tag'] == 'HEADING' and span['text'] == stripped_line and span['text'] not in matched_tags:
-                # Wrap the line with the heading tags
-                updated_output.append(f"<{span['tag']} (PAGE NUMBER = {page_number})>{stripped_line}< {span['tag']} />")
+            if span.get('page_number', page_number + 1) != page_number + 1:
+                continue  # Skip spans from other pages
+
+            if is_similar(span['text'], stripped_line) and span['text'] not in matched_tags:
+                if span['tag'] == 'HEADING':
+                    updated_output.append(f"<{span['tag']} (PAGE NUMBER = {page_number +1})>{stripped_line}< {span['tag']} />")
+                elif span['tag'] == 'BOLD':
+                    updated_output.append(f"<{span['tag']} (PAGE NUMBER = {page_number +1})>{stripped_line}</{span['tag']}>")
                 matched_tags.add(span['text'])
                 matched = True
                 break
-            elif span['tag'] != 'HEADING' and span['text'] == stripped_line and span['text'] not in matched_tags:
-                # For other tags, e.g., bold
-                updated_output.append(f"<{span['tag']}>{stripped_line}</{span['tag']}>")
-                matched_tags.add(span['text'])
-                matched = True
-                break
+
         if not matched:
             updated_output.append(stripped_line)
 
@@ -321,7 +347,7 @@ def save_combined_text(accumulated_text: List[str], file: str) -> None:
     os.makedirs(output_dir, exist_ok=True)
 
     base_name = os.path.basename(file).replace('.pdf', '')
-    output_filepath = os.path.join(output_dir, f"{base_name}_combined.txt")
+    output_filepath = os.path.join(output_dir, f"{base_name}.txt")
 
     with open(output_filepath, 'w', encoding='utf-8') as text_file:
         text_file.write('\n'.join(accumulated_text))

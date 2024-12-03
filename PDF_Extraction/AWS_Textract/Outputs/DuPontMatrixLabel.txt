@@ -1,0 +1,1698 @@
+tm
+dupont matrix r sg
+<HEADING (PAGE NUMBER = 1)>herbicide< HEADING />
+<HEADING (PAGE NUMBER = 1)>water soluble granule< HEADING />
+for weed control in citrus fruit, stone fruit, tree nuts, pome fruit, grapes, potatoes, potatoes (grown for seed),
+<TABLE EXTRACT (TABLE NUMBER = 1, PAGE NUMBER = 1)>
+['active ingredients', 'by weight']
+['rimsulfuron', '']
+['n((4,6-dimethoxypyrimidin-2-yl)aminocarbony1)-3-(ethylsulfony1)-2-pyridinesulfonamide', '25.0%']
+['other ingredients', '75.0%']
+['total', '100.0%']
+table extracted to localhost:5151/DuPontMatrixLabel_0_table_1.png
+<TABLE EXTRACT />
+epa reg. no. 352-768
+<BOLD (PAGE NUMBER = 1)>nonrefillable container</BOLD>
+net:
+or
+<BOLD (PAGE NUMBER = 1)>refillable container</BOLD>
+net:
+keep out of reach of children
+si usted no entiende la etiqueta, busque a alguien para que se la explique a usted en detalle. (if you do not understand
+this label, find someone to explain it to you in detail.)
+if in eyes: hold eye open and rinse slowly and gently with water for 15-20 minutes. remove contact lenses, if
+present, after the first 5 minutes, then continue rinsing eye. call a poison control center or doctor for treatment
+advice.
+if on skin or clothing: take off contaminated clothing. rinse skin immediately with plenty of water for
+15-20 minutes. call a poison control center or doctor for treatment advice.
+if swallowed: call a poison control center or doctor immediately for treatment advice. have person sip a glass
+of water if able to swallow. do not induce vomiting unless told to do so by a poison control center or doctor. do not
+give anything by mouth to an unconscious person.
+have the product container or label with you when calling a poison control center or doctor, or going for treatment.
+you may also contact 1-800-441-3637 for emergency medical treatment information.
+precautionary statements
+hazards to humans and domestic animals
+causes moderate eye irritation. harmful if absorbed through skin. avoid contact with eyes, skin, or clothing. wash
+thoroughly with soap and water after handling and before eating, drinking, chewing gum, or using tobacco, or using
+the toilet.
+<HEADING (PAGE NUMBER = 1)>personal protective equipment (ppe)< HEADING />
+<HEADING (PAGE NUMBER = 1)>applicators and other handlers must wear:< HEADING />
+long-sleeve shirt and long pants
+chemical resistant gloves made of any waterproof material including nitrile rubber, natural rubber, neoprene rubber, or
+butyl rubber
+shoes plus socks
+group
+first aid
+<HEADING (PAGE NUMBER = 1)>caution< HEADING />
+1
+ou pont {['TITLE EXTRACT']}
+r
+herbicide
+<HEADING (PAGE NUMBER = 1)>2< HEADING />
+epa est. no.
+caution
+follow manufacturer's instructions for cleaning/maintaining ppe. if no such instructions for washables exist, use
+detergent and hot water. keep and wash ppe separately from other laundry. {['TITLE EXTRACT']}
+<BOLD (PAGE NUMBER = 2)>engineering control statements</BOLD>
+when handlers use closed systems or enclosed cabs in a manner that meets the requirements listed in the worker
+protection standard (wps) for agricultural pesticides [40 cfr 170.240(d)(4-6)], the handler ppe requirements may be
+reduced or modified as specified in the wps.
+<HEADING (PAGE NUMBER = 2)>user safety recommendations< HEADING />
+users should: wash hands before eating, drinking, chewing gum, using tobacco or using toilet. remove
+clothing/ppe immediately if pesticide gets inside. then wash thoroughly and put on clean clothing. remove ppe
+immediately after handling this product. wash outside of gloves before removing. as soon as possible, wash
+thoroughly and change into clean clothing.
+environmental hazards
+do not apply directly to water, or to areas where surface water is present, or to intertidal areas below the mean high
+water mark. do not contaminate water when cleaning of equipment or disposal of equipment washwaters or rinsate.
+<HEADING (PAGE NUMBER = 2)>surface water advisory< HEADING />
+this product may impact surface water quality due to runoff of rain water. this is especially true for poorly draining
+soils and soils with shallow ground water. this product is classified as having high potential for reaching surface
+water via runoff for months or more after application. a level, well-maintained vegetative buffer strip between areas
+which this product is applied and surface water features such as ponds, streams, and springs will reduce the
+to
+potential loading of this product from runoff water and sediment. runoff of this product will be greatly reduced by
+avoiding applications when rainfall or irrigation is expected to occur within 48 hours.
+<HEADING (PAGE NUMBER = 2)>windblown soil particles< HEADING />
+this product has the potential to move off-site due to wind erosion. soils that are subject to wind erosion usually have
+a high silt and/or fine to very fine sand fractions and low organic matter content. other factors which can affects the
+movement of windblown soil include the intensity and direction of prevailing winds, vegetative cover, site slope,
+rainfall, and drainage patterns. avoid applying this product if prevailing local conditions may be expected to result in
+off-site movement.
+<HEADING (PAGE NUMBER = 2)>non-target organism advisory< HEADING />
+this product is toxic to plants and may adversely impact the forage and habitat of non-target organisms, including
+pollinators, in areas adjacent to the treated area. protect the forage and habitat of non-target organisms by minimizing
+spray drift. for further guidance and instructions on how to minimize spray drift, refer to the spray drift management
+section of this label.
+<HEADING (PAGE NUMBER = 2)>directions for use< HEADING />
+it is a violation of federal law to use this product in a manner inconsistent with the terms of this label.
+do not apply this product in a way that will contact workers or other persons, either directly or through drift. only protected
+handlers may be in the area during application. for any requirements specific to your state or tribe, consult the agency in your
+state responsible for pesticide regulation.
+referred
+sg herbicide or
+below
+herbicide,
+also
+sg,
+sg
+duponttm
+matrix®
+duponttm
+matrix®
+matrix®
+to
+as
+matrix®sg, must be used in accordance with the directions for use on this label; supplemental labels; special local need
+registrations; fifra section 18 exemptions. always read the entire label including the limitation of warranty and liability.
+agricultural use requirements
+use this product only in accordance with its labeling and with the worker protection standard, 40 cfr part 170. this
+standard contains requirements for the protection of agricultural workers on farms, forests, nurseries, and greenhouses,
+and handlers of agricultural pesticides. it contains requirements for training, decontamination, notification, and
+emergency assistance. it also contains specific instructions and exceptions pertaining to the statements on this label about
+personal protective equipment (ppe) and restricted-entry interval. the requirements in this box only apply to uses of this
+product that are covered by the worker protection standard.
+do not enter or allow worker entry into treated areas during the restricted entry interval (rei) of 4 hours.
+ppe required for early entry to treated areas that is permitted under the worker protection standard and that involves
+contact with anything that has been treated, including plants, soil, or water, is:
+coveralls
+chemical resistant gloves made of any water proof material including nitrile rubber, natural rubber, neoprene rubber, or
+butylrubber
+shoes plus socks
+2
+non-agricultural use requirements
+the requirements in this box apply to uses of this product that are not within the scope of the worker protection standard {['TITLE EXTRACT']}
+for agri ural pesticides (40 cfr rt170). the wps applies when this product is used produce agricultural plants on
+farms, forests, nurseries, or greenhouses. use on noncrop sites and turf (unimproved) are not within the scope of the
+worker protection standard. do not enter or allow worker entry into treated areas until sprays have dried.
+product information
+duponttm matrix® sg herbicide is a water soluble granule formulation that selectively controls certain broadleaf weeds
+and grasses in pome fruit, citrus fruit, tree nuts, stone fruit and grape crops which have been established for at least one full
+growing season. matrix® sg herbicide also selectively controls certain broadleaf weeds and grasses in field corn (ca
+only), potatoes, potatoes grown for seed, and field grown tomatoes (direct seeded and transplant).
+the best control is obtained when matrix® sg is applied to young, actively growing weeds. the degree and duration of
+control may depend on the following:
+weed spectrum and infestation intensity
+weed size at application
+environmental conditions at and following treatment
+<BOLD (PAGE NUMBER = 3)>biological activity and environmental conditions</BOLD>
+matrix® sg is absorbed through the roots and foliage of plants, rapidly inhibiting the growth of susceptible weeds. for
+preemergence weed control, rainfall or sprinkler irrigation is needed to move matrix® sg into the soil. weeds will
+generally not emerge from preemergence applications. in some cases, susceptible weeds may germinate and emerge a few
+days after application, but growth then ceases and leaves become chlorotic three to five days after emergence. death of leaf
+tissue and growing point will follow in some species, while others will remain green but stunted and noncompetitive.
+one to three weeks after postemergence application to weeds, leaves of susceptible plants appear chlorotic, and the
+growing point subsequently dies. in warm, moist conditions, the expression of herbicide symptoms is accelerated; in cold,
+dry conditions, expression of herbicide symptoms is delayed. death of leaf tissue and growing point will follow in some
+species, while others will remain green but stunted and noncompetitive.
+matrix® sg provides the best control of weeds in vigorously growing crops that shade competitive weeds. weed
+control in areas of thin crop stand or seeding skips may not provide satisfactory control. however, a crop canopy that is too
+dense at application can intercept spray and reduce weed control.
+the herbicidal action of matrix® sg may be less effective on weeds stressed from adverse environmental conditions
+(including extreme temperatures or moisture), abnormal soil conditions, or cultural practices. in addition, weeds hardened-
+off by drought stress are less susceptible to matrix® sg.
+postemergence weed control may be reduced if rainfall occurs soon after application. several hours of dry weather are
+needed to allow matrix® sg to be sufficiently absorbed by weed foliage (generally matrix® sg is rainfast in
+4
+hours).
+<BOLD (PAGE NUMBER = 3)>precautions</BOLD>
+potato and tomato varieties may differ in their response to various herbicides. dupont recommends that you first consult
+your state experiment station, university, or extension agent as to sensitivity to any herbicide. if no information is
+available, limit the initial use to a small area.
+preemergence use on soils containing more than 6% organic matter may not provide adequate soil residual weed control
+and may result in reduced weed control.
+preemergence and postemergence use on rill irrigated potatoes and tomatoes (furrow or gravity) may not provide
+adequate weed control in the absence of rainfall.
+if sprinklers are used for frost protection, delay the application of matrix® sg until stress from environmental
+conditions have passed.
+avoid spray drift to any adjacent crops or desirable plants as injury may occur.
+crop injury may occur following an application of matrixo sg if there is a prolonged period
+of
+cold
+weather
+and/or
+cold weather in conjunction with wet soils caused by poor drainage or excessive use of sprinkler irrigation for frost
+protection.
+draining or flushing equipment on or near desirable trees or other plants, or in areas where their roots may extend, or in
+locations where the chemical may be washed or moved into contact with their roots may injure these plants. trees or
+other desirable plants whose roots extend into a treated crop use area may be injured.
+carefully observe sprayer cleanup instructions, as spray tank residue may damage other crops.
+for best results, maintain spray tank solution at ph 5 to 7.
+3
+if the selected companion herbicide has a ground or surface water advisory, consider the advisory when using the {['TITLE EXTRACT']}
+companion herbicide.
+tank mixing duponttm matrix® sg with organophosphate insecticides in tomatoes may result in crop injury.
+naturally occurring weed biotypes that are resistant to duponttm ally herbicide, dupont™ glean fc herbicide,
+duponttm express herbicide, duponttm harmony extra herbicide, or duponttm finesse® herbicide will
+also be resistant to matrix sg (refer to weed resistance management section)
+<BOLD (PAGE NUMBER = 4)>restrictions</BOLD>
+do not apply more than 4 ounces (0.0625 lb ai) matrix® sg per acre per year. refer to table 1 and the application
+information section for each crop/crop group for specific use restrictions.
+injury to or loss of desirable trees or vegetation may result from failure to observe the following:
+do not apply, drain, or flush equipment on or near desirable trees or other plants, or on areas where their roots may
+-
+extend, or in locations where the chemical may be washed or moved into contact with their roots.
+- do not use on lawns, walks, driveways, tennis courts, or similar areas. prevent drift of spray to desirable plants.
+- do not contaminate any body of water, including irrigation water that may be used on other crops.
+do not apply to frozen or snow covered soil. crop injury may occur from applications made to poorly drained soils.
+do not apply using air assisted (air blast) field crop sprayers.
+<BOLD (PAGE NUMBER = 4)>weed resistance management</BOLD>
+matrix® sg, which contains the active ingredient rimsulfuron, is a group 2 herbicide based on the mode of action classification
+system of the weed science society of america.
+proactively implementing diversified weed control strategies to minimize selection for weed populations resistant to one or more
+herbicides is a best practice. a diversified weed management program may include the use of multiple herbicides with different sites
+of action and overlapping weed spectrum with or without tillage operations and/or other cultural practices. research has
+demonstrated that using the labeled rate and directions for use is important to delay the selection for resistance.
+the continued effectiveness of this product depends on the successful implementation of a weed resistance management program.
+to aid in the prevention of developing weeds resistant to this product, users should:
+scout fields before application to ensure herbicides and rates will be appropriate for the weed species and weed sizes present.
+start with a clean field, using either a burndown herbicide application or tillage.
+control weeds early when they are relatively small (less than 4 inches).
+apply full rates of matrix sg for the most difficult to control weed in the field at the specified time (correct weed size) to
+minimize weed escapes.
+scout fields after application to detect weed escapes or shifts in control of weed species.
+control weed escapes before they reproduce by seed or proliferate vegetatively.
+report any incidence of non-performance of this product against a particular weed to your dupont representative, local retailer, or
+county extension agent.
+contact your dupont representative, crop advisor, or extension agent to find out if suspected resistant weeds to this moa have
+been found in your region. if resistant biotypes of target weeds have been reported, use the application rates of this product
+specified for your local conditions. tank mix products so that there are multiple effective sites of actions for each target weed.
+if resistance is suspected, treat weed escapes with an herbicide having a site of action other than group 2 and/or use nonchemical
+methods to remove escapes, as practical, with the goal of preventing further seed production.
+suspected herbicide-resistant weeds may be identified by these indicators:
+failure to control a weed species normally controlled by the herbicide at the dose applied, especially if control is achieved on
+adjacent weeds;
+a spreading patch of non-controlled plants of a particular weed species; and
+surviving plants mixed with controlled individuals of the same species.
+additionally, users should follow as many of the following herbicide resistance management practices as is practical:
+use a broad spectrum soil-applied herbicide with other sites of action as a foundation in a weed control program.
+utilize sequential applications of herbicides with alternative sites of action.
+rotate the use of this product with non-group 2 herbicides.
+avoid making more than two applications of matrix® sg and any other group 2 herbicides within a single growing season
+unless mixed with an herbicide with a different site of action with an overlapping spectrum for the difficult-to-control weeds.
+4
+incorporate non-chemical weed control practices, including mechanical cultivation, crop rotation, cover crops and weed-free crop {['TITLE EXTRACT']}
+seeds, as part of an integrated weed control program.
+use good agronomic principles that enhance crop development and crop competitiveness.
+thoroughly clean plant residues from equipment before leaving fields suspected to contain resistant weeds.
+manage weeds in and around fields, during and after harvest to reduce weed seed production.
+<BOLD (PAGE NUMBER = 5)>integrated pest management</BOLD>
+this product may be used as part of an integrated pest management (ipm) program, which can include biological, cultural, and
+genetic practices, aimed at preventing economic pest damage. application of this product should be based on ipm principles and
+practices including field scouting or other detection methods, correct target pest identification, population monitoring, and treating
+when target pest populations reach locally determined action thresholds. consult your state cooperative extension service,
+professional consultants or other qualified authorities to determine appropriate action treatment threshold levels for treating specific
+pest/crop or site systems in your area.
+mandatory spray drift management
+<BOLD (PAGE NUMBER = 5)>ground boom applications:</BOLD>
+apply with the nozzle height specified by the manufacturer, but no more than 3 feet above the ground or crop canopy
+unless making a rangeland application, in which case applicators may apply with a nozzle height no more than 4 feet
+above the ground.
+for applications prior to the emergence of crops and target weeds, applicators are required to use a coarse or coarser
+droplets (asabe s572.1).
+for all other applications, applicators are required to use a medium or coarser droplet size (asabe s572.1).
+do not apply when wind speeds exceed 10 miles per hour at the application site.
+do not apply during temperature inversions.
+<BOLD (PAGE NUMBER = 5)>aerial applications:</BOLD>
+do not release spray at a height greater than 10 feet above the vegetative canopy, unless a greater application height is
+necessary for pilot safety.
+for applications prior to the emergence of crops and target weeds, applicators are required to use a coarse or coarser
+droplet size (asabe s572.1).
+for all other applications, applicators are required to use a medium or coarser droplet size (asabe s572.1).
+the boom length must not exceed 65% of the wingspan for airplanes or 75% of the rotor blade diameter for helicopters.
+applicators must use one-half swath displacement upwind at the downwind edge of the field.
+nozzles must be oriented so the spray is directed toward the back of the aircraft.
+do not apply when wind speeds exceed 10 miles per hour at the application site.
+do not apply during temperature inversions.
+<BOLD (PAGE NUMBER = 5)>boom-less ground applications:</BOLD>
+applicators are required to use a medium or coarser droplet size (asabe s572.1) for all applications.
+do not apply when wind speeds exceed 10 miles per hour at the application site.
+do not apply during temperature inversions.
+<BOLD (PAGE NUMBER = 5)>spray drift management advisories</BOLD>
+the applicator is responsible for avoiding off-site spray drift.
+beaware of nearby non-target sites and environmental conditions.
+<BOLD (PAGE NUMBER = 5)>importance of droplet size</BOLD>
+an effective way to reduce spray drift is to apply large droplets. use the largest droplets that provide target pest control. while
+applying larger droplets will reduce spray drift, the potential for drift will be greater if applications are made improperly or
+under unfavorable environmental conditions.
+<BOLD (PAGE NUMBER = 5)>controlling droplet size-ground boom</BOLD>
+volume - increasing the spray volume so that larger droplets are produced will reduce spray drift. use the highest practical
+spray volume for the application. if a greater spray volume is needed, consider using a nozzle with a higher flow rate.
+pressure - use the lowest spray pressure specified for the nozzle to produce the target spray volume and droplet size.
+5
+spray nozzle - use a spray nozzle that is designed for the intended application. consider using nozzles designed to reduce {['TITLE EXTRACT']}
+drift.
+<BOLD (PAGE NUMBER = 6)>controlling droplet size - aircraft</BOLD>
+adjust nozzles - follow nozzle manufacturers specifications for setting up nozzles. generally, to reduce fine droplets,
+nozzles should be oriented parallel with the airflow in flight.
+<BOLD (PAGE NUMBER = 6)>boomheight-ground - boom</BOLD>
+use the lowest boom height that is compatible with the spray nozzles that will provide uniform coverage. for ground
+equipment, the boom should remain level with the crop and have minimal bounce.
+<BOLD (PAGE NUMBER = 6)>releaseheight-aircraft</BOLD>
+higher release heights increase the potential for spray drift. when applying aerially to crops, do not release spray at a height
+greater than 10 ft above the crop canopy, unless a greater application height is necessary for pilot safety.
+<BOLD (PAGE NUMBER = 6)>boom-less ground applications:</BOLD>
+setting nozzles at the lowest effective height will help to reduce the potential for spray drift.
+<BOLD (PAGE NUMBER = 6)>handheld technology applications:</BOLD>
+take precautions to minimize spray drift.
+<BOLD (PAGE NUMBER = 6)>shielded sprayers</BOLD>
+shielding the boom or individual nozzles can reduce spray drift. consider using shielded sprayers. verify that the shields are
+not interfering with the uniform deposition of the spray on the target area.
+<BOLD (PAGE NUMBER = 6)>temperature and humidity</BOLD>
+when making applications in hot and dry conditions, use larger droplets to reduce effects of evaporation.
+<BOLD (PAGE NUMBER = 6)>temperature inversions</BOLD>
+drift potential is high during a temperature inversion. temperature inversions are characterized by increasing temperature with
+altitude and are common on nights with limited cloud cover and light to no wind. the presence of an inversion can be indicated
+by ground fog or by the movement of smoke from a ground source or an aircraft smoke generator. smoke that layers and
+moves laterally in a concentrated cloud (under low wind conditions) indicates an inversion, while smoke that moves upward
+and rapidly dissipates indicates good vertical air mixing. avoid applications during temperature inversions.
+<BOLD (PAGE NUMBER = 6)>wind</BOLD>
+drift potential generally increases with wind speed. avoid applications during gusty wind conditions.
+applicators need to be familiar with local wind patterns and terrain that could affect spray drift.
+drift control additives
+using product compatible drift control additives can reduce drift potential. when a drift control additive is used, read and
+carefully observe cautionary statements and all other information on the additive's label. if using an additive that increases
+viscosity, ensure that the nozzles and other application equipment will function properly with a viscous spray solution.
+preferred drift control additives have been certified by the chemical producers and distributors association (cpda).
+tank mixtures
+to broaden the weed control spectrum and/o extend the residual effectiveness of duponttm matrix sg herbicide,
+matrix® sg may be tank mixed with other registered herbicides affecting a different site of action (mode of action) and /or
+adjuvants registered for use on the crops listed on matrix® sg labeling.
+it is the pesticide user's responsibility to ensure that all products are registered for the intended use. read and follow the applicable
+restrictions and limitations and directions for use on all product labels involved in tank mixing. users must follow the most
+restrictive directions for use and precautionary statements of each product in the tank mixture.
+6
+<HEADING (PAGE NUMBER = 7)>table 1 - crops, use rates and pre-harvest interval for applications of dupont {['TITLE EXTRACT']}< HEADING />
+<HEADING (PAGE NUMBER = 7)>matrix® sg herbicide< HEADING />
+<TABLE EXTRACT (TABLE NUMBER = 1, PAGE NUMBER = 7)>
+['', 'rate of', 'matrix® sg/acre/year', '', '']
+['crops', 'oz product', 'lb active ingredient (ai)', 'pre-harvest interval (phi)', 'use rate restrictions']
+['citrus fruit: australian desert lime; australian finger-lime; australian round lime; brown river finger lime; calamondin; citron; citrus hybrids; grapefruit; japanese summer grapefruit; kumquat; lemon; time; mediterranean mandarin; mount white lime; new guinea wild lime; orange, sour; orange, sweet; pummelo; russell river lime; satsuma mandarin; sweet lime: tachibana orange; tahiti lime; tangelo; tangerine (mandarin); tangor; trifoliate orange; uniq fruit; cultivars, varieties, and/or hybrids of these', '4.0 oz', '0.0625 lb ai', '3 days', 'do not apply more than 4 oz (0.0625 lb ai) matrix® sg per acre per year. when applied as a banded treatment (50% band or less), matrix® sg may be applied twice per year. do not make more than 1 broadcast application or 2 band applications per year. allow a minimum 30 days interval for band applications, except for yellow nutsedge the minimum retreatment interval is 14 days. refer to application information section for additional use restrictions.']
+['corn, field (california)', '0.5 2.0 oz', '0.008 0.0313 lb ai', 'restriction: do not apply to corn taller than 12 inches or exhibiting 6 or more leaf collars, whichever is more restrictive.', 'do not apply more than 2.0 oz (0.0313 lb ai) matrix® sg per acre per year. allow at least 28 days between applications. refer to application information section for additional use restrictions.']
+['grape', '4.0 oz', '0.0625 lb ai', '14 days', 'do not apply more than 4 oz (0.0625 lb ai) matrix® sg per acre per year. when applied as a banded treatment (50% band or less), matrix® sg may be applied twice per year. do not make more than 1 broadcast application or 2 band applications per year. allow a minimum 30 days retreatment interval for band applications, except for yellow nutsedge the minimum retreatment interval is 14 days. refer to application information section for additional use restrictions.']
+['grass grown for seed (oregon, washington)', '3.0 oz', '0.0469 lb ai', 'na', 'do not apply more than 3 oz (0.0469 lb ai) matrix® sg per acre per year. do not make more than 1 application of matrix® sg per year. refer to application information section for additional use restrictions.']
+['pome fruit: apple; azarole; crabapple; loquat; mayhaw; medlar; pear; pear, asian; quince; quince, chinese; quince, japanese; tejocote; cultivars, varieties, and/or hybrids of these', '4.0 oz', '0.0625 lb ai', '7 days', 'do not apply more than 4 oz (0.0625 lb ai) matrix® sg per acre per year. when applied as a banded treatment (50% band or less), matrix® sg may be applied twice per year. do not make more than 1 broadcast application or 2 band applications per year. allow a minimum 30 days retreatment interval for band applications, except for yellow nutsedge the minimum retreatment interval is 14 days. refer to application information section for additional use restrictions.']
+table extracted to localhost:5151/DuPontMatrixLabel_6_table_1.png
+<TABLE EXTRACT />
+7
+<TABLE EXTRACT (TABLE NUMBER = 1, PAGE NUMBER = 8)>
+['', 'rate of', 'dupont matrix®', 'sg/acre/year', '']
+['crops', 'oz product', 'lb active ingredient (ai)', 'pre-harvest interval (phi)', 'use rate restrictions']
+['stone fruit: apricot; apricot, japanese; capulin; cherry, black; cherry, nanking; cherry, sweet; cherry, tart; jujube, chinese; nectarine; peach; plum; plum, american; plum, beach; plum, canada; plum, cherry; plum, chickasaw; plum, damson; plum, japanese; plum, klamath; plum, prune; plumcot; sloe; cultivars, varieties, and/or hybrids of these', '4.0 oz', '0.0625 lb ai', '14 days', 'do not apply more than 4 oz (0.0625 lb ai) matrix® sg per acre per year. when applied as a banded treatment (50% band or less), matrix® sg may be applied twice per year. do not make more than 1 broadcast application or 2 band applications per year. allow a minimum 30 days retreatment interval for band applications,e except for yellow nutsedge the minimum retreatment interval is 14 days. refer to application information section for additional use restrictions.']
+['tomato: direct seeded and transplant', '1.0 4.0 oz', '0.0156 - 0.0625 lb ai', '45 days', 'do not apply more than 4.0 oz (0.0625 lb ai) matrix® sg per acre (broadcast basis) on tomatoes during the same year. banding applications of matrix® sg must not exceed 4.0 ounces on a broadcast basis in the same year. do not make more than 3 broadcast or band applications per year. minimum 7-day retreatment interval. refer to application information section for additional use restrictions.']
+['tree nuts: african nut-tree; almond; beechnut; brazil nut; brazilian pine; bunya; bur oak; butternut; cajou nut; candlenut; cashew; chestnut; chinquapin; coconut; coquito nut; dika nut; ginkgo; guiana chestnut; hazelnut (filbert); heartnut; hickory nut; japanese horse-chestnut; macadamia nut; mongongo nut; monkey-pot; monkey puzzle nut; okari nut; pachira nut; peach palm nut; pecan; pequi; pili nut; pine nut; pistachio; sapucaia nut; tropical almond; walnut, black; walnut, english; yellowhorn; cultivars, varieties, and/or hybrids of these', '4.0 oz', '0.0625 lb ai', '14 days', 'do not apply more than 4 oz (0.0625 lb ai) matrix® sg per acre per year. when applied as a banded treatment (50% band or less), matrix® sg may be applied twice per year. do not make more than 1 broadcast application or 2 band applications per year. allow a minimum 30 days retreatment iinterval for band applications, except for yellow nutsedge the minimum retreatment interval is 14 days. refer to application information section for additional use restrictions.']
+['potato', '1.0 1.5 oz', '0.0156 0.0234 lb ai', '30 days', 'do not apply more than 2.5 oz (0.0391 lb ai) of matrix® sg per acre per year. do not make more than 2 applications of matrix® sg per year. minimum 14-day retreatment interval. refer to application information section for additional use restrictions.']
+table extracted to localhost:5151/DuPontMatrixLabel_7_table_1.png
+<TABLE EXTRACT />
+8
+<HEADING (PAGE NUMBER = 9)>citrus fruit, pome fruit, stone fruit, tree nuts and grapes {['TITLE EXTRACT']}< HEADING />
+application information
+apply dupont™ matrixo sg as a uniform broadcast application to the orchard or vineyard floor or as a uniform band
+application directed at the base of the trunk or vine.
+for broadcast applications, make a single application of matrix® sg at 4 ounces (0.0625 lb ai) per acre per year. for
+improved weed management, matrix® sg should be applied in tank mixture with other registered preemergence
+herbicides.
+matrix® sg may be applied twice per acre per year as a banded treatment preemergence or postemergence at the 4
+ounces (0.0625 lb ai) of product rate, per conventional broadcast acre, at 50% banding or less. see below to calculate actual
+treated area when using band applications.
+<BOLD (PAGE NUMBER = 9)>band width (inches) x rate per broadcast acre = amount matrix® sg band applied per acre</BOLD>
+<BOLD (PAGE NUMBER = 9)>row width (inches)</BOLD>
+to help ensure uniform coverage, use a minimum of 10 gallons of spray solution per acre. nozzle selection must meet
+manufacture's spray volume and pressure instructions for preemergence or postemergence herbicide applications.
+apply only to crops that have been established for one full growing season and are in good health and vigor.
+best results are obtained when the soil is moist at the time of application, and 1/2 inch of rainfall or sprinkler irrigation
+occurs within 2 weeks after application. time the application(s) to take advantage of normal rainfall patterns and cool
+temperatures. moisture for activation should occur within 2-3 weeks after application.
+matrix® sg may also be applied by certain chemigation methods, including micro-sprinkler. however, do not apply by
+overhead, flood, or drip irrigation.
+<BOLD (PAGE NUMBER = 9)>use precautions</BOLD>
+direct sprays to minimize spray contact with fruit or foliage.
+avoid direct or indirect spray contact with crop foliage or fruit, except undesirable suckers.
+<BOLD (PAGE NUMBER = 9)>use restrictions</BOLD>
+do not apply matrix® sg by air.
+use ground application equipment only.
+do not use matrix® sg in a spray solution with a ph of below 4.0 or above 8.0, or with spray additives that buffer the
+ph to below 4.0 or above 8.0, since degradation of matrix® sg may occur.
+do not apply more than 4 oz (0.0625 lb ai) of matrix® sg broadcast
+acre
+per
+per
+year.
+do not make more than 1 broadcast application or 2 band applications per year.
+allow a minimum of 30 days retreatment interval between band applications, except for yellow nutsedge the minimum
+retreatment interval is 14 days.
+weeds controlled - grapes, tree fruits (citrus, pome & stone), and tree nuts
+rainfall or irrigation is needed for herbicide activation. length of control is a function of moisture for activation, soil
+temperature, soil texture and amount of moisture after application.
+when weeds are present at application, include a labeled burn down herbicide, including glyphosate, paraquat, or
+glufosinate, with an appropriate adjuvant. matrix® sg will help provide postemergence control of the weeds listed in
+this label. for best results, make postemergence applications to young, actively growing weeds and include a spray
+adjuvant.
+residual weed control may be reduced when matrix® sg is applied where where heavy crop trash and/or weed residue
+exists. weed control may also be reduced when applications of matrix® sg are made to weeds under stress from
+drought, excessive water, temperature extremes, disease or low humidity.
+9
+<HEADING (PAGE NUMBER = 10)>preemergence weed control< HEADING />
+<TABLE EXTRACT (TABLE NUMBER = 1, PAGE NUMBER = 10)>
+['grasses', 'broadleaves', '']
+['barnyardgrass', 'burclover', 'marestail/horseweed']
+['bluegrass, annual', 'chamomile, false', 'mustard, birdsrape']
+['crabgrass, large', 'cheeseweed', 'mustard, black']
+['foxtail, giant', 'chickweed, common', 'pigweed, redroot']
+['foxtail, green', 'dandelion, common (seedling)', 'pigweed, smooth']
+['foxtail, yellow', 'fiddleneck, coast', 'puncturevine']
+['quackgrass', 'filaree, redstem', 'purslane, common']
+['ryegrass, italian', 'filaree, whitestem', 'redmaids']
+['wheat, volunteer', 'fleabane, hairy', 'rocket, london']
+['', 'groundsel, common', 'sowthistle, annual']
+['', 'henbit', 'spurge, prostrate']
+['', 'kochia', 'spurge, spotted']
+['', 'lettuce, prickly', 'sweetclover, yellow']
+['', 'mallow, common', 'swinecress, lesser']
+['', '', 'willowweed, panicle']
+table extracted to localhost:5151/DuPontMatrixLabel_9_table_1.png
+<TABLE EXTRACT />
+<HEADING (PAGE NUMBER = 10)>preemergence partial weed control< HEADING />
+<TABLE EXTRACT (TABLE NUMBER = 2, PAGE NUMBER = 10)>
+['grasses', 'broadleaves/sedges']
+['wild oat', 'cocklebur']
+['', 'dandelion, common (established) lambsquarters, common nightshade, black nightshade, hairy nutsedge, yellow pigweed, prostrate ragweed, common velvetleaf']
+table extracted to localhost:5151/DuPontMatrixLabel_9_table_2.png
+<TABLE EXTRACT />
+<HEADING (PAGE NUMBER = 10)>postemergence weed control< HEADING />
+<TABLE EXTRACT (TABLE NUMBER = 3, PAGE NUMBER = 10)>
+['grasses (1-2 inches)', 'broadleaves inches)']
+['barley, volunteer', 'chamomile, false']
+['barnyardgrass', 'chickweed, common']
+['bluegrass, annual', 'henbit']
+['crabgrass, large (1/2 inch)', 'kochia']
+['foxtail, bristly', 'mustard, black']
+['foxtail, giant', 'mustard, wild']
+['foxtail, green', 'pigweed, redroot']
+['foxtail, yellow', 'pigweed, smooth']
+['panicum, fall', 'purslane, common']
+['wheat, volunteer', "shepherd's-purse"]
+['', 'wild radish']
+table extracted to localhost:5151/DuPontMatrixLabel_9_table_3.png
+<TABLE EXTRACT />
+postemergence partial weed control
+<TABLE EXTRACT (TABLE NUMBER = 4, PAGE NUMBER = 10)>
+['grasses', 'broadleaves/sedges']
+['johnsongrass, seedling', 'cocklebur']
+['millet, wild-proso', 'dandelion, common (>6 inches in diameter)']
+['oat, wild', 'lambsquarters, common']
+['quackgrass', 'nightshade, hairy']
+['stinkgrass', 'nutsedge, yellow']
+['', 'pigweed, prostrate']
+['', 'ragweed, common smartweed, pennsylvania thistle, canada velvetleaf']
+table extracted to localhost:5151/DuPontMatrixLabel_9_table_4.png
+<TABLE EXTRACT />
+<HEADING (PAGE NUMBER = 10)>specific weed problems< HEADING />
+common dandelion and mallow: duponttm matrix® sg provides excellent preemergence control of
+common dandelion and mallow germinating from seed. in high rainfall areas or where sprinkler irrigation is used, a second
+application may be needed to extend residual control throughout the growing season. when applications are made
+postemergence to these weeds, always add a suitable burndown herbicide (e.g., glyphosate or paraquat). small and
+medium sized plants (up to 6 inches in diameter) are controlled by postemergence applications of matrix® sg plus a
+burndown herbicide; however, plants that are larger than 6 inches in diameter may only be suppressed and may require a
+second application 4 to 6 weeks later.
+marestail and fleabane: where marestail and fleabane are the target weeds, applications prior to emergence
+provide best results. this may require a fall application to help prevent fall germinated seedlings from becoming
+established during the winter. a foliar active herbicide with activity on fleabane and marestail (e.g., paraquat, glyphosate,
+and/or glufosinate) must be tank mixed with matrix® sg for best control and resistance management. after fall
+application, a second application in the spring may be required to provide extended weed control into the summer. where
+matrix® sg is applied for control of marestail and fleabane, it is also recommended that another soil residual herbicide
+be included as a tank mix or rotational partner to aid in resistance management.
+puncturevine: for best results, apply early in the spring when you can expect rainfall or overhead irrigation to move
+matrix® sg into the weed root zone before puncturevine germinates. puncturevine emerges over a long period of time
+and late season germinations may not be controlled.
+10
+yellow nutsedge: duponttm matrix® sg provides suppression of yellow nutsedge. to obtain the most
+effective results, use the highest rate allowed based on the width of your spray band and make two applications. for
+applications made postemergence to nutsedge, always add the appropriate rate of a glyphosate product and an effective {['TITLE EXTRACT']}
+adjuvant. on soils with high organic matter (6% or higher) always apply postemergence to weeds since preemergence
+applications are not as effective on these soils.
+<HEADING (PAGE NUMBER = 11)>application timing - yellow nutsedge< HEADING />
+preemergence plus early postemergence: make the preemergence application when you can expect rainfall or overhead
+irrigation to move matrix® sg into the nutsedge root zone prior to nutsedge emergence. make a second application
+when emerging nutsedge is 2 to 4 inches tall. postemergence plus second postemergence: make first application when
+emerging nutsedge is 2 to 4 inches tall. repeat application 14 days later. note: if yellow nutsedge is greater than 6 inches
+tall at the first application, weed control effectiveness will be greatly reduced.
+<BOLD (PAGE NUMBER = 11)>annual summer grasses (including barnyardgrass, green foxtail, and crabgrass): where sprinkler irrigation</BOLD>
+is used, a fall or early spring application of matrix® sg will not provide season-long control of summer grasses like
+foxtail, barnyardgrass and crabgrass. for best results, use matrix® sg with a suitable tank-mix herbicide containing one
+of the following active ingredients; indaziflam ("alion"), flumioxazin ("chateau"), oxyfluorfen ("goal", "goaltender"),
+oryzalin or pendimethalin. a second application may be needed to provide extended control of summer grasses.
+diuron containing products (washington and oregon): on coarse textured soils where crops are grown under sprinkler
+irrigation, avoid using diuron containing products as a tank-mix partner with matrix® sg between june 1 and
+september 30 since crop injury may result. matrix® sg tank-mixed with diuron products (including "karmex" df or
+"direx" 4l) can be used in the fall (after september 30), or early spring when temperatures are cool to moderate.
+crop rotation - fruit, nut, and vine crops
+restriction: do not plant any crops, except field corn, tomatoes, potatoes, and those listed on this label in table 1,
+within one year of the last matrix® sg application.
+prior to planting, fields to be rotated to the above crops should have a thorough soil mixing - for example, two diskings, or
+a plowing and a disking. to help ensure rotational crop safety, a field bioassay should be completed prior to planting any
+other desired crops. the results of this bioassay may require the crop rotation interval to be extended. a successful field
+bioassay means growing to maturity a test strip of the crop(s) intended for production. the test strip should cross the entire
+field including knolls and low areas.
+micro-sprinkler chemigation - fruit, nut, and vine crops
+matrix® sg may be applied via micro-sprinkler chemigation. the chemigation system must contain a functional check
+valve, vacuum relief valve, and low pressure drain appropriately located on the irrigation pipeline to prevent water source
+contamination from backflow. the pesticide injection pipeline must contain a functional, automatic, quick-closing check
+valve to prevent the flow of fluid back toward the injection pump. the pesticide injection pipeline must also contain a
+functional (normally closed) solenoid-operated valve located on the intake side of the injection pump and connected to the
+system interlock to prevent fluid from being withdrawn from the supply tank when the irrigation system is either
+automatically or manually shut down. the system must contain functional interlocking controls to automatically shut off
+the pesticide injection pump when the water pump motor stops. the irrigation line or water pump must include a functional
+pressure switch which will stop the water pump motor when the water pressure decreases to the point where pesticide
+distribution is adversely affected. systems must use a metering pump, including a positive displacement injection pump
+(e.g., diaphragm pump) effectively designed and constructed of materials that are compatible with pesticide(s) and capable
+of being fitted with a system interlock.
+use restrictions for chemigation - fruit, nut, and vine crops
+when applying matrix® sg via chemigation to these crops, use micro-sprinkler equipment only.
+do not connect an irrigation system used for matrix® sg herbicide application to a public water system.
+do not permit run-off during chemigation.
+use precautions for chemigation- fruit, nut, and vine crops
+distributing treated water in an uneven manner can result in crop injury, lack of effectiveness, or over-tolerance pesticide
+residues in the crop. therefore, to ensure that the mixture is applied evenly at the labeled rate, use sufficient water, apply
+the mixture for the proper length of time and ensure sprinkler produces a uniform water pattern.
+continuous agitation in the mix tank is needed to keep the product from settling. if settling does occur, thoroughly agitate
+the tank mixture before using.
+11
+<HEADING (PAGE NUMBER = 12)>grass grown for seed (oregon, washington) {['TITLE EXTRACT']}< HEADING />
+<HEADING (PAGE NUMBER = 12)>application information< HEADING />
+use duponttm matrix® sg only in conjunction with carbon planted perennial ryegrass and tall fescue grown for seed.
+the activated carbon band over the seed row absorbs matrix® sg so that seedling grass germinating beneath the carbon
+band is protected from the herbicide. the protection provided by the carbon band is only as good as the width and integrity
+of the band.
+heavy and/or persistent rains after planting can cause deterioration of the carbon band allowing matrix® sg to move
+into the grass root zone causing injury and/or stand loss. standing water can also increase the risk of matrix® sg
+moving vertically through the carbon band or laterally beneath the band.
+variability in seedbed preparation, and unpredictable environmental conditions, including heavy rain, can compromise the
+protection provided by the carbon band. therefore, to the extent consistent with applicable law, the grower assumes all
+risks of crop injury and/or stand loss associated with the use of matrix® sg.
+apply matrixo sg with properly calibrated ground equipment with good mechanical or by-pass agitation. only apply
+matrix® sg on early fall planted fields (refer to use precautions section) that have been prepared with a smooth, fine
+seedbed that is firmly packed prior to planting.
+during the planting operation, apply activated carbon at the label directed rate as long as that rate is not lower than 300 lbs
+per acre. apply the activated carbon in a band at least 1.0 inch wide centered over the seed row. use a minimum spray
+volume of 40 gallons per acre to apply the activated carbon.
+<BOLD (PAGE NUMBER = 12)>weeds controlled - grass grown for seed</BOLD>
+in the area outside of the carbon band, matrix® sg will provide control of seedling annual bluegrass, annual and
+perennial ryegrass, volunteer wheat, and roughstock bluegrass.
+note: certain biotypes of diuron resistant annual bluegrass have shown reduced sensitivity to matrix® sg and may not
+be adequately controlled. where these biotypes are known to exist, apply matrix®sg in a tank-mix with "kerb" sc, a
+pronamide containing herbicide.
+some biotypes of annual bluegrass that are resistant to other herbicides have also shown reduced sensitivity to matrix®
+sg. where these biotypes are present, matrix® sg used alone will only provide suppression.
+<BOLD (PAGE NUMBER = 12)>tank mixes with other herbicides</BOLD>
+matrix® sg can be applied in a tank-mix with other pre-emergence herbicides, including "kerb sc or a diuron
+containing herbicide, that are also registered for use in carbon planted grass grown for seed. it is the pesticide user's
+responsibility to ensure that all products are registered for the intended use. read and follow the applicable restrictions and
+limitations and directions for use on all product labels involved in tank mixing. users must follow the most restrictive
+directions for use and precautionary statements of each product in the tank mixture.
+<BOLD (PAGE NUMBER = 12)>use rate</BOLD>
+apply matrix® sg at 3.0 ounces (0.0469 lb ai) per acre immediately (within 5 days) after carbon planting and prior to
+grass emergence. in areas where there are biotypes of annual bluegrass that are resistant to matrix® sg, apply
+matrix® sg in a tank-mix with "kerb" sc. make application before grass emergence while the carbon band is still
+do not apply matrix® sg if heavy rainfall or overhead irrigation has caused dissipation of the carbon band. best
+intact.
+results are obtained when rainfall of 1/4 to 1/2 inch or light, frequent irrigation occurs, within two weeks after matrix®
+sg is applied.
+if matrix® sg is being used on fields that are sprinkler irrigated, best practice is to irrigate before planting to provide
+enough moisture for grass germination and then apply not more than 1/4 to 1/2 inch of water in the first irrigation after
+matrix® sg is applied.
+<BOLD (PAGE NUMBER = 12)>crop rotation</BOLD>
+where matrix® sg has been applied in the fall and stand loss has occurred over the winter; best practice is to wait until
+soil temperatures are warm enough to support rapid germination (usually mid to late march) before trying to replant grass
+in the spring.
+<BOLD (PAGE NUMBER = 12)>use precautions</BOLD>
+crop injury and/or stand loss can occur in treated areas that have standing water.
+crop injury may occur in areas of fields where heavy residue from the previous crop makes it difficult to form a smooth,
+fine seed bed.
+crop injury may occur in areas of spray overlap.
+crop injury may occur if the carbon band is less than 1.0 inch wide.
+12
+<BOLD (PAGE NUMBER = 13)>use restrictions</BOLD>
+do not apply more than 3 oz (0.0469 lb ai) duponttm matrix® sg per acre per year. {['TITLE EXTRACT']}
+do not make more than 1 application of matrix® sg per year.
+when a tank mix of matrix® sg and with "kerb" sc is applied, do not graze livestock in the treated fields or cut
+treated fields for forage or hay for livestock feed for 180 days following application.
+do not apply matrix® sg through any type of irrigation system.
+do not use matrix® sg if heavy rainfall and/or overhead irrigation has caused deterioration of the carbon band prior
+to application.
+do not use matrix® sg on fields that routinely have large areas of standing water.
+after planting, prior to grass emergence, do not use big gun irrigation or other types of overhead irrigation that product
+large droplets that can displace the carbon band.
+do not use matrix® sg on fields that have enough slope to cause surface runoff.
+to avoid herbicide injury related to late planted grass, do not apply matrix® sg to fields planted after october 31.
+do not apply matrix® sg to fields with sandy or gravelly soil.
+<HEADING (PAGE NUMBER = 13)>potatoes< HEADING />
+application information
+<BOLD (PAGE NUMBER = 13)>use precautions</BOLD>
+crop injury can occur (leaf burn and temporary yellowing) when applications are made under high temperatures.
+addition of fungicides may increase the level of crop injury.
+in warm, moist conditions, the expression of herbicide symptoms is accelerated; in cold, dry conditions, expression of
+herbicide symptoms is delayed and may be more variable in weed control.
+use restrictions
+do not apply matrix® sg on potatoes within 30 days of harvest.
+do not make more than 2 applications of matrix sg per year.
+do not exceed 2.5 ounces (0.0391 lb ai) matrix® sg per acre per year.
+do not apply to sweet potatoes or yams.
+do not apply to potatoes growing in greenhouses, cold frames, pot cultures, etc. apply only to potatoes growing in
+fields.
+pre-emergence application
+for best results, apply matrix® sg at 1 to 1.5 ounces (0.0156-0.0234 lb ai) product per acre, immediately after hilling,
+drag-off, or reservoir tillage (dam/dike operation), to a clean, newly prepared seedbed.
+to activate matrix® sg in the soil, supply moisture by a single rainfall event, or apply sprinkler irrigation of 1/3 to 1"
+(sandy soils apply at least 1/3", sandy loams apply at least 1/2", silt soils apply at least 3/4", clay soils apply at least 1"),
+within 5 days after application, to move matrix® sg 2 to 3" deep into the soil profile. activating sprinkler irrigation is
+required regardless of the soil moisture level at planting, or the cumulative precipitation that occurs over the next 5 days
+(unless rainfall occurs in a single event and equals the activation moisture requirement). if rainfall or sprinkler activation
+cannot be managed, waiting for weeds to emerge and applying matrix® sg postemergence would result in better weed
+control.
+if a clean, newly prepared seedbed, free of emerged or germinating weeds does not occur, and weeds are present at
+application, add a spray adjuvant to the spray mix (see the "spray adjuvant" section of this label for additional
+information). control may not be adequate for weeds that have an established root system before activation of matrix®
+sg.
+tank mixtures - preemergence applications
+matrix® sg may be tank mixed with pesticide products labeled for use on potatoes, including "eptam" 7e (eptc),
+"prowl" (pendamethalin), "lorox" df (linuron), cinchr or "dual ii magnum"(s-metolachor), roundup" or glyphosate-
+containing products registered for potatoes, in accordance with the most restrictive of label limitations and precautions.
+matrix® sg may also be used in three-way tank mix combinations with the above pesticide(s). if these instructions
+conflict with this matrix® sg label, do not use as a tank mix with matrix® sg.
+it is the pesticide user's responsibility to ensure that all products are registered for the intended use. read and follow the
+applicable restrictions and limitations and directions for use on all product labels involved in tank mixing. users must
+follow the most restrictive directions for use and precautionary statements of each product in the tank mixture.
+13
+dupont™ matrix sg plus a metribuzin based herbicide (including "sencor") {['TITLE EXTRACT']}
+apply a tank mix combination of matrix® sg at 1 to 1.5 ounces (0.0156-0.0234 lb ai) per acre and a metribuzin
+herbicide for better control of such weeds as kochia, russian thistle and common lambsquarters. for best results apply after
+hilling or drag-off to a clean, newly prepared seedbed, before potatoes emerge and weeds germinate. read and follow the
+metribuzin label for your area.
+matrix® sg plus a eptc based herbicide (including "eptam" 7e)
+apply a tank mix of matrixo sg at 1 to 1.5 ounces (0.0156-0.0234 lb ai) per acre and "eptam" 7e herbicide at label rates
+for better control of weeds including hairy nightshade and crabgrass. for best results apply after hilling or drag-off to a clean,
+newly prepared seedbed, before potatoes emerge and weeds germinate. since the rates and incorporation methods of eptc
+based herbicides vary by region, follow the instructions for your region. it is recommended to incorporate a tank mix of
+"eptam" 7e herbicide + matrix® sg using irrigation, and not equipment, to prevent poor weed control from deep
+incorporation of the matrixrs
+if your area does not allow incorporation using irrigation, then apply "eptam" 7e herbicide and matrix® sg in a split
+application. read and follow both product labels for your area.
+matrixosg plus a pendimethalin based herbicide (including "prowl")
+apply a tank mix combination of matrix® sg at 1 to 1.5 ounces (0.0156-0.0234 lb ai) per acre and "prowl" herbicide at
+label rates for better control of such weeds as kochia, crabgrass, and common lambsquarters. for best results apply after hilling
+or drag-off to a clean, newly prepared seedbed, before potatoes emerge and weeds germinate. read and follow the "prowl"
+herbicide label for your area.
+matrix®sg plus a linuron based herbicide (including "lorox" df)
+apply a tank mix combination of matrix® sg at 1 to 1.5 ounces (0.0156-0.0234 lb ai) per acre and "lorox" df herbicide at
+label rates for better control of such weeds as common lambsquarter and common ragweed. for best results apply after hilling
+or drag-off to a clean, newly prepared seedbed, before potatoes emerge and weeds germinate. read and follow the "lorox" df
+herbicide label for your area.
+matrixosg plus as-metalochlor based herbicide (including cinch® or "dual magnum")
+apply a tank mix combination of matrix® sg at 1 to 1.5 ounces (0.0156 - 0.0234 lb ai) per acre and cinch® or "dual ii
+magnum" herbicide at label rates for better control of such weeds as yellow nutsedge and black nightshade. for best results
+apply after hilling or drag-off to a clean, newly prepared seedbed, before potatoes emerge and weeds germinate. read and
+follow both product labels for your area.
+postemergence application
+for postemergence applications, apply matrix® sg at 1 to 1.5 ounces (0.0156 0.0234 lb ai) per acre to young, actively
+growing weeds after crop emergence. typically, small weeds (less than 1" in height or diameter) that are actively growing
+at
+application are most easily controlled (see the "specific weed problem" section of this label for more information).
+under growing conditions that promote crop stress (including drought, frost, cold temperatures, high temperatures, or extreme
+temperature variations), temporary chlorosis (lime green color) may occur after application of matrix® sg. symptoms
+usually disappear within 5 to 15 days.
+for best results with matrix® sg postemergence, rainfall or sprinkler irrigation of 1/3 to 1" (sandy soils apply at least 1/3",
+sandy loams apply at least 1/2", silt soils apply at least 3/4", clay soils apply at least 1"), no sooner than 4 hours, but not more
+than 5 days after application, will activate matrix® sg in the soil and help provide control of subsequent flushes of annual
+weeds.
+tank mixtures (potatoes) - postemergence applications
+matrix® sg may be tank mixed with pesticide products labeled for use on potatoes (including "eptam" 7e and metribuzin
+based products) in accordance with the most restrictive of label limitations and precautions. when tank mixing matrix® sg
+with another potato pesticide(s), read and follow all use directions, restrictions, and precautions of both matrix® sg and the
+tank mix partner(s).
+matrix® sg may also be used in three-way tank mix combinations with the above pesticide(s). if these instructions conflict
+with this matrix® sg label, do not use as a tank mix with matrix® sg.
+it is the pesticide user's responsibility to ensure that all products are registered for the intended use. read and follow the
+applicable restrictions and limitations and directions for use on all product labels involved in tank mixing. users must follow
+the most restrictive directions for use and precautionary statements of each product in the tank mixture.
+matrixosg plus foliar fungicides
+matrix® sg may be tank mixed with other suitable registered fungicides on potatoes. including curzate@60di
+(cymoxanil), "manzate" (mancozeb), and "bravo" (chlorthalonil) at labeled rates.
+read and follow all manufacturer's label instructions for the companion fungicide. if these instructions conflict with this
+matrix® sg label, do not use as a tank mix with matrix® sg.
+14
+duponttmmatrix® plus a metribuzin based herbicide (including "sencor") {['TITLE EXTRACT']}
+apply a tank mix combination of matrix® sg at 1 to 1.5 ounces (0.0156-0.0234 lb ai) per acre and a metribuziin containing
+herbicide (including "sencor") at label rates for improved weed control of such weeds as russian thistle, common
+lambsquarters and triazine-resistant weeds. use a nonionic surfactant (nis) at 0.125% v/v (1 pt/100 gal of water). the
+addition of adjuvants to post emergence metribuzin applications may reduce crop safety. use adjuvants with caution.
+when possible, avoid post emergence applications on metribuzin sensitive varieties or if the crop is under stress. read and
+follow both product labels for your area.
+note: the use of crop oil concentrate (coc) or methylated seed oil (mso) is not advised for tank mix combinations with
+matrix®sg plus metribuzin.
+matrix® sg plus a eptc based herbicide (including "eptam" 7e)
+apply matrix® sg herbicide at 1 to 1.5 ounces (0.016-0.024 lb ai) per acre in tankmix with label rates of "eptam" 7e
+herbicide. include 1% volume/volume (1 gal per 100 gal spray solution) of either of a modified seed oil adjuvant (mso) or
+0.5% volume/volume (0.5 gal per 100 gal spray solution) of a organo-silicon/modified seed oil blend (os/mso-including
+"dyne-amic", "rivet", or "phase"). include 2 lb/acre of a spray-grade ammonium sulfate (ams).
+for best results, rainfall or sprinkler irrigation of 1/3 to 1" (sandy soils apply at least 1/3", sandy loams apply at least 1/2", silt
+soils apply at least 3/4", clay soils apply at least 1"), no sooner than 4 hours after application, but not more than 1 day after
+application.
+additional "eptam" 7e herbicide can be added during the water in process if desired (read and follow all use directions,
+restrictions, and precautions on the eptc product label before use. if these instructions conflict with this matrix® sg label,
+do not use as a tank mix with matrixsg.
+sequential applications - potatoes
+depending upon rainfall or other environmental conditions, and the density of the top growth of the potato variety (those with
+poor top growth including norkotah), annual weeds may have a second flush of germinating seedlings, and treated perennials
+may produce new growth from underground roots or stems. to maximize control of such weeds, it may be necessary to apply
+matrix® sg a second time, 14 to 28 days after the first application (typically, make applications to small weeds that are less
+than 1" in height or diameter that are actively growing). restrictions: make no more than 2 applications, and the combined rate
+of the applications cannot exceed 2.5 ounces (0.0391 lb ai) matrix® sg per acre.
+<HEADING (PAGE NUMBER = 15)>potatoes grown for seed< HEADING />
+<BOLD (PAGE NUMBER = 15)>application information</BOLD>
+matrix® sg may be used on potatoes grown for seed that use field grown tubers as the planted seed piece, and are at least
+the progeny of the first field planting*.
+apply matrix® sg by any of the following methods:
+- preemergence 1.5 oz (0.0234 lb ai) per acre
+- postemergence at 1.0 to 1.5 oz (0.0156-0.0234 lb ai) per acre
+- in a sequential application preemergence at 1.0-1.5 oz (0.0156-0.0234 lb ai) per acre, followed by postemergence at 1.0 oz
+(0.0156 lb ai) per acre.
+- postemergence at 1.0 oz (0.0156 lb ai) per acre followed by second postemergence at 1.0 oz (0.0156 lb ai) per acre.
+to activate matrix® sg preemergence, supply moisture by a single rainfall event, or apply sprinkler irrigation of 1/3 to 1"
+(sandy soils apply at least 1/3", sandy loams apply at least 1/2", silt soils apply at least 3/4", clay soils apply at least 1"), within
+5 days after application, to move matrix® sg 2" to 3" deep into the soil profile.
+<BOLD (PAGE NUMBER = 15)>use precautions</BOLD>
+the rotational crop interval listed in the matrix® sg label may need to be extended to 18 months if seed potato production
+practices decrease water and/or time for matrix® sg breakdown. practices that may shorten the breakdown are late
+planting or less frequent irrigations as compared to commercial production practices. potatoes can be planted at anytime.
+consider informing your state seed certification agency or inspector that matrix® sg has been applied. under growing
+conditions that promote crop stress (including drought, frost, cold temperatures, high temperatures, or extreme temperature
+variations), temporary chlorosis (lime green color) may occur after application. these symptoms may appear similar to virus
+like symptoms (including chlorosis, leaf crinkling, pinching of terminal leaflet) but will usually disappear within 5 to 15 days
+of application.
+<BOLD (PAGE NUMBER = 15)>use restrictions</BOLD>
+do not make more the 2 applications of matrix® sg per year.
+do not exceed 2.5 oz (0.0391 lb ai) of matrix® sg per acre per year.
+do not apply to plants suffering stress from lack of moisture, cold, herbicide injury, and insect or disease injury.
+15
+do not use on potatoes grown for seed if these are grown from microtubers or transplants. depending on geography, these {['TITLE EXTRACT']}
+may be referred to as generation 1, nuclear, elite 1, or pre-elite.
+the rotational crop interval for spring barley is extended to 18 months due to the shorter growing seasons and different
+cultural practices in seed production in the states of california, idaho, oregon, montana, south dakota, washington,
+colorado, and parts of north dakota**
+first field planting utilizes laboratory tested stocks which may be tissue cultured plantlets, greenhouse produced microtubers,
+*
+minitubers, stem cuttings, or line selections.
+** all counties in north dakota except pembina, towner, walsh, grand forks, trail and cass.
+<HEADING (PAGE NUMBER = 16)>weeds controlled - potato< HEADING />
+preemergence control
+<TABLE EXTRACT (TABLE NUMBER = 1, PAGE NUMBER = 16)>
+['grasses', 'broadleaves']
+['barnyardgrass', 'chamomile, false']
+['foxtail, giant', 'filaree, redstem']
+['foxtail, green', 'henbit']
+['foxtail, yellow', 'kochia']
+['wheat, volunteer', 'mustard, birdsrape']
+['', 'mustard, black']
+['', 'pigweed, prostrate']
+['', 'pigweed, redroot']
+['', 'pigweed, smooth']
+['', 'purslane, common']
+table extracted to localhost:5151/DuPontMatrixLabel_15_table_1.png
+<TABLE EXTRACT />
+preemergence (partial control)
+<TABLE EXTRACT (TABLE NUMBER = 2, PAGE NUMBER = 16)>
+['grasses', 'broadleaves']
+['crabgrass', 'cocklebur']
+['wild oat', 'lambsquarters, common']
+['', 'nightshade+, black']
+['', 'nightshade, hairy']
+['', 'pigweed, prostrate']
+['', 'ragweed, common']
+['', 'velvetleaf']
+table extracted to localhost:5151/DuPontMatrixLabel_15_table_2.png
+<TABLE EXTRACT />
++ eastern black nightshade (solanum ptycanthum) is not controlled or suppressed
+postemergence control
+<TABLE EXTRACT (TABLE NUMBER = 3, PAGE NUMBER = 16)>
+['grasses', 'broadleaves']
+['barley, volunteer', 'chamomile, false']
+['barnyardgrass', 'chickweed, common']
+['bluegrass, annual', 'henbit']
+['crabgrass foxtail,', 'kochia']
+['bristly', 'mustard, birdsrape']
+['foxtail, giant', 'mustard, black']
+['foxtail, green', 'mustard, wild']
+['foxtail, yellow', 'pigweed, redroot']
+['panicum, fall', 'pigweed, smooth']
+['wheat, volunteer', 'purslane, common']
+['', "shepherd's purse wild radish"]
+table extracted to localhost:5151/DuPontMatrixLabel_15_table_3.png
+<TABLE EXTRACT />
+postemergence (partial control):
+<TABLE EXTRACT (TABLE NUMBER = 4, PAGE NUMBER = 16)>
+['grasses', 'broadleaves', '']
+['johnsongrass, seedling', 'thistle, canada', 'pigweed, prostrate']
+['millet, wild prosso', 'cocklebur', 'ragweed, common']
+['quackgrass', 'lambsquarters, common', 'smartweed, pennsylvania']
+['stinkgrass', 'morningglory, ivyleaf', 'velvetleaf']
+['wild oat', 'nightshade, hairy', 'volunteer alfalfa**']
+['yellow nutsedge', 'nightshade*+, black', '']
+table extracted to localhost:5151/DuPontMatrixLabel_15_table_4.png
+<TABLE EXTRACT />
+eastern black nightshade (solanumptycanthum) is not controlled or suppressed.
+*
+except in california
+weed partial control is a reduction in weed competition (reduced population and/or vigor) as visually compared to an untreated area.
+the degree of partial control varies with the rate used, the size of the weeds, and the environmental conditions following treatment.
+see specific weed problems
++
+aerial application
+(alsoread spray driftmanagement section)
+- use nozzle types and arrangements that will provide optimum spray distribution and maximum coverage at a minimum of 5
+gpa. in california use a minimum of 10 gpa.
+aerial application restrictions:
+- do not apply during a temperature inversion, when winds are gusty, or when conditions favor poor coverage and/or off-target
+spray movement.
+16
+do not apply by air in the state of california, except in modoc or siskiyou counties. {['TITLE EXTRACT']}
+-
+- do not apply by air in the state of new york.
+chemigation - potatoes only
+dupont™ matrix® sg can be applied using center pivot, lateral move, solid set, or hand move irrigation systems in
+potatoes. do not apply matrix® sg using any other type of irrigation system. check irrigation systems to insure uniform
+application of water to all areas. failure to apply matrix® sg uniformly may result in crop injury and/or poor weed control.
+for best results, use the highest labeled rate and apply preemergence to early postemergence to the weeds (weeds less than 1"
+tall). if weeds are present at application, add a nonionic surfactant containing at least 80% active ingredient to the spray mix at
+1 to 2 pt/acre.
+matrix® sg may be mixed in a supply tank with water, fertilizer, or other appropriate agricultural chemicals. maintain
+continuous agitation in the injection nurse tanks during application.
+for solid set and hand move irrigation systems, apply matrix sg at the beginning of the set and then apply 1/3 to 1" of
+water for activation (sandy soils apply at least 1/3", sandy loams apply at least 1/2", silt soils apply at least 3/4", clay soils
+apply at least 1").
+for center pivot and lateral move irrigation systems, apply matrix sg in 1/3 to 1" of water for activation as a continuous
+injection (sandy soils apply at least 1/3", sandy loams apply at least 1/2", silt soils apply at least 3/4", clay soils apply at least
+1").
+if you have questions about calibrating chemigation equipment, contact state extension service specialists, equipment
+manufacturers, or other experts. if the chemigation equipment needs adjustment, only the custodian responsible for its
+operation, or someone under the supervision of that custodian, can make the necessary adjustments.
+irrigation system requirements
+the irrigation system must contain the following:
+a functional check valve
+vacuumreliefvalve
+a low pressure drain (to prevent water source contamination from backflow; must be located on the irrigation pipeline)
+functional interlocking controls (to automatically shut-off the pesticide injection pump when the water pump motor stops)
+metering pump, including a positive displacement injection pump (e.g., diaphragm pump) effectively designed and
+a
+constructed of materials that are compatible with pesticides and capable of being fitted with a system interlock
+the pesticide injection pipeline must contain the following:
+a functional, automatic, quick-closing check valve (to prevent the flow of fluid back toward the injection pump)
+a functional, solenoid-operated valve (normally closed) located on the intake side of the injection pump (should be connected
+to the system interlock to prevent fluid from being withdrawn from the supply tank when the irrigation system is shut down
+either automatically or manually)
+the irrigation line or water pump must include a functional pressure switch that will stop the water pump motor when pesticide
+distribution is adversely affected by a decrease in water pressure.
+use precautions for chemigation-potatoes
+distributing treated water in an uneven manner can result in crop injury, lack of effectiveness, or over-tolerance pesticide
+residues in the crop. therefore, to ensure that the mixture is applied evenly at the labeled rate, use sufficient water, and apply
+the mixture for the proper length of time.
+use restrictions for chemigation -potatoes
+do not permit run-off during chemigation.
+do not apply when wind speed favors drift beyond the area intended for treatment.
+do not connect an irrigation system (including greenhouse systems) used for matrix® sg application to a public water
+system.
+matrix®sg rotational crop restrictions - potato
+for crops listed below, planting prior to the interval shown may result in crop injury when using matrix® sg. rotation
+intervals may need to be extended to 18 months if drought conditions prevail after application and before the rotational crop is
+planted, unless supplemental sprinkler irrigation has been applied and totals greater than 15" during the growing season. for
+tank mixtures, follow the most restrictive rotational crop guideline
+17
+<TABLE EXTRACT (TABLE NUMBER = 1, PAGE NUMBER = 18)>
+['rotation crop', 'interval (months)']
+['alfalfa', '4']
+['barley, spring', '9']
+['beans, dry', '10']
+['beans, succulent', '10']
+['carrots (kern county, ca)*', '4']
+['carrots*', '10']
+['corn, field', 'anytime']
+['corn, popcorn', '10']
+['corn, sweet', '10']
+['cotton', '10']
+['cover crops (erosion control)', '4']
+['cucumber', '10']
+['garlic', '6']
+['grass, pasture, hay, seed*', '4']
+["mint'", '4']
+['oats, spring', '9']
+['onions**', '10']
+['peas*', '8']
+['potatoes', 'anytime']
+['sunflowers', '10']
+['soybeans', '4']
+['tomatoes', 'anytime']
+['wheat, spring', '9']
+['wheat, winter', '4']
+['crops not listed', '18']
+table extracted to localhost:5151/DuPontMatrixLabel_17_table_1.png
+<TABLE EXTRACT />
+idaho - 18 months for teton county, caribou county, madison county east of hwy 20, and fremont county east of hwy 20.
+*
+colorado - alamosa, conejos, costilla, rio grande and saguache counties: 1.5 oz (0.0234 lb ai) or less duponttm matrix® sg per acre
+per year--9 months; greater than 1.5 oz (0.0234 lb ai) of matrix® sg per acre per year--18 months
+for the select counties listed below in or and wa where potatoes are grown under a minimum of 18 inches of sprinkler irrigation per
+season, alfalfa may be rotated at 4 months after application. all other areas may be rotated to alfalfa at 18 months after application. this
+rotation interval is for sand, loamy sand and sandy loam soils having not more than 1.5% organic matter where a minimum of 18 inches of
+sprinkler irrigation is used on the previous potato crop. injury to the rotated crop may occur if less than 18 inches of irrigation is used on
+the previous potato crop. for tank mixtures, follow the most restrictive rotational crop guideline.
+for rotation to alfalfa: matrix® sg in potatoes not to exceed 1 oz (0.0156 lb ai) per use year in adams, grant, douglas and lincoln
+counties of washington, and matrix® sg in potatoes not to exceed 1.5 oz (0.0234 lb ai) per acre per year in benton, franklin, klickitat,
+walla walla and yakima counties in washington and morrow and umatilla counties in oregon.
+for rotation to onions and carrots: matrix sg in potatoes not to exceed 1.5 oz (0.0234 lb ai) per acre per year in adams, grant,
+douglas and lincoln counties of washington, and matrix® sg in potatoes not to exceed 2.5 oz (0.0391 lb ai) per acre per year in
+benton, franklin, klickitat, walla walla and yakima counties in washington and morrow and umatilla counties in oregon.
+for rotation to grass crops grown for seed, hay or pasture: matrix sg in potatoes not to exceed 1.5 oz (0.0234 lb ai) per acre per
+use year in adams, grant, douglas and lincoln counties of washington, and matrix® sg in potatoes not to exceed 2.5 oz (0.0391 lb
+ai) per acre per use year in benton, franklin, klickitat, walla walla and yakima counties in washington and morrow and umatilla
+counties in oregon.
+for rotation to peas and mints: matrix® sg in potatoes not to exceed 1.5 oz (0.0234 lb ai) per acre per use year in all areas.
+note: matrix sg must not be used in a tankmix or sequential application program with other soil residual als-inhibiting herbicides on
+potatoes as the combined effects of these herbicides on the planting of subsequent crops have not been thoroughly investigated and crop injury
+may occur.
+<HEADING (PAGE NUMBER = 18)>tomatoes (direct seeded and transplant)< HEADING />
+application information
+<HEADING (PAGE NUMBER = 18)>use restrictions< HEADING />
+do not apply matrix® sg within 45 days of tomato harvest.
+do not apply matrix sg by air on tomatoes.
+do not apply using assisted (airblast) field crops sprayers on tomatoes.
+do not exceed 4.0 oz (0.0625 lb ai) matrix® sg per acre (broadcast basis) on tomatoes during the same year.
+do not make more than 3 applications broadcast of matrix sg per year.
+banding applications of matrix® sg must not exceed 4.0 oz (0.0625 lb ai) on a broadcast basis in the same year.
+do not make more than 3 applications banded of matrix® sg per year.
+do not apply to tomatoes growing in greenhouses, cold frames, pot cultures, etc. apply only to tomatoes growing in fields.
+do not apply through any type of irrigation system.
+18
+<BOLD (PAGE NUMBER = 19)>pre-emergence applications</BOLD>
+for preemergence applications to the crop, apply duponttm matrix sg after seeding at 2.0-4.0 ounces (0.0313 - 0.0625 lb {['TITLE EXTRACT']}
+ai) product per acre.
+to activate matrix® sg in the soil, supply moisture by a single rainfall event, or apply sprinkler irrigation of 1/2 to 1"
+(sandy soils apply at least 1/2", sandy loams apply at least 1/2", silt soils apply at least 3/4", clay soils apply at least 1"), within
+5 days after application, to move matrix® sg 2 to 3" deep into the soil profile. activating sprinkler irrigation is required
+regardless of the soil moisture level at planting, or the cumulative precipitation that occurs over the next 5 days (unless rainfall
+occurs in a single event and equals the activation moisture requirement). if rainfall or sprinkler activation cannot be managed,
+waiting for weeds to emerge and applying matrix® sg postemergence may result in better weed control.
+if a clean, newly prepared seedbed, free of emerged or germinating weeds does not occur, and weeds are present at application,
+the addition of a spray adjuvant may improve weed control (see the "spray adjuvant" section of this label for additional
+information). control may not be adequate for weeds that are greater than 1" in height or diameter or weeds that have an
+established root system before activation matrix®sg.
+<BOLD (PAGE NUMBER = 19)>postemergence applications</BOLD>
+for postemergence applications, apply matrix® sg at 1.0-2.0 ounces (0.0156-0.0313 lb ai) product per acre (use 2.0
+ounces (0.0313 lb ai) per acre for longer residual) to young, actively growing weeds after the crop has reached the cotyledon
+stage. optimum performance is obtained when weeds are less than 1" in height or diameter and are actively growing.
+use a surfactant at a minimum rate of 0.25% v/v (2 pints/100 gallons of water). the use of crop oil concentrate, methylated
+seed oils, nitrogen fertilizer solution or nonionic surfactant rates above 0.25% v/v may result in temporary crop chlorosis
+(lime green color). symptoms usually disappear within 5 to 15 days.
+under growing conditions that promote crop stress (including drought, frost, cold temperatures, high temperatures, extreme
+temperature variations or saturated or water-logged soils), temporary crop chlorosis (lime green color) may occur after
+application of matrix® sg. symptoms usually disappear within 5 to 15 days.
+for best results with matrix® sg postemergence, rainfall or sprinkler irrigation of 1/2 to (sandy soils apply at least 1/2",
+sandy loams apply at least 1/2", silt soils apply at least 3/4", clay soils apply at least 1"), no sooner than 4 hours, but not more
+than 5 days after application, will activate matrix® sg in the soil and help provide control of subsequent flushes of annual
+weeds.
+postemergence applications of matrix® sg should be made after the tomatoes reach the cotyledon stage.
+sequential applications - tomatoes
+annual weeds at times may have multiple flushes of seedlings, or treated weeds may sometimes regrow from underground
+stems or roots, depending upon rainfall and other environmental conditions. to maximize control of such weeds, it may be
+necessary to use sequential applications of matrix® sg.
+preemergence followed by postemergence
+applications of matrix® sg may be applied preemergence followed by single or multiple applications postemergence.
+restrictions: for sequential applications the total amount of matrix® sg cannot exceed 4.0 ounces (0.0625 lb ai) of
+product broadcast per acre per year. do not make more than 3 broadcast applications of matrix® per year.
+postemergence followed by second postemergence
+multiple applications of matrix® sg may be applied postemergence, optimum control is seen when the first application is
+made to small actively growing weeds, followed by a second application 7 to 14 days later.
+restrictions: for sequential applications the total amount of matrix® sg cannot exceed 4.0 ounces (0.0625 lb ai) of
+product broadcast per acre per year. do not make more than 2 applications of matrix® sg broadcast per year.
+band applications - tomatoes
+matrix® sg can be applied preemergence and postemergence as a banded application. use proportionally less spray
+mixture based on the soil area actually sprayed. see the "preemergence applications" and "postemergence applications"
+sections of this label for additional details on the use of matrix® sg. see below to calculate actual treated area when using
+band applications.
+restrictions: for band applications the total amount of matrix® sg cannot exceed 4.0 ounces (0.0625 lb ai)
+product
+on
+a
+broadcast basis per acre per year. do not make more than 3 band applications of matrix® sg per year.
+<BOLD (PAGE NUMBER = 19)>band width (inches) x rate per broadcast acre = amount matrix® sg band applied per acre</BOLD>
+<BOLD (PAGE NUMBER = 19)>row width (inches)</BOLD>
+tankmixtures-tomatoes
+it is the pesticide user's responsibility to ensure that all products are registered for the intended use. read and follow the
+applicable restrictions and limitations and directions for use on all product labels involved in tank mixing. users must follow
+the most restrictive directions for use and precautionary statements of each product in the tank mixture.
+19
+duponttm matrix® sg may be tank mixed with pesticide products labeled for use on tomatoes in accordance with the most {['TITLE EXTRACT']}
+restrictive of label limitations and precautions. when tank mixing matrix® sg with
+pesticide(s),
+read
+and
+another
+tomato
+follow all use directions, restrictions, and precautions of both matrix® sg and the tank mix partner(s).
+matrix® sg may also be used in three-way tank mix combinations with the above pesticide(s). if these instructions conflict
+with this matrix® sg label, do not use as a tank mix with matrixsc tank mixtures with products that lower the
+spray solution ph may reduce weed control (including li700 surfactant).
+<BOLD (PAGE NUMBER = 20)>matrixosg plus foliar fungicides</BOLD>
+matrix® sg may be tank mixed with other suitable registered fungicides on tomatoes, including "manzate" (mancozeb) and
+"bravo" (chlorthalonil) fungicide). tank mixes with copper containing fungicides may reduce weed control.
+read and follow all manufacturers' label instructions for the companion fungicide. if these instructions conflict with this
+matrix® sg label, do not use as a tank mix with matrix® sg.
+tomatoes: california
+preemergence applications
+for preemergence applications to the crop, apply matrix® sg after seeding at 2.0-4.0 ounces (0.0313 - 0.0625 lb ai) product
+per acre. to activate matrix® sg in the soil, supply moisture by a single rainfall event, or apply sprinkler irrigation of 1/2
+to 1" (sandy soils apply at least 1/2", sandy loams apply at least 1/2", silt soils apply at least 3/4", clay soils apply at least 1"),
+within 5 days after application, to move matrix sg 2 to 3" deep into the soil profile. activating sprinkler irrigation is
+required regardless of the soil moisture level at planting, or the cumulative precipitation that occurs over the next 5 days (unless
+rainfall occurs in a single event and equals the activation moisture requirement). if rainfall or sprinkler activation cannot be
+managed, waiting for weeds to emerge and applying matrix® sg postemergence may result in better weed control.
+if a clean, newly prepared seedbed, free of emerged or germinating weeds does not occur, and weeds are present at application,
+the addition of a spray adjuvant may improve weed control (see the "spray adjuvant" section of this label for additional
+information). control may not be adequate for weeds that are greater than 1" in height or diameter or weeds that have an
+established root system before activation matrixosg.
+postemergence applications
+for postemergence applications, apply matrix® sg at 2.0 ounces (0.0313 lb ai) product per acre to young, actively growing
+weeds after the crop has reached the cotyledon stage. optimum performance is obtained when weeds are less than 1" in height
+or diameter and are actively growing.
+use a surfactant at a minimum rate of 0.25% v/v (2 pints/100 gallons of water). the use of crop oil concentrate, methylated
+seed oils, nitrogen fertilizer solution or nonionic surfactant rates above 0.25% v/v may result in temporary crop chlorosis
+(lime green color). symptoms usually disappear within 5 to 15 days.
+under growing conditions that promote crop stress (including drought, frost, cold temperatures, high temperatures, extreme
+temperature variations or saturated or water-logged soils), temporary crop chlorosis (lime green color) may occur after
+application of matrix® sg. symptoms usually disappear within 5 to 15 days.
+for best results with matrix® sg postemergence, rainfall or sprinkler irrigation of 1/2 to 1" (sandy soils apply at least 1/2",
+sandy loams apply at least 1/2", silt soils apply at least 3/4", clay soils apply at least 1"), no sooner than 4 hours, but not more
+than 5 days after application, will activate matrix® sg in the soil and help provide control of subsequent flushes of annual
+weeds.
+postemergence applications of matrix® sg should be made after the tomatoes reach the cotyledon stage.
+sequential applications
+annual weeds at times may have multiple flushes of seedlings, or treated weeds may sometimes regrow from underground
+stems or roots, depending upon rainfall and other environmental conditions. to maximize control of such weeds, it may be
+necessary to use sequential applications of matrix® sg.
+preemergence followed by postemergence
+applications matrix® sg may be applied preemergence followed by single or multiple applications postemergence.
+restriction: for sequential applications the total amount of matrix sg cannot exceed 4.0 ounces (0.0625 lb ai) product
+per acre per year on a broadcast basis.
+postemergence followed by second postemergence
+multiple applications of matrix® sg may be applied postemergence, optimum control is seen when the first application is
+made to small actively growing weeds, followed by a second application 7 to 14 days later.
+restriction: for sequential applications the total amount of matrix® sg cannot exceed 4.0 ounces (0.0625 lb ai) product
+per acre per year on a broadcast basis.
+band applications - tomatoes:
+matrix sg can be applied in a preemergence band at 2.0 4.0 ounces (0.0313 - 0.0625 lb ai) product per acre (for
+example, 0.5-1.0 ounces (0.0078-0.0156 lb ai) of product per conventional broadcast acre assuming 25% banding) followed by
+20
+two separate postemergence band applications applied at 2 ounces (0.0313 lb ai). product per acre (for example, 0.5 ounces {['TITLE EXTRACT']}
+(0.0078 lb ai) of product per conventional broadcast acre assuming 25% banding) over the same sprayed area.
+duponttm matrix® sg can be applied using three postemergence band applications at 2.0 ounces (0.0313 lb ai) product per
+acre (for example, 0.5 ounces (0.0078 lb ai) of product per conventional broadcast acre assuming 25% banding). see below to
+calculate actual treated area when using band applications.
+restrictions: for band applications, the total amount of matrix® sg cannot exceed 4.0 ounces (0.0625 lb ai) product on a
+broadcast basis per acre per year. do not make more than 3 band applications of matrix® sg per year.
+<HEADING (PAGE NUMBER = 21)>band width (inches) x rate per broadcast acre = amount matrix® sg band applied per acre< HEADING />
+<HEADING (PAGE NUMBER = 21)>row width (inches)< HEADING />
+<HEADING (PAGE NUMBER = 21)>weeds controlled - tomato< HEADING />
+preemergence control
+<TABLE EXTRACT (TABLE NUMBER = 1, PAGE NUMBER = 21)>
+['grasses', 'broadleaves']
+['barnyardgrass', 'filaree, redstem']
+['foxtail, giant', 'henbit']
+['foxtail, green', 'kochia']
+['foxtail, yellow', 'mustard, black']
+['wheat, volunteer', 'pigweed, redroot']
+['', 'pigweed, smooth']
+['', 'purslane, common']
+table extracted to localhost:5151/DuPontMatrixLabel_20_table_1.png
+<TABLE EXTRACT />
+preemergence (partial control)
+<TABLE EXTRACT (TABLE NUMBER = 2, PAGE NUMBER = 21)>
+['grasses', 'broadleaves']
+['crabgrass', 'cocklebur']
+['wild oat', 'lambsquarters, common']
+['', 'nightshade*, black+']
+['', 'nightshade, hairy']
+['', 'pigweed, prostrate']
+['', 'ragweed, common velvetleaf']
+table extracted to localhost:5151/DuPontMatrixLabel_20_table_2.png
+<TABLE EXTRACT />
+* eastern black nightshade (solanumptycanthum) is not controlled or suppressed.
+black nightshade suppression is only for use in tomatoes in california.
+<HEADING (PAGE NUMBER = 21)>+ see specific weed problems< HEADING />
+postemergence control (weeds not to exceed 1" in height)
+<TABLE EXTRACT (TABLE NUMBER = 3, PAGE NUMBER = 21)>
+['grasses', 'broadleaves']
+['barley, volunteer', 'chamomile, false']
+['barnyardgrass', 'chickweed, common']
+['bluegrass, annual', 'henbit']
+['crabgrass', 'kochia']
+['foxtail, bristly', 'mustard, birdsrape']
+['foxtail, giant', 'mustard, black']
+['foxtail, green', 'mustard, wild']
+['foxtail, yellow', 'pigweed, redroot']
+['panicum, fall', 'pigweed, smooth']
+['wheat, volunteer', 'purslane, common']
+['', "shepherd's purse"]
+['', 'wild radish']
+table extracted to localhost:5151/DuPontMatrixLabel_20_table_3.png
+<TABLE EXTRACT />
+postemergence (partial control):
+<TABLE EXTRACT (TABLE NUMBER = 4, PAGE NUMBER = 21)>
+['grasses', 'broadleaves']
+['johnsongrass, seedling', 'thistle, canada+']
+['millet, wild prosso', 'cocklebur']
+['stinkgrass', 'lambsquarters, common']
+['quackgrass', 'morningglory, ivyleaf']
+['wild oat', 'nightshade, hairy']
+['yellow nutsedge', 'nightshade*+, black (cotyledon stage only)']
+['', 'pigweed, prostrate']
+['', 'ragweed, common']
+['', 'smartweed, pennsylvania']
+['', 'velvetleaf']
+['', 'volunteer alfalfa**']
+table extracted to localhost:5151/DuPontMatrixLabel_20_table_4.png
+<TABLE EXTRACT />
+* eastern black nightshade (solanum ptycanthum) is not controlled or suppressed.
+black nightshade partial control is only for use in tomatoes in california.
+except california
+i partial control is a reduction in weed competition (reduced population and/or vigor) as visually compared to an untreated area. the degree
+of partial control varies with the rate used, the size of the weeds, and the environmental conditions following treatment.
++ see specific weed problems
+specific weed problems
+quackgrass: for best results, apply matrix® sg postemergence to quackgrass that is 4 to 8" tall. quackgrass not emerged
+at the time of application will not be controlled or suppressed, and would require a second postemergence application for
+acceptable control.
+21
+black nightshade (tomatoes): for best results, apply duponttm matrix® sg preemergence (prior to weed germination) {['TITLE EXTRACT']}
+2 - 4 ounces (0.0313 - 0.0625 lb ai) per acre followed by a postemergence application at 1 to 2 ounces (0.0156 - 0.0313 lb ai)
+per acre to small actively growing weeds.
+canada thistle: for best results, apply matrix® sg postemergence to small actively growing canada thistle. canada
+thistle not emerged at the time of application will not be controlled or suppressed, and would require a second postemergence
+application for acceptable control.
+matrixosg rotational crop guidelines - tomato
+for crops listed below, planting prior to the interval shown may result in crop injury when using matrix® sg. rotation
+intervals may need to be extended to 18 months if drought conditions prevail after application and before the rotational crop is
+planted, unless supplemental sprinkler irrigation has been applied and totals greater than 15" during the growing season. for
+<TABLE EXTRACT (TABLE NUMBER = 1, PAGE NUMBER = 22)>
+['rotation crop', 'interval (months)']
+['beans, dry', '10']
+['beans, snap', '10']
+['corn, field', 'anytime']
+['corn, sweet', '10']
+['cotton', '10']
+['cucumber', '10']
+['garlic', '6']
+['potatoes', 'anytime']
+['soybeans', '10']
+['tomatoes', 'anytime']
+['wheat, winter', '4']
+['crops not listed', '12']
+table extracted to localhost:5151/DuPontMatrixLabel_21_table_1.png
+<TABLE EXTRACT />
+note: where drip irrigated tomatoes are grown, rotate only to tomato, potato or field corn as crop injury may result.
+rotational crops may be planted at indicated intervals provided the fields are deep disked or plowed, and thorough soil mixing
+is achieved, prior to planting the rotational crop.
+cultivation
+a timely cultivation may be necessary to control suppressed weeds, weeds that were beyond the maximum size at application,
+or weeds that emerge after an application of matrix® sg.
+cultivation up to 7 days before the postemergence application of matrix® sg may decrease weed control by pruning
+weed roots, placing the weeds under stress, or covering the weeds with soil and preventing coverage by matrix® sg.
+to allow matrix® sg to fully control treated weeds, cultivation is not advised for 7 days after application.
+optimum timing for cultivation is 7 - 14 days after a postemergence application of matrix® sg.
+spray adjuvants
+include a spray adjuvant with applications of matrix® sg when applied by itself and postemergence to the weeds. consult
+your ag dealer or applicator, local dupont fact sheets, technical bulletins, and service policies prior to using an adjuvant
+system. if another herbicide is tank mixed with matrix® sg, select adjuvants authorized for use with both products.
+products must contain only epa-exempt ingredients (40 cfr 1001).
+nonionic surfactant (nis)
+apply 0.125 to 0.25% v/v (1 to 2 pt/100 gal of water). the 0.25% v/v rate is preferred under arid or drought conditions.
+surfactant products must contain at least 80% nonionic surfactant with a hydrophilic/lipophilic balance (hlb) greater than
+12.
+petroleum crop oil concentrate (coc) or modified seed oil (mso)
+apply at 1% volume/volume (1 gal per 100 gal spray solution), or 2% under arid conditions.
+oil adjuvants must contain at least 80% high quality, petroleum (mineral) or modified vegetable seed oil with at least 15%
+surfactant emulsifiers.
+blended products which contain both mso and silcone are acceptable at labeled rates.
+ammonium nitrogen fertilizer
+use 2 qt/acre of a high-quality urea ammonium nitrate (uan), including 28%n or 32%n, or 2 lb/acre of a spray grade
+ammonium sulfate (ams). use 4 qt/acre uan or 4 lb/acre ams under arid conditions.
+do not use liquid nitrogen fertilizer as the total carrier solution.
+special adjuvant types
+combination adjuvant products may be used at doses that provide the required amount of nis and ammonium nitrogen
+fertilizer. consult product literature for use rates and restrictions.
+22
+at
+do not use any other adjuvant rates or mixtures with duponttm matrix® sg unless instructed to do so on dupont
+technical bulletins.
+<BOLD (PAGE NUMBER = 23)>precautions:</BOLD>
+1. the use of silicone polymer type surfactants is not suggested as reduced weed control may result.
+2. avoid using crop oil concentrate (coc) or methylated seed oil (mso) when potatoes are under heat stress (>85 degrees f)
+as multiple stresses may cause crop injury.
+equipment-spray volumes
+agitate the spray tank continuously to keep the material in suspension.
+do not use equipment and/or spray volumes that will cause damage from spray by drift onto nontarget sites. do not make
+applications when weather conditions are likely to cause spray to drift onto nontarget sites. (see the "spray drift management"
+section of this label for additional information).
+ground application-potatoes and tomatoes
+to ensure optimum spray distribution and thorough coverage, apply matrix® sg with a properly calibrated, low-pressure
+(20 to 40 psi) boom sprayer equipped with flat fan, "twinjet", underleaf banding nozzles or flood jet nozzles. nozzle screens
+must be no finer than 50 mesh. when using flood nozzles, the spray pattern should overlap 100% for optimum product
+performance. for banded applications even flow flat fan or twin jet spray nozzles may provide a more uniform spray
+distribution.
+with ground application equipment, use enough water to deliver 10 to 40 gal total spray solution per acre. avoid overlapping,
+and shut off spray booms while starting, turning, slowing, or stopping, or injury to the crop may result.
+sprayer cleanup
+spray equipment or nurse tanks used in chemigation, must be cleaned before matrix® sg is sprayed. follow the cleanup
+procedures specified on the labels of previously applied products. if no directions are provided, follow the 6 steps outlined in
+the "after applying matrix® sg and before applying to other crops" section of this label.
+for maximum preemergence activity, prior to application, the bed or soil surface should be smooth and relatively free of crop and
+weed trash (dead weeds, decaying leaves, clippings, etc.). leaves and trash may be removed by blowing the area to be treated or by
+thoroughly mixing the trash into the soil through cultivation prior to herbicide application. cultural practices that result in
+redistribution or disturbance of the soil surface after treatment will decrease the herbicidal effectiveness of matrix® sg. cutting
+water furrows, or cultivations that mix untreated soil into the treated areas, will also reduce the effectiveness of the herbicide
+treatment.
+for best weed management apply matrix® sg with another suitable residual herbicide registered for that crop. this is
+recommended for all soil types, but especially so for coarse textured soils under standard sprinklers or micro-sprinklers.
+more than one banded application of matrix® sg may be needed to provide extended weed control.
+<HEADING (PAGE NUMBER = 23)>corn, field (california)< HEADING />
+application information
+matrix® sg is a selective herbicide for burndown and residual control of certain annual grass and broadleaf weeds
+weeds when applied fallow, preemergence and postemergence to field corn. matrix® sg may be applied in tank mix
+combinations with other corn herbicides for improved burndown and residual control. residual weed control is dependent
+on rainfall, sprinkler irrigation, flood irrigation or furrow irrigation for herbicide activation. furrow irrigation may not
+provide proper activation on tops of beds if rainfall or furrow irrigation does not drive matrix® sg into the soil and
+weed root zones.
+matrix® sg is absorbed through the roots and leaf tissue of plants, rapidly inhibiting the growth of susceptible weeds.
+rainfall or sprinkler irrigation is needed to move matrix® sg into the soil. susceptible weeds will generally not emerge
+from a preemergence application. in some cases, susceptible weeds may germinate and emerge a few days after application,
+but growth then ceases and leaves become chlorotic three to five days after emergence. death of leaf tissue and growing
+point will follow in some species, while others will remain green, stunted and noncompetitive.
+the herbicidal action of matrix® sg may be less effective on weeds stressed from adverse environmental conditions
+(including extreme temperatures or moisture), abnormal soil conditions, or cultural practices.
+matrix® sg treatments are most effective in controlling weeds when adequate rainfall or irrigation is received 5 -7 days
+after application. if cultivation is necessary because of soil crusting, soil compaction or weed germination before rain or
+irrigation occurs, use shallow tillage, such as a rotary hoe, to lightly incorporate matrix® sg and make certain corn
+seeds are below the tilled area.
+matrix® sg is best used in a planned sequential application herbicide program, to be followed by an in-crop application
+of matrix® sg, and/or other post applied corn herbicides. refer to the label of the respective sequential partner for
+specific use directions.
+23
+allow at least 4 weeks between preemergence applications of dupont matrix® sg and postemergence applications of {['TITLE EXTRACT']}
+matrix® sg.
+make sequential applications after the corn has reached the 2-collar stage but before the corn exceeds the maximum
+application height listed on the respective product labels.
+avoid making preemergence applications to coarse-textured soils (sand, loamy sand or sandy loam) with less than 1%
+organic matter as crop injury may occur.
+apply matrixo sg to field corn hybrids with a relative maturity (rm) of 77 days or more, including "food grade"
+(yellow dent, hard endosperm), waxy and high-oil corn. not all field corn hybrids of less than 77 days rm, not all white
+corn hybrids nor hi-lysine hybrids have been tested for crop safety, nor does dupont have access to all seed company
+data.
+consequently, to the extent consistent with applicable law, injury arising from the use of matrix® sg on these types of
+corn is the responsibility of the user. consult with your seed supplier before applying matrix® sg to any of these corn
+types. seed company publications indicate "warning", "crop response warning", or "sensitive" notations for the use of
+some als herbicides on corn hybrids of 77 crm or higher. as noted in the seed company publications, dupont
+sulfonylurea herbicides including matrix® sg should be used with caution on these hybrids. consult with your local
+dupont representative or the dupont label web site (http://cropprotection.dupont.com/) for any additional supplemental
+labeling information relative to potential corn hybrid sensitivity to matrix® sg.
+<HEADING (PAGE NUMBER = 24)>fallow< HEADING />
+<BOLD (PAGE NUMBER = 24)>use rates</BOLD>
+apply matrix® sg at 1 to 2 ounces (0.0156 - 0.0313 lb ai) per acre.
+<BOLD (PAGE NUMBER = 24)>application timing</BOLD>
+matrix® sg may be used as a fallow treatment, in the fall, winter or spring when the majority of weeds have emerged
+and are actively growing. field corn may be planted to this treated area at any time.
+<HEADING (PAGE NUMBER = 24)>field corn< HEADING />
+<BOLD (PAGE NUMBER = 24)>when to preemergence to the crop</BOLD>
+matrix® sg may be applied preemergence or preplant to corn. applications of matrix® sg made before weed
+emergence will provide residual control of labeled weeds. control of emerged weeds will require the addition of spray
+adjuvants as noted below.
+<BOLD (PAGE NUMBER = 24)>preemergence rates</BOLD>
+matrix® sg may be applied at 1.0 - 1.5 ounces (0.0156 - 0.0234 lb ai) product before corn emergence. see use
+restrictions below for rimsulfuron rate limitations.
+<BOLD (PAGE NUMBER = 24)>timing to crop</BOLD>
+matrix® sg herbicide may be used in either conventional, conservation tillage, or no-till crop management systems, and
+may be applied either preplant, preplant incorporated (less than 2" deep) or preemergence for use in field corn production.
+applications of matrix® sg made before weed emergence will provide residual control of labeled weeds. control of
+emerged weeds will require the addition of spray adjuvants as noted in this label.
+preplant surface applied matrix® sg is best used in a planned sequential application program, followed by matrix®
+sg and/or other post applied corn herbicides. refer to the label of the respective sequential partner for specific use
+directions.
+<BOLD (PAGE NUMBER = 24)>preplant/preemerge burndown</BOLD>
+apply matrix® sg when weeds are young and actively growing but before they exceed the sizes listed on this label.
+when weeds exceed listed maximum height or weeds not controlled by matrix® sg are present, the addition of a
+burndown herbicide containing glyphosate, paraquat, dicamba, and/or 2,4-d is advised. if giant ragweed, common
+cocklebur, henbit, pennsylvania smartweed or purple deadnettle are present at the time of application, the addition of
+atrazine will improve control. it is the pesticide user's responsibility to ensure that all products are registered for the
+intended use. read and follow the applicable restrictions and limitations and directions for use on all product labels
+involved in tank mixing. users must follow the most restrictive directions for use and precautionary statements of each
+product in the tank mixture. when mixing with liquid nitrogen fertilizer or glyphosate, substitute a non-ionic surfactant for
+crop oil.
+<BOLD (PAGE NUMBER = 24)>when to apply - postemergence to the crop</BOLD>
+apply matrix sg to corn that is up to 12 inches tall or exhibiting 6 or more leaf collars, whichever is more restrictive.
+applications of matrix® sg made after weed emergence will provide contact control of labeled weeds as well as
+limited residual control of later emergence.
+24
+<BOLD (PAGE NUMBER = 25)>postemergence rates</BOLD>
+apply duponttm matrix® sg at 0.5 - 1.0 ounces (0.0078 - 0.0156 lb ai) per acre as a postemergence broadcast {['TITLE EXTRACT']}
+application. use the 1 ounce/acre rate for most postemergence applications. see use restrictions below for cumulative
+rimsulfuron rate limitations.
+<BOLD (PAGE NUMBER = 25)>timing to emerged weeds</BOLD>
+tank mixtures of matrix® sg with glyphosate or glufosinate herbicides may be applied after weeds emerge but before
+they reach the maximum size listed on the glyphosate or glufosinate herbicide labels.
+adequate soil moisture is required for optimum activity. rainfall or irrigation within 5 to 7 days after application will
+enhance matrix® sg residual activity. if activating rainfall, flood, furrow or sprinkler irrigation (>0.5 inch) is not
+received within 5-7 days after application, follow with a cultivation or with a sequential application of a nicosulfuron
+containing herbicide, if needed.
+<BOLD (PAGE NUMBER = 25)>spray adjuvants</BOLD>
+control of emerged weeds, application of matrix® sg must include an appropriate adjuvant and an ammonium
+for
+nitrogen fertilizer. if applied in tank mix combination with a glyphosate or glufosinate herbicide that contains a built-in
+adjuvant system, no additional surfactant needs to be added. products must contain only epa-exempt ingredients (40 cfr
+1001).
+do not use with spray additives that alter the ph of the spray solution below ph 5.0 or above ph 9.0 as rapid product
+degradation can occur. spray solutions of ph 6.0 - 8.0 allow for optimum stability of matrix® sg.
+<BOLD (PAGE NUMBER = 25)>petroleum crop oil concentrate (coc) or modified seed oil (mso)</BOLD>
+apply at 1% v/v (1 gallon per 100 gallons spray solution) or 2% under arid conditions.
+mso adjuvants may be used at 0.5% v/v (0.5 gallon per 100 gallons spray solution) if specifically noted on adjuvant
+product labeling.
+oil adjuvants must contain at least 80% high quality, petroleum (mineral) or modified vegetable seed oil with at least
+15% surfactant emulsifiers
+<BOLD (PAGE NUMBER = 25)>nonionic surfactant (nis)</BOLD>
+apply at 0.25% v/v (1 qt per 100 gal spray solution).
+surfactant products must contain at least 60% nonionic surfactant with a hydrophilic/lipophilic balance (hlb) greater
+than 12.
+<BOLD (PAGE NUMBER = 25)>ammonium nitrogen fertilizer</BOLD>
+use 2 qt/acre of a high-quality urea ammonium nitrate (uan) including 28%n or 32%n, or 2 lb/acre of a spraygrade
+ammonium sulfate (ams).
+<BOLD (PAGE NUMBER = 25)>special adjuvant types</BOLD>
+combination adjuvant products may be used at doses that provide the required amount of nis and ammonium nitrogen
+fertilizer. consult product literature for use rates and restrictions.
+<BOLD (PAGE NUMBER = 25)>use restrictions</BOLD>
+do not apply to field corn grown for seed, to popcorn or to sweet corn.
+do not apply to field corn taller than 12 inches tall or exhibiting 6 or more leaf collars, whichever is more restrictive.
+do not apply more than 1.5 oz (0.0234 lb ai) per acre per year preemergence to field corn.
+do not apply more than 1.0 oz (0.0156 lb ai) per acre per year postemergence to field corn.
+do not apply more than a total of 2.0 oz (equivalent to 0.0313 lb or 0.5 oz of rimsulfuron) matrix® sg per acre per year. this
+includes combinations of preemergence or postemergence applications of matrix sg; as well as rimsulfuron from
+application(s) of other products that contain rimsulfuron.
+do not make more than 2 applications of matrix® sg per year.
+allow at least 28 days between applications.
+limit preemergence rates of matrix sg to a maximum of 1.25 oz (0.0195 lb ai) product if following with postemergence
+applications of the rimsulfuron containing products above.
+do not apply by air in california.
+do not apply matrix® sg within 45 days of crop emergence where an organophosphate insecticide was applied as an in-
+furrow treatment since crop injury may occur.
+do not tank mix matrix® sg with foliar-applied organophosphate insecticides including "lorsban", malathion, parathion, etc,
+as severe crop injury may occur.
+25
+do not tank mix duponttm matrix sg with a bentazon product, including "basagran", as severe crop injury may occur. {['TITLE EXTRACT']}
+do not graze, feed forage, grain or fodder (stover) from treated areas to livestock within 30 days matrix® sg application.
+do not irrigate matrix® sg into coarse soils at planting time when soils are saturated.
+do not apply through any type of irrigation system.
+do not use flood or furrow irrigation to apply matrix® sg.
+do not treat frozen soil.
+injury or loss of desirable trees or vegetation may result from failure to observe the following:
+do not apply matrix® sg or drain or flush application equipment on or near desirable trees or other plants, or in areas where
+their roots may extend or in locations where the chemical may be washed or moved into contact with their roots.
+do not use on lawns, walks, driveways, tennis courts, or similar areas.
+do not contaminate any body of water.
+<HEADING (PAGE NUMBER = 26)>weeds controlled/suppressed - field corn in california< HEADING />
+<HEADING (PAGE NUMBER = 26)>fallow/fieldcorn - postemergence to weeds - matrix® sg alone< HEADING />
+<TABLE EXTRACT (TABLE NUMBER = 1, PAGE NUMBER = 26)>
+['grasses (1-2 inches)', 'broadleaves (1-2 inches)']
+['barley, volunteer', 'canada thistle']
+['barnyardgrass', 'chickweed, common']
+['bluegrass, annual', 'cocklebur']
+['crabgrass, large (1/2")', 'dandelion (6" diameter)']
+['cupgrass, woolly (1")', 'henbit']
+['foxtail (bristly, giant, green, yellow)', 'kochia']
+['johnsongrass, seedling*', 'lambsquarters, common']
+['millet, wild proso*', 'morningglory, ivyleaf*']
+['panicum, fall', 'mustard (birdrape, black, wild)']
+['quackgrass*', 'nightshade, hairy*']
+['ryegrass, italian*', 'pigweed (prostrate, redroot, smooth)']
+['shattercane (4")', 'purslane, common*']
+['signalgrass, broadleaf*', 'ragweed, common*']
+['stinkgrass*', "shepherd's purse"]
+['wheat, volunteer', 'smartweed, pennsylvania*']
+['wild oat*', 'wild radish']
+['yellow nutsedge*', 'velvetleaf*']
+table extracted to localhost:5151/DuPontMatrixLabel_25_table_1.png
+<TABLE EXTRACT />
+<HEADING (PAGE NUMBER = 26)>fallow/field corn - preemergence and residual* - matrix® sg alone< HEADING />
+<TABLE EXTRACT (TABLE NUMBER = 2, PAGE NUMBER = 26)>
+['grasses', 'broadleaves', '']
+['barnyardgrass', 'carpetweed', 'mustard (birdsrape, black)']
+['bluegrass, annual', 'chamomile, false', 'nightshade (hairy, black)']
+['crabgrass, large', 'cocklebur', 'palmer amaranth']
+['foxtail (bristly, giant, green, yellow)', 'filaree, redstem', 'pigweed (prostrate, redroot, smooth)']
+['panicum, fall', 'henbit', 'purslane, common']
+['ryegrass, italian', 'jimsonweed', 'ragweed, common']
+['signalgrass, broadleaf', 'kochia (als-sensitive)', 'russian thistle, seedling']
+['wheat, volunteer', 'lambsquarters, common', 'smartweed, pennsylvania']
+['wild oat', 'morningglory, ivyleaf', 'velvetleaf*']
+table extracted to localhost:5151/DuPontMatrixLabel_25_table_2.png
+<TABLE EXTRACT />
+*partial control or suppression - for full season control, follow with a sequential, in-crop application of matrix® sg or
+with appropriate tank mix partners.
+<HEADING (PAGE NUMBER = 26)>tank mixtures< HEADING />
+it is the pesticide user's responsibility to ensure that all products are registered for the intended use. read and follow the
+applicable restrictions and limitations and directions for use on all product labels involved in tank mixing. users must
+follow the most restrictive directions for use and precautionary statements of each product in the tank mixture.
+<HEADING (PAGE NUMBER = 26)>fallow< HEADING />
+matrix® sg may be used as a fallow treatment, and may be tank mixed with other herbicides that are registered for use
+in fallow. read and follow all applicable use instructions on this label and the labels of any tank mix partner before using in
+mixtures with matrix® sg. do not use the tank mix partner if its label conflicts with this matrix sg label.
+<HEADING (PAGE NUMBER = 26)>field corn< HEADING />
+matrix® sg may be tank mixed with full or reduced rates of preemergence grass and broadleaf herbicides including
+atrazine, glyphosate, paraquat, dicamba, and/or 2,4-d to provide added residual activity or burndown activity on emerged
+weeds. consult tank mix partner labeling for rate and soil-type restrictions. read and follow all manufacturers' label
+instructions for the companion herbicide(s). do not use a tank mix partner product if its label conflicts with this matrix®
+sg label.
+ensure the tank mix product is labeled for the same timing, method of application, adjuvants, and use restrictions as
+matrix® sg, as well as other products used in the tank mixture.
+26
+read and follow all applicable use directions, precautions, and limitations specified on the respective product labels. {['TITLE EXTRACT']}
+<HEADING (PAGE NUMBER = 27)>postemergence to the crop< HEADING />
+<HEADING (PAGE NUMBER = 27)>duponttm matrix® sg plus a glyphosate based herbicide (including "roundup")< HEADING />
+when used in tank mixture with glyphosate, matrix® sg will deliver improved burndown and/or residual activity on the
+following weeds, as compared to glyphosate used alone. a glyphosate based herbicide may be tank mixed for post emerge
+applications of matrix® sg when made to corn hybrids containing the "roundup ready" gene. consult with your seed
+supplier to confirm the corn hybrid contains the "roundup ready" gene before making any herbicide application
+containing glyphosate herbicides. refer to the spray adjuvants section for additional information on proper adjuvant
+selection.
+<TABLE EXTRACT (TABLE NUMBER = 1, PAGE NUMBER = 27)>
+['barley, volunteer', 'panicum, fall']
+['barnyardgrass', 'pigweed (prostrate, redroot, smooth)']
+['bluegrass, annual', 'purslane, common']
+['canada thistle', 'quackgrass']
+['chamomile, false', 'ragweed, common']
+['chickweed, common', 'ryegrass, italian']
+['cocklebur', 'sandbur (field, longspine)']
+['crabgrass', "shepherd's purse"]
+['dandelion (6" diameter)', 'signalgrass, broadleaf']
+['filaree, redstem', 'smartweed, pennsylvania']
+['foxtail (bristly, giant, green, yellow)', 'stinkgrass']
+['henbit', 'velvetleaf']
+['johnsongrass, seedling', 'wheat, volunteer']
+['kochia', 'wild buckwheat']
+['lambsquarters, common', 'wild oat']
+['millet, wild proso', 'wild radish']
+['morningglory, ivyleaf', 'yellow nutsedge']
+['mustard (birdsrape, black, wild)', '']
+['nightshade, hairy', '']
+table extracted to localhost:5151/DuPontMatrixLabel_26_table_1.png
+<TABLE EXTRACT />
+<HEADING (PAGE NUMBER = 27)>matrix® sg plus a glufosinate based herbicide< HEADING />
+matrix® sg may be tank mixed with glufosinate herbicide if applications are made to corn hybrids containing the
+"liberty link" gene. consult with your seed supplier to confirm the corn hybrid is "liberty link" before applying any
+herbicide containing glufosinate. when used in a tank mixture with glufosinate herbicide, matrix® sg will deliver
+improved burndown and/or limited residual activity on the following weeds, as compared to glufosinate used alone:
+velvetleaf
+pigweed, redroot
+lambsquarters, common
+foxtail (giant, yellow)
+<HEADING (PAGE NUMBER = 27)>matrix® sg rotational crop guidelines - field corn< HEADING />
+for crops listed below, planting prior to the interval shown may result in crop injury when using matrix® sg. rotation
+intervals may need to be extended to 18 months if drought conditions prevail after application and before the rotational
+crop is planted, unless supplemental sprinkler irrigation has been applied and totals greater than 15" during the growing
+season. for tank mixtures, follow the most restrictive rotational crop guideline.
+<TABLE EXTRACT (TABLE NUMBER = 2, PAGE NUMBER = 27)>
+['rotation crop', 'interval (months)']
+['beans, dry', '10']
+['beans, snap', '10']
+['corn, field', 'anytime']
+['corn, sweet', '10']
+['cotton', '10']
+['cucumber', '10']
+['garlic', '6']
+['potatoes', 'anytime']
+['soybeans', '10']
+['tomatoes', 'anytime']
+['wheat, winter', '4']
+['crops not listed', '12']
+table extracted to localhost:5151/DuPontMatrixLabel_26_table_2.png
+<TABLE EXTRACT />
+rotational crops may be planted at indicated intervals provided the fields are deep disked or plowed, and thorough soil
+mixing is achieved, prior to planting the rotational crop.
+<HEADING (PAGE NUMBER = 27)>mixing instructions< HEADING />
+matrix® sg must be completely dissolved in clean water before adding to spray tanks that do not have continuous
+agitation during loading and mixing. water carrier instructions
+1. fill the tank 1/4 to 1/3 full of water.
+2. while agitating, add the required amount of matrix® sg.
+27
+continue agitation until the duponttm matrix® sg is fully dissolved, at least 5 minutes. {['TITLE EXTRACT']}
+3.
+4. once the matrix sg is fully dissolved, maintain agitation and continue filling tank with water.
+5. as the tank is filling, add tank mix partners and then add the required volume of spray adjuvant. always add spray
+adjuvant last. antifoaming agents may be used.
+6. dispersed tank mix partners can settle if the tank mixture is not continually agitated. if settling occurs, thoroughly re-
+agitate before using.
+7. apply matrix® sg spray mixture within 24 hours of mixing to avoid product degradation.
+8. if matrix® sg and a tank mix partner are to be applied in multiple loads, fully dissolve the matrix® sg in clean
+water prior to adding to the tank.
+if the selected companion herbicides has a ground water advisory, consider this advisory when using the companion
+herbicide.
+<BOLD (PAGE NUMBER = 28)>application and spray volumes</BOLD>
+<BOLD (PAGE NUMBER = 28)>ground</BOLD>
+use a minimum of 15 gallons of water per acre (gpa) to ensure thorough coverage of the weeds and the best performance.
+use a minimum of 10 gpa for light, scattered stands of weeds. for best performance, select nozzles and pressure that
+deliver medium spray droplets, as indicated, for example, by asabe standard s572.1. nozzles that deliver coarse
+spray droplets may be used to reduce drift, provided spray volume is increased to maintain coverage on small weeds.
+for optimal product performance and minimal spray drift, adjust the spray boom to the lowest possible spray height
+specified in manufacturers' specifications. ensure that equipment is set up to avoid applying an excessive rate directly over
+the rows and into the corn plant whorl. overlaps or starting, stopping, slowing, and turning while spraying may result in
+crop injury.
+<BOLD (PAGE NUMBER = 28)>use precautions</BOLD>
+matrix® sg may interact with certain insecticides previously applied to the crop. crop response varies with field corn type,
+insecticide used, insecticide application methods, and soil type.
+matrix® sg may be applied to corn previously treated with nonorganophosphate soil insecticides regardless of soil type.
+allow at least 60 days between a preemergence or preplant application of matrix® sg and application of organophosphate
+insecticide since crop injury may result.
+crop injury may occur following an application of matrix® sg if there is a prolonged period of cold weather and or in
+conjunction with wet soils.
+prevent drift or spray onto desirable plants
+thoroughly clean application equipment immediately after use.
+additional use information - all crops
+mixing instructions
+matrix® sg must be completely dissolved in cleanwater before adding to spray tanks that do not have continuous
+agitation during loading and mixing. (this is common for airplanes with turbine engines).
+1. fill the tank 1/4 to 1/3 full of water.
+2. while agitating, add the required amount of matrix® sg herbicide.
+3. continue agitation until the matrix® sg herbicide is fully dissolved, at least 5 minutes.
+4. once the matrix® sg herbicide is fully dissolved, maintain agitation and continue filling tank with water.
+5. as the tank is filling, add tank mix partners (if desired) then add the required of spray adjuvant (if needed). always add
+the spray adjuvant last.
+6. dispersed tank mix partners can settle if the tank mixture is not continually agitated. if settling occurs, thoroughly re-
+agitate before using.
+7. apply matrix® sg herbicide spray mixture within 24 hours of mixing to avoid product degradation.
+if matrix® sg and a tank mix partner are to be applied in multiple loads, fully dissolve the matrix® sg in clean
+8.
+water prior to adding to the tank.
+if the selected companion herbicide has a ground or surface water advisory, consider this advisory when using the
+companion herbicide.
+<HEADING (PAGE NUMBER = 28)>sprayer cleanup< HEADING />
+the spray equipment must be cleaned before matrix® sg is sprayed. follow the cleanup procedures specified on the
+labels of the previously applied products. if no directions are provided, follow the steps outlined in the "after spraying
+matrix® sg and before spraying other crops" section of this label.
+28
+at the end of the day {['TITLE EXTRACT']}
+when spraying or mixing equipment will be used over an extended period to apply multiple loads of duponttm matrix®
+sg herbicide, partially fill the tank with fresh water at the end of each day of spraying, flush the boom and hoses, and allow
+to sit overnight. this will prevent the buildup of dried pesticide deposits from accumulating in the application equipment.
+<BOLD (PAGE NUMBER = 29)>after applying matrix® sg and before applying to other crops</BOLD>
+to avoid subsequent injury to desirable crops, thoroughly clean all mixing and spray equipment immediately following
+applications of matrix r sg as follows:
+1. empty the tank and drain the sump completely.
+2. spray the tank walls with clean water using a minimum volume of 10% of the tank volume. circulate the water through
+the lines, including all by-pass lines, for at least two minutes. flush the boom well and empty the sprayer. completely
+drain the sump.
+3. repeat step 2.
+4. remove the nozzles and screens and clean separately in a bucket containing water.
+the rinsate solution may be applied back to the crop(s) listed on this label. do not exceed the maximum labeled use rate. if
+cleaners are used, consult the cleaner label for rinsate disposal instructions. if no instructions are given, dispose of the
+rinsate on site or at an approved waste disposal facility.
+notes:
+1. always start with a clean spray tank.
+2. steam-cleaning aerial spray tanks is recommended to facilitate the removal of any caked deposits.
+3. when matrix® sg is tank mixed with other pesticides, all cleanout procedures for each product must be examined
+and the most rigorous procedure must be followed.
+4. follow any pre-cleanout guidelines specified on other product labels.
+29
+storage and disposal
+do not contaminate water, food, or feed by storage and disposal. {['TITLE EXTRACT']}
+pesticide storage: store product in original container only. store in a cool, dry place.
+pesticide disposal: waste resulting from the use of this product must be disposed of on site or at an approved waste
+disposal facility.
+<BOLD (PAGE NUMBER = 30)>container handling: refer to the net contents section of this product's labeling for the applicable</BOLD>
+<BOLD (PAGE NUMBER = 30)>"nonrefillable container" or "refillable container" designation.</BOLD>
+<BOLD (PAGE NUMBER = 30)>nonrefillable plastic and metal containers (capacity equal to or less than 50 pounds): nonrefillable container.</BOLD>
+do not reuse or refill this container. triple rinse container (or equivalent) promptly after emptying. triple rinse as
+follows: empty the remaining contents into application equipment or a mix tank. fill the container 1/4 full with water
+and recap. shake for 10 seconds. pour rinsate into application equipment or a mix tank or store rinsate for later use or
+disposal. drain for 10 seconds after the flow begins to drip. repeat this procedure two more times. then, for plastic
+containers, offer for recycling if available or puncture and dispose of in a sanitary landfill, or by incineration. do not
+burn, unless allowed by state and local ordinances. for metal containers, offer for recycling if available or
+reconditioning if appropriate, or puncture and dispose of in a sanitary landfill, or by other procedures approved by state
+and local authorities
+<BOLD (PAGE NUMBER = 30)>nonrefillable plastic and metal containers (capacity greater than 50 pounds): nonrefillable container. do not</BOLD>
+reuse or refill this container. triple rinse container (or equivalent) promptly after emptying. triple rinse as follows:
+empty the remaining contents into application equipment or a mix tank. fill the container 1/4 full with water. replace
+and tighten closures. tip container on its side and roll it back and forth, ensuring at least one complete revolution, for
+30 seconds. stand the container on its end and tip it back and forth several times. turn the container over onto its other
+end and tip it back and forth several times. empty the rinsate into application equipment or a mix tank or store rinsate
+for later use or disposal. repeat this procedure two more times. then, for plastic containers, offer for recycling if
+available or puncture and dispose of in a sanitary landfill, or by incineration. do not burn, unless allowed by state and
+local ordinances. for metal containers, offer for recycling if available or reconditioning if appropriate, or puncture
+and dispose of in a sanitary landfill, or by other procedures approved by state and local authorities.
+<BOLD (PAGE NUMBER = 30)>nonrefillable plastic and metal containers, e.g., intermediate bulk containers [ibc] (size or shape too large</BOLD>
+to be tipped, rolled or turned upside down): nonrefillable container. do not reuse or refill this container. clean
+container promptly after emptying the contents from this container into application equipment or mix tank and before
+final disposal using the following pressure rinsing procedure. insert a lance fitted with a suitable tank cleaning nozzle
+into the container and ensure that the water spray thoroughly covers the top, bottom and all sides inside the container.
+the nozzle manufacturer generally provides instructions for the appropriate spray pressure, spray duration and/or
+spray volume. if the manufacturer's instructions are not available, pressure rinse the container for at least 60 seconds
+using a minimum pressure of 30 psi with a minimum rinse volume of 10% of the container volume. drain, pour or
+pump rinsate into application equipment or rinsate collection system. repeat this pressure rinsing procedure two more
+times. then, for plastic containers, offer for recycling if available or puncture and dispose of in a sanitary landfill, or
+by incineration. for metal containers, offer for recycling if available or reconditioning if appropriate, or puncture and
+dispose of in a sanitary landfill, or by other procedures approved by state and local authorities.
+<BOLD (PAGE NUMBER = 30)>nonrefillable paper or plastic bags, fiber sacks including flexible intermediate bulk containers (fibc) or</BOLD>
+fiber drums with liners: nonrefillable container. do not reuse or refill this container. completely empty paper or
+plastic bag, fiber sack or drum liner by shaking and tapping sides and bottom to loosen clinging particles. empty
+residue into application or manufacturing equipment. then offer for recycling if available or dispose of empty paper or
+plastic bag, fiber sack or fiber drum and liner in a sanitary landfill, or by incineration. do not burn, unless allowed by
+state and local ordinances.
+refillable fiber drums with liners: refillable container (fiber drum only). refilling fiber drum: refill this fiber
+with duponttm matrix® sg herbicide containing rimsulfuron only. do not reuse this fiber drum for any
+drum
+other purpose. cleaning before refilling is the responsibility of the refiller. completely empty liner by shaking and
+tapping sides and bottom to loosen clinging particles. empty residue into application or manufacturing equipment.
+disposing of fiber drum and/or liner: do not reuse this fiber drum for any other purpose other than refilling (see
+preceding). cleaning the container (liner and/or fiber drum) before final disposal is the responsibility of the person
+disposing of the container. offer the liner for recycling if available or dispose of liner in a sanitary landfill, or by
+incineration. do not burn, unless allowed by state and local ordinances. if drum is contaminated and cannot be reused,
+dispose of it in the manner required for its liner. to clean the fiber drum before final disposal, completely empty the
+fiber drum by shaking and tapping sides and bottom to loosen clinging particles. empty residue into application or
+manufacturing equipment. then offer the fiber drum for recycling if available or dispose of in a sanitary landfill, or by
+incineration. do not burn, unless allowed by state and local ordinances.
+30
+all other refillable containers: refillable container. refilling container: refill this container with duponttm {['TITLE EXTRACT']}
+matrix® sg containing rimsulfuron only. do not reuse this container for any other purpose. cleaning before
+refilling is the responsibility of the refiller. prior to refilling, inspect carefully for damage including cracks, punctures,
+abrasions, worn out threads and closure devices. if damage is found, do not use the container, contact dupont at the
+number below for instructions. check for leaks after refilling and before transporting. if leaks are found, do not reuse
+or transport container, contact dupont at the number below for instructions. disposing of container: do not reuse this
+container for any other purpose other than refilling (see preceding). cleaning the container before final disposal is
+the responsibility of the person disposing of the container. to clean the container before final disposal, use the
+following pressure rinsing procedure. insert a lance fitted with a suitable tank cleaning nozzle into the container and
+ensure that the water spray thoroughly covers the top, bottom and all sides inside the container. the nozzle
+manufacturer generally provides instructions for the appropriate spray pressure, spray duration and/or spray volume.
+if the manufacturer's instructions are not available, pressure rinse the container for at least 60 seconds using a
+minimum pressure of 30 psi with a minimum rinse volume of 10% of the container volume. drain, pour or pump
+rinsate into application equipment or rinsate collection system. repeat this pressure rinsing procedure two more times.
+then, for plastic containers, offer for recycling if available or puncture and dispose of in a sanitary landfill, or by
+incineration. do not burn, unless allowed by state and local ordinances. for metal containers, offer for recycling
+if available or reconditioning if appropriate, or puncture and dispose of in a sanitary landfill, or by other procedures
+approved by state and local authorities.
+do not transport if this container is damaged or leaking. if the container is damaged, leaking or obsolete, or in the
+event of a major spill, fire or other emergency, contact dupont at 1-800-441-3637, day or night.
+notice to buyer: purchase of this material does not confer any rights under patents of countries outside of the
+united states.
+the dupont oval logo, duponttm, matrix®, cinchr, curzate®, ally®, glean®, express®,
+harmony and finesse® are trademarks or registered trademarks of e. i. dupont de nemours and company
+"bravo" and "dual ii magnum" are registered trademarks of a syngenta group company.
+"eptam" is a registered trademark of gowan company l.l.c.
+"prowl" and "basagran" are registered trademarks of basf se.
+"lorox" is a registered trademark of tessenderlo kerley, inc.
+"manzate" is a registered trademark of united phosporus limited.
+"roundup" and "roundup ready" are registered trademarks of monsanto technology llc
+"twinjet" is a trademark of delavan
+"liberty", "sencor" and "alion" are registered trademarks of bayer
+"lorsban" and "kerb" are registered trademarks of dow agrosciences llc
+"microfoil boom" is a registered trademark of bishop equipment manufacturing
+<HEADING (PAGE NUMBER = 31)>sl - 2049a 100318 05-08-18< HEADING />
+31
+<HEADING (PAGE NUMBER = 32)>limitation of< HEADING />
+<HEADING (PAGE NUMBER = 32)>warranty and liability< HEADING />
+<HEADING (PAGE NUMBER = 32)>notice: read this limitation of warranty and liability before buying or using this product. dupont wil not be responsible {['TITLE EXTRACT']}< HEADING />
+<HEADING (PAGE NUMBER = 32)>for losses or damages resulting from the use of this product in any manner not specifically directed by dupont. user assumes< HEADING />
+<HEADING (PAGE NUMBER = 32)>all risks associated with such non-directed use. if the terms are not acceptable, return the product at once, unopened and the< HEADING />
+<HEADING (PAGE NUMBER = 32)>purchase price will be refunded.< HEADING />
+<HEADING (PAGE NUMBER = 32)>it is impossible to eliminate all risks associated with the use of this product. such risks arise from weather conditions, soil< HEADING />
+<HEADING (PAGE NUMBER = 32)>factors, off target movement, unconventional farming techniques, presence of other materials, the manner of use or application,< HEADING />
+<HEADING (PAGE NUMBER = 32)>or other unknown factors, all of which are beyond the control of dupont. these risks can cause: ineffectiveness of the product,< HEADING />
+<HEADING (PAGE NUMBER = 32)>crop injury, or injury to non-target crops or plants. when you buy or use this product, you agree to< HEADING />
+<HEADING (PAGE NUMBER = 32)>accept these risks.< HEADING />
+<HEADING (PAGE NUMBER = 32)>dupont warrants that this product conforms to the chemical description on the label thereof and is reasonably fit for the< HEADING />
+<HEADING (PAGE NUMBER = 32)>purpose stated in the directions for use, subject to the inherent risks described above, when used in accordance with the< HEADING />
+<HEADING (PAGE NUMBER = 32)>directions for use under normal conditions.< HEADING />
+<HEADING (PAGE NUMBER = 32)>to the extent consistent with applicable law, dupont makes no other express or implied< HEADING />
+<HEADING (PAGE NUMBER = 32)>warranty of fitness or of merchantability or any other express or implied warranty. to< HEADING />
+<HEADING (PAGE NUMBER = 32)>the extent consistent with applicable law, in no event shall dupont or seller be liable< HEADING />
+<HEADING (PAGE NUMBER = 32)>for any incidental, consequential or special damages resulting from the use or handling< HEADING />
+<HEADING (PAGE NUMBER = 32)>of this product. buyer's or user's bargained-for expectation is crop protection. to the< HEADING />
+<HEADING (PAGE NUMBER = 32)>extent consistent with applicable law, the exclusive remedy of the user or buyer and the< HEADING />
+<HEADING (PAGE NUMBER = 32)>exclusive liability of dupont or seller, for any and all claims, losses, injuries or< HEADING />
+<HEADING (PAGE NUMBER = 32)>damages (including claims based on breach of warranty or contract, negligence, tort or< HEADING />
+<HEADING (PAGE NUMBER = 32)>strict liability), whether from failure to perform or injury to crops or other plants, and< HEADING />
+<HEADING (PAGE NUMBER = 32)>resulting from the use or handling of this product, shall be the return of the purchase< HEADING />
+<HEADING (PAGE NUMBER = 32)>price of the product, or at the election of dupont or seller, the replacement of the< HEADING />
+<HEADING (PAGE NUMBER = 32)>product.< HEADING />
+<HEADING (PAGE NUMBER = 32)>to the extent consistent with applicable law that allows such requirement, dupont or its ag retailer must have prompt notice< HEADING />
+<HEADING (PAGE NUMBER = 32)>of any claim so that an immediate inspection of buyer's or user's growing crops can be made. buyer and all users shall< HEADING />
+<HEADING (PAGE NUMBER = 32)>promptly notify dupont or a dupont ag retailer of any claims, whether based on contract, negligence, strict liability, other< HEADING />
+<HEADING (PAGE NUMBER = 32)>tort or otherwise, or be barred from any remedy.< HEADING />
+<HEADING (PAGE NUMBER = 32)>this limitation of warranty and liability may not be amended by any oral or written agreement.< HEADING />
+<HEADING (PAGE NUMBER = 32)>for product information call: 1-888-6-dupont [1-888-638-7668]< HEADING />
+<HEADING (PAGE NUMBER = 32)>internet address: http://cropprotection.dupont.com/< HEADING />
+<HEADING (PAGE NUMBER = 32)>c 2008-2018 e. i. du pont de nemours and company, chestnut run plaza, 974 centre road, wilmington, de 19805 u.s.a.< HEADING />
+<HEADING (PAGE NUMBER = 32)>all rights reserved.< HEADING />
+32

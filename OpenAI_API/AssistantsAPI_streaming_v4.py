@@ -2,7 +2,7 @@ import threading
 from queue import Queue
 from typing import Generator, override
 from openai import AssistantEventHandler
-from OpenAI_API.tool_calling import vectorDB_tool, returnPDF
+from OpenAI_API.tool_calling import vectorDB_tool, returnPDF, getNamespaces
 from OpenAI_API.table_excel_tool import getExcel
 import json
 from OpenAI_API.utils import load_json_file
@@ -74,6 +74,9 @@ class EventHandler(AssistantEventHandler):
                 bot_input = json.loads(tool.function.arguments)
                 output = highlight_pdf(bot_input["namespace"])
                 tool_outputs.append({"tool_call_id": tool.id, "output": output})
+            if tool.function.name == "getNamespaces":
+                output = getNamespaces()
+                tool_outputs.append({"tool_call_id": tool.id, "output": str(output)})
 
         self.submit_tool_outputs(tool_outputs, run_id)
 

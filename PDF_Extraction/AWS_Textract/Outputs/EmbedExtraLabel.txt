@@ -1,0 +1,859 @@
+<HEADING (PAGE NUMBER = 1)>Specimen Label< HEADING />
+CORTEVA™
+agriscience
+Embed Extra {['TITLE EXTRACT']}
+<BOLD (PAGE NUMBER = 1)>HERBICIDE</BOLD>
+Trademarks of Corteva Agriscience and its affiliated companies
+TM
+<BOLD (PAGE NUMBER = 1)>2,4-D CHOLINE SALT</BOLD>
+<BOLD (PAGE NUMBER = 1)>GROUP</BOLD>
+<BOLD (PAGE NUMBER = 1)>For selective control of many broadleaf weeds in crops specified in</BOLD>
+<BOLD (PAGE NUMBER = 1)>this label, orchard floors, and fallow cropland.</BOLD>
+<BOLD (PAGE NUMBER = 1)>Do not allow contact of herbicide with foliage of desirable plants and</BOLD>
+<BOLD (PAGE NUMBER = 1)>trees because severe injury or destruction may result.</BOLD>
+<TABLE EXTRACT (TABLE NUMBER = 1, PAGE NUMBER = 1)>
+['2,4-Dichlorophenoxyacetic acid, choline salt', '55.7%']
+['Other Ingredients', '44.3%']
+['Total', '100.0%']
+Table extracted to localhost:5151/EmbedExtraLabel_0_table_1.png
+<TABLE EXTRACT />
+2,4-dichlorophenoxyacetic acid equivalent - 38% - 3.8 lb/gal
+<HEADING (PAGE NUMBER = 1)>Precautionary Statements< HEADING />
+<HEADING (PAGE NUMBER = 1)>Hazards to Humans and Domestic Animals< HEADING />
+EPA Reg. No. 62719-726
+<HEADING (PAGE NUMBER = 1)>Keep Out of Reach of Children< HEADING />
+<HEADING (PAGE NUMBER = 1)>WARNING< HEADING />
+<BOLD (PAGE NUMBER = 1)>May be fatal if swallowed. Causes substantial but temporary eye</BOLD>
+<BOLD (PAGE NUMBER = 1)>injury. Harmful if absorbed through skin. Prolonged or frequently</BOLD>
+<BOLD (PAGE NUMBER = 1)>repeated skin contact may cause allergic reactions in some</BOLD>
+<BOLD (PAGE NUMBER = 1)>individuals. Do not get in eyes or on clothing. Avoid contact</BOLD>
+<BOLD (PAGE NUMBER = 1)>with skin.</BOLD>
+<HEADING (PAGE NUMBER = 1)>Personal Protective Equipment (PPE)< HEADING />
+<BOLD (PAGE NUMBER = 1)>All mixers, loaders, applicators, flaggers, and handlers must wear:</BOLD>
+Long-sleeved shirt and long pants
+Shoes and socks, plus
+Waterproof gloves
+Protective eyewear (goggles, face shield, or safety glasses).
+Chemical-resistant apron when mixing or loading, cleaning up spills or
+equipment, or otherwise exposed to the concentrate.
+See engineering controls for additional requirements
+Follow manufacturer's instructions for cleaning/maintaining PPE. If no
+such instructions for washables exist, use detergent and hot water. Keep
+and wash PPE separately from other laundry.
+<HEADING (PAGE NUMBER = 1)>Engineering Controls< HEADING />
+When handlers use closed systems or enclosed cabs in a manner that
+meets the requirements listed in Worker Protection Standard (WPS)
+for agricultural pesticides [40 CFR 170.240 (d) (4-5)], the handler PPE
+requirements may be reduced or modified as specified in the WPS.
+Pilots must use an enclosed cockpit that meets the requirements listed
+in the Worker Protections Standard (WPS) for agricultural pesticides
+[40 CFR 170.240 (d)(4-6)].
+<HEADING (PAGE NUMBER = 1)>User Safety Recommendations< HEADING />
+Users should:
+Wash hands thoroughly with soap and water after handling and
+before eating, drinking, chewing gum, using tobacco, or using
+the toilet.
+Remove clothing/PPE immediately if pesticide gets inside. Then wash
+thoroughly and put on clean clothing. If pesticide gets on skin, wash
+immediately with soap and water.
+Remove PPE immediately after handling this product. Wash the
+outside of gloves before removing. As soon as possible, wash
+thoroughly and change into clean clothing.
+<HEADING (PAGE NUMBER = 1)>First Aid< HEADING />
+If swallowed: Call a poison control center or doctor immediately for
+treatment advice. Have person sip a glass of water if able to swallow.
+Do not induce vomiting unless told to do so by a poison control center
+or doctor. Do not give anything by mouth to an unconscious person.
+If in eyes: Hold eye open and rinse slowly and gently with water for
+15-20 minutes. Remove contact lenses, if present, after the
+first 5 minutes, then continue rinsing eye. Call a poison control
+center or doctor for treatment advice.
+If on skin: Take off contaminated clothing. Rinse skin immediately with
+plenty of water for 15-20 minutes. Call a poison control center or doctor
+for treatment advice.
+Have the product container or label with you when calling poison
+control center or doctor, or going for treatment. You may also
+contact 1-800-992-5994, for emergency medical treatment information.
+<HEADING (PAGE NUMBER = 1)>Environmental Hazards< HEADING />
+This product is toxic to fish and aquatic invertebrates. For terrestrial uses:
+Do not apply directly to water, to areas where surface water is present,
+or to intertidal areas below the mean high water mark. Drift or runoff
+may adversely affect aquatic invertebrates and non-target plants. Drift
+and runoff may be hazardous to aquatic organisms in water adjacent to
+treated areas. Do not contaminate water when disposing of equipment
+washwaters or rinsate.
+This chemical has properties and characteristics associated with
+chemicals detected in groundwater. The use of this chemical in areas
+where soils are permeable, particularly where the water table is shallow,
+may result in groundwater contamination. Application around a cistern or
+well may result in contamination of drinking water or groundwater.
+<HEADING (PAGE NUMBER = 1)>Physical and Chemical Hazards< HEADING />
+Spray solutions of this product must be mixed, stored and applied
+using only stainless steel, aluminum, fiberglass, plastic or plastic
+lined containers.
+<BOLD (PAGE NUMBER = 1)>Do not mix, store or apply this product or spray solutions of this</BOLD>
+<BOLD (PAGE NUMBER = 1)>product in galvanized steel or unlined steel containers or spray tanks.</BOLD>
+<HEADING (PAGE NUMBER = 1)>Directions for Use< HEADING />
+It is a violation of Federal law to use this product in a manner inconsistent
+with its labeling.
+Read all Directions for Use carefully before applying.
+Do not apply this product in a way that will contact workers or other
+persons, either directly or through drift. Only protected handlers may be
+in the area during application. For any requirements specific to your state
+or tribe, consult the agency responsible for pesticide regulation.
+<HEADING (PAGE NUMBER = 1)>Agricultural Use Requirements< HEADING />
+Use this product only in accordance with its labeling and with the
+Worker Protection Standard, 40 CFR Part 170. This Standard contains
+requirements for the protection of agricultural workers on farms, forests,
+nurseries, and greenhouses, and handlers of agricultural pesticides.
+It contains requirements for training, decontamination, notification,
+and emergency assistance. It also contains specific instructions and
+exceptions pertaining to the statements on this label about personal
+protective equipment (PPE), and restricted entry interval. The
+requirements in this box only apply to uses of this product that are
+covered by the Worker Protection Standard.
+Do not enter or allow worker entry into treated areas during the
+restricted entry interval (REI) of 48 hours.
+PPE required for early entry to treated areas that is permitted under the
+Worker Protection Standard and that involves contact with anything that
+has been treated, such as plants, soil, or water, is:
+Long-sleeved shirt and long pants
+Waterproof gloves
+Shoes plus socks
+Protective eyewear (goggles, face shield, or safety glasses)
+HERBICIDE
+<HEADING (PAGE NUMBER = 1)>4< HEADING />
+<HEADING (PAGE NUMBER = 2)>Non-Agricultural Use Requirements< HEADING />
+The requirements in this box apply to uses of this product that are NOT
+within the scope of the Worker Protection Standard for Agricultural
+Pesticides (40 CFR Part 170). The WPS applies when this product
+is used to produce agricultural plants on farms, forests, nurseries,
+or greenhouses.
+Entry Restrictions for Non-WPS Uses: Do not enter or allow people
+(or pets) to enter the treated area until sprays have dried.
+Storage and Disposal {['TITLE EXTRACT']}
+Do not contaminate water, food, feed or seed by storage or disposal.
+Pesticide Storage: Store in a cool, dry place. Store in original
+container. In case of leak or spill, contain material and dispose as waste.
+Pesticide Disposal: Wastes resulting from the use of this product must
+be disposed of on site or at an approved waste disposal facility.
+<BOLD (PAGE NUMBER = 2)>Nonrefillable containers 5 gallons or less:</BOLD>
+Container Handling: Nonrefillable container. Do not reuse or refill
+this container.
+Triple rinse or pressure rinse container (or equivalent) promptly after
+emptying. Triple rinse as follows: Empty the remaining contents into
+application equipment or a mix tank and drain for 10 seconds after the
+flow begins to drip. Fill the container 1/4 full with water and recap. Shake
+for 10 seconds. Pour rinsate into application equipment or a mix tank or
+store rinsate for later use or disposal. Drain for 10 seconds after the flow
+begins to drip. Repeat this procedure two more times. Pressure rinse
+as follows: Empty the remaining contents into application equipment or
+a mix tank and continue to drain for 10 seconds after the flow begins to
+drip. Hold container upside down over application equipment or mix tank
+or collect rinsate for later use or disposal. Insert pressure rinsing nozzle in
+the side of the container, and rinse at about 40 psi for at least 30 seconds.
+Drain for 10 seconds after the flow begins to drip. Then offer for
+recycling if available or puncture and dispose of in a sanitary landfill, or by
+incineration, or by other procedures allowed by state and local authorities.
+<BOLD (PAGE NUMBER = 2)>Refillable containers larger than 5 gallons:</BOLD>
+Container Handling: Refillable container. Refill this container with
+pesticide only. Do not reuse this container for any other purpose.
+Cleaning the container before final disposal is the responsibility of
+the person disposing of the container. Cleaning before refilling is the
+responsibility of the refiller. To clean the container before final disposal,
+empty the remaining contents from this container into application
+equipment or a mix tank. Fill the container about 10% full with water
+and, if possible, spray all sides while adding water. If practical, agitate
+vigorously or recirculate water with the pump for two minutes. Pour or
+pump rinsate into application equipment or rinsate collection system.
+Repeat this rinsing procedure two more times. Then offer for recycling
+if available, or puncture and dispose of in a sanitary landfill, or by
+incineration, or by other procedures allowed by state and local authorities.
+<BOLD (PAGE NUMBER = 2)>Nonrefillable containers 5 gallons or larger:</BOLD>
+Container Handling: Nonrefillable container. Do not reuse or refill
+this container.
+Triple rinse or pressure rinse container (or equivalent) promptly after
+emptying. Triple rinse as follows: Empty the remaining contents into
+application equipment or a mix tank. Fill the container 1/4 full with water.
+Replace and tighten closures. Tip container on its side and roll it back
+and forth, ensuring at least one complete revolution, for 30 seconds.
+Stand the container on its end and tip it back and forth several times.
+Turn the container over onto its other end and tip it back and forth
+several times. Empty the rinsate into application equipment or a mix
+tank or store rinsate for later use or disposal. Repeat this procedure two
+more times. Pressure rinse as follows: Empty the remaining contents
+into application equipment or a mix tank and continue to drain for
+10 seconds after the flow begins to drip. Hold container upside down
+over application equipment or mix tank or collect rinsate for later use or
+disposal. Insert pressure rinsing nozzle in the side of the container, and
+rinse at about 40 psi for at least 30 seconds. Drain for 10 seconds after
+the flow begins to drip. Then offer for recycling if available, or puncture
+and dispose of in a sanitary landfill, or by incineration, or by other
+procedures allowed by state and local authorities.
+<HEADING (PAGE NUMBER = 2)>Product Information< HEADING />
+Embed Extra herbicide is intended for selective control of many broadleaf
+weeds in asparagus; blueberries, high bush; cereal grains; cranberries;
+grasses (turf) for seed or sod; orchard floors (pome fruit, including apples
+and pears, stone fruit and nut orchards); fallowland and crop stubble;
+filberts; sugarcane; and strawberries (established planting only).
+Apply Embed Extra as a water or oil-water spray during warm weather
+when target weeds or woody plants are actively growing. Application
+under drought conditions will often give poor results. Use low spray
+pressure to minimize drift. Generally, the lower dosages specified on this
+label will be satisfactory for young, succulent growth of susceptible weed
+species. For less susceptible species and under conditions where control
+is more difficult, use higher specified rates. Deep-rooted perennial weeds
+such as Canada thistle and field bindweed and many woody plants usually
+require repeated applications for satisfactory control. Consult your State
+Agricultural Experiment stations or Extension Service Weed Specialists for
+recommendations from this label that best fit local conditions.
+When this product is applied as directed and under the circumstances
+described, it controls annual and perennial broadleaf weeds listed in
+this label.
+Time to Symptoms on Susceptible Plants: Initial symptoms include
+drooping leaves and epinasty, which typically occurs within 24 hours of
+foliar treatment. This is followed by chlorosis, necrosis, further leaf/stem
+malformation and, growth inhibition. Complete death and desiccation of
+susceptible plants occurs within 3-5 weeks.
+Stage of Broadleaf Weeds: Annual weeds are easiest to control when
+they are small. Best control of most perennial weeds is obtained when
+treatment is made at late growth stages approaching maturity. Refer to
+the annual and perennial rate tables for specific weeds. When treating
+weeds with disease or insect damage, weeds heavily covered with
+dust, or weeds under poor growing conditions, reduced weed control
+may result.
+Rainfastness: Heavy rainfall soon after application may wash off this
+product from the foliage.
+Spray Coverage: For best results, spray coverage should be uniform and
+complete. Do not spray weed foliage to the point of runoff.
+Mode of Action: 2,4-D, the active ingredient in this product, mimics the
+naturally occurring plant auxins and overloads the plant's auxin balance
+affecting vital processes, such as cell division and elongation, resulting in
+abnormal growth and plant death.
+Limited Soil Activity: Though some suppression of annual weeds
+emerging soon after application may occur when this product is applied
+at higher rates within the rate range, optimum control is achieved when
+the majority of weeds are emerged at the time of application. Unemerged
+plants arising from unattached underground rhizomes or rootstocks of
+perennials will not be affected by the herbicide and will continue to grow.
+Biological Degradation: Degradation of this product is primarily a
+biological process carried out by soil microbes.
+<HEADING (PAGE NUMBER = 2)>Herbicide Resistance Management< HEADING />
+2,4-D, the active ingredient in this product, is a Group 4 herbicide
+(synthetic auxin). Weed populations may develop biotypes that are
+resistant to different herbicides with the same mode of action. If
+herbicides with the same mode of action are used repeatedly in the
+same field, resistant biotypes may eventually develop, produce viable
+seed, dominate the weed population and may not be controlled by this
+product. Other resistance mechanisms, such as biotypes with enhanced
+herbicide metabolism, may also develop, exist in a field and may cause
+reduced weed control. Some naturally occurring weed biotypes that are
+tolerant (resistant) to 2,4-D may exist due to genetic variability in a weed
+population. Where resistant biotypes exist, the repeated use of herbicides
+with the same mode of action can lead to the selection for resistant
+weeds. Certain agronomic practices reduce the likelihood that resistant
+weed populations will develop and can be utilized to manage weed
+resistance once it occurs.
+Suspected herbicide-resistant weeds may be identified by
+these indicators:
+Failure to control a weeds species normally controlled by the herbicide
+at the dose applied, especially if control is achieved on adjacent weeds;
+A spreading patch of non-controlled plants of a particular weed
+species; and
+Surviving plants mixed with controlled individuals of the same species.
+This product should be used as part of an Integrated Pest Management
+(IPM) program that may include biological, cultural, and chemical
+practices aimed at preventing economic pest damage. Application of this
+product should be based on appropriate IPM and resistance management
+strategies and practices that delay or reduce the development of
+herbicide-resistant weed biotypes. Such practices include, but are not
+limited to, field scouting, use of weed free crop seed, cultural practices
+including burndown herbicides, crop rotation and cultivation, proper
+water management, correct weed pest identification, following rotational
+practices outlined on pesticide labels, and treating with the correct
+product rates when target weed populations are at the correct stage and
+economic thresholds for control.
+To aid in the prevention of developing 2,4-D resistant weeds,
+Corteva Agriscience recommends the following practices:
+2
+<HEADING (PAGE NUMBER = 2)>Specimen Label Revised 01-04-24< HEADING />
+<BOLD (PAGE NUMBER = 3)>Herbicide Selection:</BOLD>
+Rotate the use of 2,4-D with non-auxin (non-Group 4) herbicides.
+Utilize a broad spectrum soil-applied herbicide as a
+foundation treatment.
+Utilize tank mixes or sequential applications of herbicides with
+alternative modes of action.
+Avoid using more than two applications of a Group 4 herbicide, such
+as 2,4-D, within a single growing season unless mixed with another
+mode of action herbicide with overlapping spectrum.
+Apply full rates of 2,4-D at the specified time (correct weed size) to
+minimize escapes of tolerant weeds.
+Fields should be scouted prior to application to identify the weed
+species present and their growth stage to determine if the intended
+application will be effective.
+<BOLD (PAGE NUMBER = 3)>Crop Selection and Cultural Practices:</BOLD>
+Incorporate additional weed control practices whenever possible, such
+as mechanical cultivation, delayed planting, crop rotation, and weed-
+free crop seeds, as part of an integrated weed control program.
+Do not allow weed escapes to produce seeds, roots or tubers.
+Thoroughly clean plant residues from equipment before leaving fields
+suspected to contain resistant weeds.
+Scout fields after application to detect weed escapes or shifts in
+weed species.
+If resistance is suspected, treat weed escapes with an alternate mode
+of action or cultivation.
+Report any incidence of repeated non-performance of this product
+against a particular weed species to the local retailer, county extension
+agent, or Corteva Agriscience representative.
+Because the presence of herbicide resistance in weed populations is
+difficult to detect prior to use to the extent consistent with applicable law,
+Corteva Agriscience accepts no liability for any losses that may result
+from the failure of this product to control weeds resistant to this mode of
+action. Report incidents of non-performance to the local retailer, county
+extension agent, or Corteva Agriscience representative.
+<HEADING (PAGE NUMBER = 3)>Spray Drift Management< HEADING />
+A variety of factors including weather conditions (e.g., wind direction, wind
+speed, temperature, and relative humidity) and method of application
+(e.g., ground, aerial, airblast) can influence pesticide drift. The applicator
+must evaluate all factors and make appropriate adjustments when
+applying this product.
+<BOLD (PAGE NUMBER = 3)>Droplet Size</BOLD>
+When applying sprays that contain 2,4-D as the sole active ingredient,
+or when applying sprays that contain 2,4-D mixed with other active
+ingredients that require a coarse or coarser spray, apply only as a coarse
+or coarser spray (ASABE S-572 standard) or a volume mean diameter
+of 385 microns or greater for spinning atomizer nozzles.
+When applying sprays that contain 2,4-D mixed with other active
+ingredients that require a medium or finer spray, apply only as a medium
+or coarser spray (ASABE Standard 572) or a volume mean diameter
+of 300 microns or greater for spinning atomizer nozzles.
+<BOLD (PAGE NUMBER = 3)>Wind Speed</BOLD>
+Do not apply at wind speeds greater than 15 mph. Only apply this
+product if the wind direction favors on-target deposition and there are not
+sensitive areas (including residential areas, bodies of water, known habitat
+for non-target species, non-target crops) within 250 feet downwind. If
+applying a medium droplet spray, leave one swath unsprayed at the
+downwind edge of the treated field.
+<BOLD (PAGE NUMBER = 3)>Temperature Inversions</BOLD>
+Applications should not occur during a local, low level temperature inversion
+because drift potential is high. Temperature inversions restrict vertical air
+mixing, which causes small suspended droplets to remain in a concentrated
+cloud. This cloud can move in unpredictable directions due to the light
+variable winds common during inversions. Temperature inversions are
+characterized by increasing temperatures with altitude and are common on
+nights with limited cloud cover and light to no wind. They begin to form as
+the sun sets and often continue into the morning. Their presence can be
+indicated by ground fog; however, if fog is not present, inversions can also
+be identified by the movement of the smoke from a ground source generator.
+Smoke that layers and moves laterally in a concentrated cloud (under low
+wind conditions) indicates an inversion, while smoke that moves upward and
+rapidly dissipates indicates good vertical air mixing.
+<BOLD (PAGE NUMBER = 3)>State and Local Requirements</BOLD>
+Applicators must follow all state and local pesticide drift requirements
+regarding application of 2,4-D herbicides. Where states have more
+stringent regulations, they must be observed.
+<HEADING (PAGE NUMBER = 3)>Susceptible Plants< HEADING />
+Do not apply under circumstances where spray drift may occur to food,
+forage, or other plantings that might be damaged or crops thereof
+rendered unfit for sale, use or consumption. Do not allow contact of
+herbicide with foliage of desirable plants; including cotton and trees,
+because severe injury or destruction may result. Small amounts of spray
+drift that may not be visible may injure susceptible broadleaf plants.
+<BOLD (PAGE NUMBER = 3)>Before making an application, please refer to your state's sensitive</BOLD>
+<BOLD (PAGE NUMBER = 3)>crop registry (if available) to identify any commercial specialty or</BOLD>
+<BOLD (PAGE NUMBER = 3)>certified organic crops that may be located nearby.</BOLD>
+<BOLD (PAGE NUMBER = 3)>At the time of application, the wind cannot be blowing toward</BOLD>
+<BOLD (PAGE NUMBER = 3)>adjacent commercially grown tomatoes and other fruiting vegetables</BOLD>
+<BOLD (PAGE NUMBER = 3)>(EPA crop group 8), cucurbits (EPA crop group 9), grapes and cotton.</BOLD>
+<HEADING (PAGE NUMBER = 3)>Application Equipment and Application Methods {['TITLE EXTRACT']}< HEADING />
+Chemigation: Do not apply this product through any type of
+irrigation system.
+Apply Embed Extra with the following application equipment: Apply spray
+solutions in properly maintained and calibrated equipment capable of
+delivering desired volumes.
+<BOLD (PAGE NUMBER = 3)>Ground Broadcast Spray</BOLD>
+Boom, pull-type sprayer, floaters, pick-up sprayers, spray coupes and
+other ground broadcast equipment. Use the minimum boom height
+based upon the nozzle manufacturer's specifications. Spray drift potential
+is increased as boom height increases. Spray drift can be minimized
+if nozzle height is not greater than maximum height recommended by
+nozzle manufacturer for the nozzle selected.
+Use the specified rates of this product as a broadcast spray unless
+otherwise specified. As the density of weeds increases, increase spray
+volume within the specified range to ensure complete coverage. Check for
+even distribution of spray droplets.
+<BOLD (PAGE NUMBER = 3)>Aerial Application</BOLD>
+The boom length must not exceed 75% of the wingspan or 90% of the
+rotor blade diameter.
+Release spray at the lowest height consistent with efficacy and flight
+safety. Do not release spray at a height greater than 10 feet above the
+crop canopy unless a greater height is required for aircraft safety. This
+requirement does not apply to forestry or rights-of-way applications.
+When applications are made with a crosswind, the swath will be displaced
+downwind. The applicator must compensate for this by adjusting the
+path of the aircraft upwind.
+<HEADING (PAGE NUMBER = 3)>Mixing Directions< HEADING />
+<BOLD (PAGE NUMBER = 3)>Embed Extra - Alone</BOLD>
+Mix Embed Extra only with water unless otherwise directed on this label.
+Add about half of the water to the mixing tank, then add Embed Extra with
+agitation, and finally the rest of the water with continuing agitation. Note:
+Adding oil, wetting agent, or other surfactant to the spray mixture may
+increase effectiveness on weeds, but also may reduce selectivity to crops
+resulting in crop damage.
+<BOLD (PAGE NUMBER = 3)>Embed Extra Tank Mix</BOLD>
+When tank mixing, read and follow the label of each tank mix product
+used for precautionary statements, directions for use, weeds controlled,
+and geographic and other restrictions. Use in accordance with the
+most restrictive of label limitations and precautions. Do not exceed any
+active ingredient's maximum use rates when tank mixing. Do not tank
+mix this product with any product containing a label prohibition against
+tank mixing with 2,4-D. It is the pesticide user's responsibility to ensure
+that all products are registered for the intended use. Read and follow the
+applicable restrictions and limitations and directions for use on all product
+labels involved in tank mixing. Users must follow the most restrictive
+directions for use and precautionary statements of each product in the
+tank mixture.
+Tank Mix Compatibility Testing: A jar test is recommended prior to tank
+mixing to ensure compatibility of this product and other pesticides. Use
+a clear glass quart jar with lid and mix the tank mix ingredients in their
+relative proportions. Invert the jar containing the mixture several times
+and observe the mixture for approximately 1/2 hour. If the mixture balls-up,
+forms flakes, sludges, jels, oily films or layers, or other precipitates, it is
+not compatible and the tank mix combination should not be used.
+Mixing with Liquid Nitrogen Fertilizer: This product may be combined
+with liquid nitrogen fertilizer suitable for foliar application to accomplish
+broadleaf weed control and fertilization of small grains in a single
+operation. Use Embed Extra in accordance with directions for these
+crops provided in this label. Use liquid fertilizer at rates specified by the
+supplier or Extension Service Specialist. Test for mixing compatibility as
+described above before mixing in a spray tank. A compatibility aid such
+as Unite or Complex may be needed in some situations. Compatibility
+is best with liquid fertilizer solutions containing only nitrogen. Mixing
+with N-P-K solutions may not be satisfactory, even with the addition of a
+compatibility aid. Pre-mixing 1 part Embed Extra with up to 4 parts water
+may help in situations when mixing difficulty occurs.
+3
+<HEADING (PAGE NUMBER = 3)>Specimen Label Revised 01-04-24< HEADING />
+Fill the tank about half full with the liquid fertilizer, then add the required
+amount of Embed Extra with agitation. Maintain agitation and complete
+filling the tank with liquid fertilizer. Apply immediately and continue
+agitation in spray tank during application. Do not store the spray mixture.
+Application during very cold weather (near freezing) is not advisable.
+Sprayer Clean-Out {['TITLE EXTRACT']}
+To avoid injury to desirable plants, thoroughly clean equipment used to
+apply this product before re-use or using it to apply other chemicals.
+1. Completely drain the spray system, including pump, lines and spray
+boom, for at least 5 minutes.
+2. Fill the spray tank with clean water to at least 10% of the total tank
+volume and circulate the solution through the entire system so that all
+internal surfaces are contacted for at least 15 minutes to complete the
+first rinse of the application equipment. Spray the solution out of the
+spray tank through the boom.
+3. Completely drain the spray system, including lines and spray boom, for
+at least 5 minutes; remove and clean filters and strainers.
+4. During the second rinse, fill the container with clean water to
+least 10% of the total tank volume. The addition of tank cleaning
+agents may be used at the manufacturer's specified rates. Circulate
+the solution through the entire system for at least 15 to 20 minutes. Let
+the solution stand for several hours, preferably overnight. Spray the
+solution out of the spray tank through the boom.
+5. Completely drain the spray system, including lines and spray boom, for
+at least 5 minutes.
+6. Fill the container with clean water to at least 10% of the total tank
+volume and circulate the solution through the entire system so that all
+internal surfaces are contacted for at least 15 minutes to complete the
+third rinse of the application equipment. Spray the solution out of the
+spray tank through the boom.
+7. Completely drain the spray system, remove nozzle tips and strainers
+and clean them separately.
+<HEADING (PAGE NUMBER = 4)>Application Directions< HEADING />
+Apply with calibrated air or ground equipment using sufficient spray
+volume to provide adequate coverage of target weeds or as otherwise
+directed in Use Directions. For broadcast application, use a spray
+volume of 3 gallons or more per acre by air and 10 gallons or more per
+acre for ground equipment. Where states have regulations which specify
+minimum spray volumes, they must be observed. In general, increase
+spray volume as crop canopy, height and weed density increase in order
+to obtain adequate spray coverage. Do not apply less than 3 gallons
+<BOLD (PAGE NUMBER = 4)>total spray volume per acre.</BOLD>
+<BOLD (PAGE NUMBER = 4)>Application Rate</BOLD>
+The lower dosages given will be satisfactory for young, succulent
+growth of sensitive weed species. For less sensitive species and
+under conditions where control is more difficult, the higher dosages
+will be needed.
+<BOLD (PAGE NUMBER = 4)>Application Timing</BOLD>
+Apply Embed Extra during warm weather when weeds are young and
+actively growing.
+<BOLD (PAGE NUMBER = 4)>Spot Treatments</BOLD>
+To prevent misapplication, apply spot treatments with a calibrated boom
+or with hand sprayers using a fixed spray volume per 1000 sq ft as
+indicated below.
+Hand-Held Sprayers: Hand-held sprayers may be used for spot
+applications of Embed Extra. Take care to apply the spray uniformly and
+at a rate equivalent to a broadcast application. Application rates in the
+table are based upon the application rate for an area of 1000 sq ft. Mix
+the amount of Embed Extra (fl OZ or mL) corresponding to the desired
+broadcast rate in 1 to 3 gallons of spray. To calculate the amount of
+Embed Extra required for larger areas, multiply the table value (fl OZ or
+mL) by the thousands of sq ft to be treated. An area of 1000 sq ft is
+approximately 10.5 X 10.5 yards (strides) in size.
+<BOLD (PAGE NUMBER = 4)>Rate Conversion Table for Spot Treatment:</BOLD>
+<TABLE EXTRACT (TABLE NUMBER = 1, PAGE NUMBER = 4)>
+['', '', 'Label', 'Broadcast', 'Rate', '(pint/acre)', '', '']
+['1/2', '2/3', '3/4', '1', '2', '3', '4', '8']
+['', 'Equivalent', 'Amount', 'of', 'Embed Extra', 'per 1000', 'sq ft', '']
+['1/5 fl OZ (5.5 mL)', '1/4 fl OZ (7.3 mL)', '1/3 fl OZ (8.3 mL)', '3/8 fl OZ (11 mL)', '3/4 fl OZ (22 mL)', '1 fl OZ (33 mL)', '1/2 fl oz (44 mL)', '3 fl OZ (88 mL)']
+Table extracted to localhost:5151/EmbedExtraLabel_3_table_1.png
+<TABLE EXTRACT />
+<BOLD (PAGE NUMBER = 4)>Band Application</BOLD>
+Embed Extra may be applied as a band treatment. Use the formulas
+below to determine the appropriate rate and volume per treated acre.
+Band width in inches
+Row width in inches
+Band width in inches
+Row width in inches
+<HEADING (PAGE NUMBER = 4)>Weeds Controlled< HEADING />
+Hard to control weeds, such as Palmer amaranth, may require a total
+program approach including soil applied residual herbicide(s) followed by
+a single or sequential post herbicide application.
+Perennial weeds may require higher rates for best control. Below-
+ground portions of perennial weeds may not be completely controlled
+with single applications and follow-up applications may be required if
+regrowth occurs.
+<HEADING (PAGE NUMBER = 4)>Annual or Biennial Weeds< HEADING />
+<TABLE EXTRACT (TABLE NUMBER = 2, PAGE NUMBER = 4)>
+['beggarticks', 'mousetail']
+['bittercress, smallflowered', 'mustards (except blue mustard)']
+['bitterweed', 'parsnip, wild']
+['broomweed, common1', 'pennycress, field']
+['burdock, common', 'pepperweed1']
+['buttercup, smallflowered¹', 'pigweeds (Amaranthus spp.)']
+['carpetweed', 'poorjoe']
+['cinquefoil, common', 'primrose, common']
+['cinquefoil, rough', 'purslane, common']
+['cocklebur, common', 'pusley, Florida']
+['coffeeweed', 'radish, wild']
+['copperleaf, Virginia', 'ragweed, common']
+['croton, Texas', 'ragweed, giant']
+['croton, woolly', 'rape, wild']
+['flixweed', 'rocket, yellow']
+['galinsoga', 'salsify, common¹']
+['geranium, Carolina', 'salsify, western']
+['hemp, wild', 'shepherdspurse']
+['horseweed (marestail)', 'sicklepod']
+['jewelweed', 'smartweed (annual species)']
+['jimsonweed', 'sneezeweed, bitter']
+['knotweed1', 'sowthistle, annual']
+['kochia', 'sowthistle, spiny']
+['lambsquarters, common', 'spanishneedles']
+['lettuce, prickly1', 'sunflower']
+['lettuce, wild', 'sweetclover']
+['lupines', 'tansymustard']
+['mallow, little ¹', 'thistle, bull']
+['mallow, Venice1', 'thistle, musk1']
+['marshelder', 'thistle, Russian (tumbleweed)']
+['morningglory, annual', 'velvetleaf']
+['morningglory, ivy', 'vetches']
+['morningglory, woolly', '']
+Table extracted to localhost:5151/EmbedExtraLabel_3_table_2.png
+<TABLE EXTRACT />
+<HEADING (PAGE NUMBER = 4)>Perennial Weeds< HEADING />
+<TABLE EXTRACT (TABLE NUMBER = 3, PAGE NUMBER = 4)>
+['alfalfa¹', 'eveningprimrose, cutleaf']
+['artichoke, Jerusalem', 'garlic, wild1']
+['aster, many-flower', 'goldenrod']
+['Austrian fieldcress1', 'hawkweed, orange1']
+['bindweed (hedge, field', 'healal']
+['and European)', 'ironweed, western']
+['blue lettuce', 'ivy, ground']
+['blueweed, Texas', 'Jerusalem artichoke']
+['broomweed', 'loco, bigbend']
+['bullnettle¹', 'nettles (including stinging)']
+['carrot, wild1', 'onion, wild¹']
+['catnip', 'pennywort']
+['chicory', 'plantains']
+['clover, red1', 'ragwort, tansy1']
+['coffeeweed', 'sowthistle, perennial']
+['cress, hoary1', 'thistle, Canada ¹']
+['dandelion¹', 'vervains']
+['docks ¹', 'waterplantain']
+['dogbanes', 'wormwood']
+Table extracted to localhost:5151/EmbedExtraLabel_3_table_3.png
+<TABLE EXTRACT />
+1May require application to small weeds, repeat applications, and/or use
+of higher specified rates of this product. Control at rates of 1 pint or less
+per acre may only be partial.
+<BOLD (PAGE NUMBER = 4)>4</BOLD>
+Band rate per
+Broadcast rate =
+treated acre
+per acre
+Broadcast volume =
+Band volume
+per treated acre
+per acre
+at
+<HEADING (PAGE NUMBER = 4)>Specimen Label Revised 01-04-24< HEADING />
+<HEADING (PAGE NUMBER = 5)>Use Directions< HEADING />
+Unless otherwise specified, applications may be made to control any weeds listed in the annual and perennial tables.
+Agricultural Use Requirements for Crops: For the following crop uses, follow PPE and re-entry instructions in the Agricultural Use Requirements
+section of this label.
+<HEADING (PAGE NUMBER = 5)>Apples, Pears, Stone Fruit and Nut Orchards (Except Filberts) (Orchard Floor) {['TITLE EXTRACT']}< HEADING />
+<TABLE EXTRACT (TABLE NUMBER = 1, PAGE NUMBER = 5)>
+['APPLICATION TIMING', 'AMOUNT OF EMBED EXTRA PER ACRE', 'DIRECTIONS']
+['Postemergence Annual and biennial broadleaf weeds Perennial broadleaf weeds', '1 to 2 pints Up to 4 pints', 'For application to orchard floors, use coarse, low-pressure sprays and sufficient water for thorough coverage of weeds. Apply to annual weeds when small and actively growing. Apply to perennial weeds from bud to bloom stage. Newly established trees or young orchards are more susceptible to 2,4-D injury. Apply only to orchards that have been established for at least one year and are in vigorous growth condition']
+Table extracted to localhost:5151/EmbedExtraLabel_4_table_1.png
+<TABLE EXTRACT />
+<BOLD (PAGE NUMBER = 5)>Restrictions for Use in Apples, Pears, Stone Fruit and Nut Orchards (Except Filberts) (Orchard Floor)</BOLD>
+Preharvest Intervals (PHI):
+Apples and Pear: Do not harvest fruit within 14 days of application.
+Stone Fruit: Do not harvest within 40 days of application.
+Nut Orchard and Pistachio: Do not harvest within 60 days of application.
+Do not apply to bare ground as injury may result.
+Do not apply immediately before irrigation. Withhold irrigation for two days before and three days after application.
+Do not allow spray drift to contact foliage, fruit, stems, trunks or trees or exposed roots.
+Do not apply to newly established or young orchards. Trees must be at least 1 year old and in vigorous condition.
+Do not apply when orchards are blooming.
+Do not cut orchard floor forage for hay within 7 days of application.
+Allow at least 75 days between applications.
+Do not make more than 2 applications per year.
+Max annual rate: 4.0 lbs ae per acre per year.
+Do not graze or feed cover crops from treated orchards.
+<HEADING (PAGE NUMBER = 5)>Asparagus< HEADING />
+<TABLE EXTRACT (TABLE NUMBER = 2, PAGE NUMBER = 5)>
+['CROP / APPLICATION TIMING', 'AMOUNT OF EMBED EXTRA PER ACRE', 'DIRECTIONS']
+['Annual, biennial and perennial broadleaf weeds', '3 to 4 pints', 'Apply on actively growing weeds. Ground Application: Apply in 50 to 60 gallons of water per acre. Aerial Application: Apply in 12 gallons of water per acre. Post-harvest spraying should be only by ground application using drop nozzles to avoid spraying the fern. If asparagus spears are present, treat immediately after cutting. Spears contacted by the spray may be malformed and off-flavored. If spears are malformed by spray, cut immediately and discard.']
+Table extracted to localhost:5151/EmbedExtraLabel_4_table_2.png
+<TABLE EXTRACT />
+<BOLD (PAGE NUMBER = 5)>Restrictions for Use in Asparagus</BOLD>
+Limited to two applications per crop cycle.
+Maximum of 4 pints (2.0 lb ae) per acre per application.
+Minimum of 30 days between applications.
+Preharvest Interval (PHI): Do not harvest within 3 days of application.
+<HEADING (PAGE NUMBER = 5)>Blueberries, High Bush< HEADING />
+<TABLE EXTRACT (TABLE NUMBER = 3, PAGE NUMBER = 5)>
+['CROP STAGE', 'MAXIMUM APPLICATION RATE / ACRE', 'DIRECTIONS / TIMING']
+['Postemergence', '3.0 pints', 'Make directed or shielded application in the spring.']
+['Postharvest', '3.0 pints', 'Make directed application to row middles in summer or fall after harvest.']
+Table extracted to localhost:5151/EmbedExtraLabel_4_table_3.png
+<TABLE EXTRACT />
+<BOLD (PAGE NUMBER = 5)>Restrictions for Use in Blueberries</BOLD>
+Preharvest Interval (PHI): Do not harvest within 30 days of application.
+Max annual rate: 6.0 pints (2.8 lbs ae) per acre per year.
+Limited to one application per year for each of the crop stages.
+Do not allow herbicide contact with blueberry plant foliage.
+<HEADING (PAGE NUMBER = 5)>Cereal Grains< HEADING />
+<BOLD (PAGE NUMBER = 5)>(Wheat, Barley, Millet, Oats, Rye, Triticale and Teff)</BOLD>
+<TABLE EXTRACT (TABLE NUMBER = 4, PAGE NUMBER = 5)>
+['CROP / APPLICATION TIMING', 'AMOUNT OF EMBED EXTRA PER ACRE', 'DIRECTIONS']
+['Barley, Rye, Triticale, Wheat, Millet and Teff Not underseeded with legumes Postemergence Annual and biennial broadleaf weeds Perennial broadleaf weeds', '1/2 to 2 pints* 1 to 2 pints*', 'Apply after crop is fully tillered (usually 4 to 8 inches high) but not forming joints in the stem. Do not apply before tillering or from early boot through the milk stage of growth.']
+Table extracted to localhost:5151/EmbedExtraLabel_4_table_4.png
+<TABLE EXTRACT />
+<HEADING (PAGE NUMBER = 5)>Specimen Label Revised 01-04-24< HEADING />
+5
+Cereal Grains (Cont.) {['TITLE EXTRACT']}
+<BOLD (PAGE NUMBER = 6)>(Wheat, Barley, Millet, Oats, Rye, Triticale and Teff)</BOLD>
+<TABLE EXTRACT (TABLE NUMBER = 1, PAGE NUMBER = 6)>
+['CROP / APPLICATION TIMING', 'AMOUNT OF EMBED EXTRA PER ACRE', 'DIRECTIONS']
+['Oats Not underseeded with legumes Postemergence Spring Seeded Fall Seeded Southern', '1/2 pint 3/4 to 1 1/2 pints*', 'Apply after crop is fully tillered (usually 4 to 8 inches high) but not forming joints in the stem. Do not apply before tillering or from early boot through the milk stage of growth. Do not apply during or immediately following cold weather.']
+['Oats Underseeded with legumes', '1/4 to 1/2 pint*', 'Apply after grain is 8 inches tall. Do not apply before tillering or from early boot through the milk stage of growth. Do not spray alfalfa or sweet clover unless the infestation is severe and injury to these legumes can be tolerated.']
+['Emergency weed control in Triticale, Wheat Perennial broadleaf weeds', '2.6 pints', 'Apply when weeds are approaching bud stage, after the grain dough stage. Do not apply before tillering or from early boot through the milk stage of growth The 2.6 pints per acre application can produce injury to wheat. Balance the severity of your weed problem against the possibility of crop damage. Where perennial weeds are scattered, spot treatment is suggested to minimize the extent of crop injury.']
+['Preharvest application', '1 pint', 'Apply using air or ground equipment to control weeds that could interfere with harvest, or to suppress perennial weeds. Apply when grain is in dough stage. Do not apply from early boot through the milk stage of growth.']
+Table extracted to localhost:5151/EmbedExtraLabel_5_table_1.png
+<TABLE EXTRACT />
+*Apply when weeds are small and actively growing. Use a lower rate in the rate range for small rapidly growing annual or biennial weeds. Use the
+higher rate for perennial weeds or annual or biennial weeds are present which are in the hard-to-kill categories as determined by local experience.
+<BOLD (PAGE NUMBER = 6)>Precautions:</BOLD>
+Up to 2 1/2 pints per acre may be applied postemergence to barley, millet, rye and wheat. However, there is greater risk of crop injury at rates greater
+than 1 1/3 pints per acre. Use such rates only when the need for weed control justifies additional risk to the crop.
+For ground application, a minimum of 10 to 15 gallons per acre of water is required
+<BOLD (PAGE NUMBER = 6)>Restrictions for Use on Cereal Grains</BOLD>
+Limited to one application for each of the crop stages.
+Do not apply more than a total of 3.6 pints of Embed Extra (1.75 lb ae) per acre per use season.
+Maximum single postemergence application rate is 2.6 pints of Embed Extra (1.25 lb ae) per acre.
+Preharvest Interval (PHI): Do not apply within 14 days of grain harvest.
+Do not feed treated straw to livestock if an emergency treatment as described above is applied.
+Do not apply Embed Extra at the crop seedling stage of growth prior to tillering or from early boot (forming joints in the stem) through milk stage of
+grain development. Consult state agricultural experiment station or extension service weed specialists for recommendations or suggestions to fit
+local conditions.
+Do not use on Teff in California.
+<HEADING (PAGE NUMBER = 6)>Cranberries< HEADING />
+<TABLE EXTRACT (TABLE NUMBER = 2, PAGE NUMBER = 6)>
+['CROP STAGE', 'MAXIMUM APPLICATION RATE / ACRE', 'DIRECTIONS /TIMING']
+['Postemergence', '2.5 pints', 'Make directed wipe or spot applications when weed tops are above crop.']
+Table extracted to localhost:5151/EmbedExtraLabel_5_table_2.png
+<TABLE EXTRACT />
+<BOLD (PAGE NUMBER = 6)>Restrictions for Use in Cranberries</BOLD>
+Preharvest Interval (PHI): Do not harvest within 30 days of application.
+Postemergence: Do not exceed two postemergence applications per year.
+Do not exceed 2.5 pints (1.2 lb ae) per acre per application.
+Max annual rate: 5 pints (2.4 lbs ae) per acre per year in the growing season.
+<HEADING (PAGE NUMBER = 6)>Fallowland and Crop Stubble< HEADING />
+(Fallow land is idle land, postharvest to crops, or between crops)
+<TABLE EXTRACT (TABLE NUMBER = 3, PAGE NUMBER = 6)>
+['APPLICATION TIMING', 'AMOUNT OF EMBED EXTRA PER ACRE', 'DIRECTIONS']
+['Annual broadleaf weeds', '1 to 2 pints', 'Use a lower rate in the rate range when weeds are small (2 to 3 inches tall) and actively growing. Use a higher in the rate range when weeds are larger and under less favorable growth conditions']
+['Biennial broadleaf weeds', '2 to 4 pints', 'Apply when musk thistles or other biennial species are in the seedling to rosette stage and before development of flower stalks The lower rate in the rate range can be used in the spring during the rosette stage. Use the highest rate in the rate range in the fall or after flower stalks have developed.']
+['Perennial broadleaf weeds', '2 to 4 pints', 'Apply when perennial weeds are in bud to early bloom stage or while in good vegetative growth.']
+['Wild garlic and onion in crop stubble', '4 pints', 'Apply to new regrowth of wild garlic or onion that occurs in the fall after harvest of small grains, corn or grain sorghum.']
+Table extracted to localhost:5151/EmbedExtraLabel_5_table_3.png
+<TABLE EXTRACT />
+<HEADING (PAGE NUMBER = 6)>Specimen Label Revised 01-04-24< HEADING />
+6
+<BOLD (PAGE NUMBER = 7)>Precaution:</BOLD>
+For best weed control results, do not cultivate for at least two weeks after application or until top growth is dead.
+<BOLD (PAGE NUMBER = 7)>Restrictions for Use in Fallowland and Crop Stubble</BOLD>
+PHI: Do not cut forage for hay within 7 days of application.
+Maximum single application rate is 4.0 pints of Embed Extra (2 lb ae) per acre.
+Do not apply more than two times per year.
+Maximum of 8 pints of Embed Extra (4 lbs ae) per acre per year.
+Do not apply within 30 days of previous application.
+Plant only labeled crops within 29 days following application.
+<BOLD (PAGE NUMBER = 7)>Planting in Treated Areas</BOLD>
+Labeled Crops: Within 29 days following an application of this product, plant only those crops named as use sites on this or other registered 2,4-D
+labels. Follow more specific limitations, if any, provided in the directions for individual crops. Labeled crops may be at risk for crop injury or loss when
+planted soon after application, especially in the first 14 days. Degradation factors described below should be considered in weighing this risk.
+Other Crops: All other crops may be planted 30 or more days following an application without concern for illegal residues in the planted crop.
+However, under certain conditions, there may be a risk of injury to susceptible crops. Degradation factors described below should be considered in
+weighing this risk. Under normal conditions, any crop may be planted without risk of injury if at least 90 days of soil temperatures above freezing have
+elapsed since application.
+Degradation Factors: When planting into treated areas, the risk of crop injury is less if lower rates of product were applied and conditions following
+application have included warm, moist soil conditions that favor rapid degradation of 2,4-D. Risk is greater if higher rates of product were applied and
+soil temperatures have been cold and/or soils have been excessively wet or dry in the days following application.
+<HEADING (PAGE NUMBER = 7)>Filberts (Orchard Floor)< HEADING />
+<TABLE EXTRACT (TABLE NUMBER = 1, PAGE NUMBER = 7)>
+['APPLICATION TIMING', 'AMOUNT OF EMBED EXTRA PER ACRE', 'DIRECTIONS']
+['Postemergence Annual and biennial broadleaf weeds', '2.1 pints', 'Apply a maximum of 2.1 pints (1.0 lb ae) in 100 gallons of spray solution per acre for spot treatments only. For control of suckers, spray to wet leaves and stems of suckers that are 6 to 8 inches in height during April through August.']
+Table extracted to localhost:5151/EmbedExtraLabel_6_table_1.png
+<TABLE EXTRACT />
+<BOLD (PAGE NUMBER = 7)>Restrictions for Use in Filberts</BOLD>
+Preharvest Interval (PHI): Do not harvest nuts within 45 days of application.
+Allow at least 30 days between applications.
+Ground spot treatment only.
+Do not make more than 4 applications per year.
+Do not apply to bare ground as injury may result.
+Do not use on light sandy soil.
+Do not apply immediately before irrigation and withhold irrigation for 2 days before and for 3 days after treatment.
+Do not allow spray to drift onto or contact foliage, fruit, stems, trunks of trees or exposed roots as injury may result.
+Do not apply to newly established or young orchards. Trees must be at least 1 year old and in vigorous condition.
+Do not apply during bloom.
+Do not graze or feed cover crops from treated orchards.
+Do not cut orchard floor forage for hay within 7 days of application.
+<HEADING (PAGE NUMBER = 7)>Grasses (Turf) for Seed or Sod< HEADING />
+<TABLE EXTRACT (TABLE NUMBER = 2, PAGE NUMBER = 7)>
+['APPLICATION TIMING', 'AMOUNT OF EMBED EXTRA PER ACRE', 'DIRECTIONS']
+['Grasses Grown for Seed Postemergence use Seedling grass (five-leaf stage or later)', '3/4 to 1 pint', 'Apply when weeds are small and actively growing. For best results, apply when soil moisture is adequate for active weed growth. Do not apply to newly seeded grasses until well established (five-leaf stage or later) and then use a maximum of 1 pint per acre. Cool season turfgrass is tolerant']
+['Well established', '1 to 4 pints', 'of higher rates. Do not apply to turfgrass in the early boot through milk if seed']
+['Sod Farms Postemergence use', '1/2 to 4 pints', 'stage production is desired. When turfgrass is well established, higher rates of up to 4 pints per acre may be applied for control of hard to kill annual or perennial weeds.']
+Table extracted to localhost:5151/EmbedExtraLabel_6_table_2.png
+<TABLE EXTRACT />
+<BOLD (PAGE NUMBER = 7)>Restrictions for Use in Grass Grown for Seed and Sod</BOLD>
+Do not apply more than 2 broadcast applications per year per treatment site.
+Do not make a postemergence application within 21 days after a previous application.
+Maximum of 4 pints of Embed Extra (2 lbs ae) per acre per application.
+Maximum of 8 pints of Embed Extra (4.0 lbs ae) per acre per year.
+Minimum of 21 days between applications.
+Do not cut forage for hay within 7 days of application.
+Do not use on newly seeded area of grass.
+Do not use on creeping grasses except as a spot treatment.
+Do not use on susceptible southern grasses such as St. Augustine.
+Reseeding: Delay reseeding at least 30 days following application. Preferably, with spring application, reseed in the fall and, with fall application,
+reseed in the spring.
+Do not use on dichondra or other herbaceous groundcovers. Legumes may be damaged or killed.
+<HEADING (PAGE NUMBER = 7)>Strawberries (Established Planting Only)< HEADING />
+<BOLD (PAGE NUMBER = 7)>DO NOT USE IN CALIFORNIA OR FLORIDA</BOLD>
+<TABLE EXTRACT (TABLE NUMBER = 3, PAGE NUMBER = 7)>
+['CROP / APPLICATION TIMING', 'AMOUNT OF EMBED EXTRA PER ACRE', 'DIRECTIONS']
+['Postemergence', '2 3 pints', 'Apply to established plantings when strawberries have gone into dormancy or soon after the last picking. Apply in 25 - 50 gallons of water per acre.']
+Table extracted to localhost:5151/EmbedExtraLabel_6_table_3.png
+<TABLE EXTRACT />
+<HEADING (PAGE NUMBER = 7)>Specimen Label Revised 01-04-24< HEADING />
+7
+<BOLD (PAGE NUMBER = 8)>Restrictions for Use in Strawberries</BOLD>
+Apply only in established strawberry plantings.
+Apply in early spring when strawberries are dormant or immediately after the last picking.
+Limited to one application per year.
+Maximum use rate of 3 pints (1.5 lb ae) per acre per application.
+Sugarcane {['TITLE EXTRACT']}
+<BOLD (PAGE NUMBER = 8)>Do Not Use in California</BOLD>
+<TABLE EXTRACT (TABLE NUMBER = 1, PAGE NUMBER = 8)>
+['APPLICATION TIMING', 'AMOUNT OF EMBED EXTRA PER ACRE', 'DIRECTIONS']
+['Preemergence', '4 pints', 'Apply before canes appear for control of emerged broadleaf weeds.']
+['Postemergence', '1 1/2 to 4 pints', 'Apply after cane emerges and through lay-by.']
+Table extracted to localhost:5151/EmbedExtraLabel_7_table_1.png
+<TABLE EXTRACT />
+<BOLD (PAGE NUMBER = 8)>Restrictions for Use in Sugarcane</BOLD>
+Max annual rate: Apply no more than 8.0 pints (4.0 lbs ae) per acre per year.
+Do not harvest cane prior to crop maturity.
+Limited to one application per year for each of the crop stages.
+<HEADING (PAGE NUMBER = 8)>Terms and Conditions of Use< HEADING />
+If terms of the following Warranty Disclaimer, Inherent Risks of Use, and
+Limitation of Remedies are not acceptable, return unopened package at
+once to the seller for a full refund of purchase price paid. Otherwise, to
+the extent permitted by law, use by the buyer or any other user constitutes
+acceptance of the terms under Warranty Disclaimer, Inherent Risks of
+<HEADING (PAGE NUMBER = 8)>Use and Limitations of Remedies.< HEADING />
+<HEADING (PAGE NUMBER = 8)>Warranty Disclaimer< HEADING />
+Corteva Agriscience warrants that this product conforms to the
+chemical description on the label and is reasonably fit for the
+purposes stated on the label when used in strict accordance with the
+directions, subject to the inherent risks set forth below. To the extent
+permitted by law, Corteva Agriscience MAKES NO OTHER EXPRESS
+OR IMPLIED WARRANTY OF MERCHANTABILITY OR FITNESS
+FOR A PARTICULAR PURPOSE OR ANY OTHER EXPRESS OR
+IMPLIED WARRANTY.
+<HEADING (PAGE NUMBER = 8)>Inherent Risks of Use< HEADING />
+It is impossible to eliminate all risks associated with use of this product.
+Crop injury, lack of performance, or other unintended consequences
+may result because of such factors as use of the product contrary to
+label instructions (including conditions noted on the label, such as
+unfavorable temperatures, soil conditions, etc.), abnormal conditions
+(such as excessive rainfall, drought, tornadoes, hurricanes), presence of
+other materials, the manner of application, or other factors, all of which
+are beyond the control of Corteva Agriscience or the seller. To the extent
+permitted by law, all such risks shall be assumed by buyer.
+Limitation of Remedies
+To the extent permitted by law, the exclusive remedy for losses or
+damages resulting from this product (including claims based on contract,
+negligence, strict liability, or other legal theories), shall be limited to, at
+Corteva Agriscience's election, one of the following:
+1. Refund of purchase price paid by buyer or user for product bought, or
+2. Replacement of amount of product used.
+To the extent permitted by law, Corteva Agriscience shall not be liable for
+losses or damages resulting from handling or use of this product unless
+Corteva Agriscience is promptly notified of such loss or damage in writing.
+To the extent permitted by law, in no case shall Corteva Agriscience be
+liable for consequential or incidental damages or losses.
+The terms of the Warranty Disclaimer, Inherent Risks of Use and Limitation
+of Remedies cannot be varied by any written or verbal statements or
+agreements. No employee or sales agent of Corteva Agriscience or the
+seller is authorized to vary or exceed the terms of the Warranty Disclaimer
+or Limitation of Remedies in any manner.
+TMR Trademarks of Corteva Agriscience and its affiliated companies
+<BOLD (PAGE NUMBER = 8)>Produced for</BOLD>
+<BOLD (PAGE NUMBER = 8)>Corteva Agriscience LLC</BOLD>
+<BOLD (PAGE NUMBER = 8)>9330 Zionsville Road</BOLD>
+<BOLD (PAGE NUMBER = 8)>Indianapolis, IN 46268</BOLD>
+Label Code: CD02-436-022
+Replaced Label: CD02-436-020
+EPA accepted 01/25/18
+<HEADING (PAGE NUMBER = 8)>Revisions:< HEADING />
+1. Removed the Aquatic Weed Control Section from Environmental
+Hazards due to no aquatic uses being on the marketed label.
+2. Correct the restriction header under the "Apples, Pears, Stone Fruit
+and Nut Orchards (Except Filberts) (Orchard Floor)" to match the main
+header for this section.
+3. Related to change of company name, address, and contact information
+for company 62719 accepted by EPA January 5, 2021, the following
+additional changes have been made:
+Trademark statement: Updated to TM©Trademarks of
+Corteva Agriscience and its affiliated companies
+Produced For: Updated company name to "Corteva Agriscience LLC
+Terms and Conditions for Use: Updated
+Warranty Disclaimer: Updated
+Inherent Risks of Use: Updated
+Limitation of Remedies: Updated
+4. Throughout label: Updated references to "Dow AgroSciences" to either
+"company" or "Corteva Agriscience"
+8
+<HEADING (PAGE NUMBER = 8)>Specimen Label Revised 01-04-24< HEADING />
